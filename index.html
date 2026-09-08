@@ -1,0 +1,187 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ari's NBA Cards v6</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#eef1f5;color:#111;font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+header{background:#fff;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:2}
+h1{font-size:20px;margin:0}button{border:0;border-radius:12px;padding:11px 14px;font-size:16px;font-weight:700;background:#fff;box-shadow:0 1px 5px #0002}
+#tabs{display:flex;gap:7px;overflow-x:auto;padding:10px 12px;background:#f7f8fa}#tabs button.active{background:#111;color:#fff}
+main{max-width:620px;margin:auto;padding:8px 14px 30px}
+.card{background:#fff;border-radius:24px;overflow:hidden;box-shadow:0 5px 20px #0002;min-height:66vh;display:flex;flex-direction:column}
+.photo{width:100%;height:38vh;object-fit:cover;background:linear-gradient(135deg,#182848,#4b6cb7);display:block}
+.photo.missing{display:flex;align-items:center;justify-content:center;color:#fff;font-size:70px}
+.body{padding:20px 20px 22px;text-align:center}.rank{font-size:13px;color:#707780;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
+.name{font-size:36px;line-height:1.05;font-weight:900;margin:8px 0}.team{font-size:20px;font-weight:700}
+.number{font-size:16px;color:#555;margin-top:3px}.facts{margin:14px 0;font-size:16px;line-height:1.55;color:#333}
+.trophies{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin:13px 0}.award{background:#f4f5f7;border-radius:14px;padding:7px 10px;min-width:90px}
+.trophy{font-size:26px;display:block;line-height:1}.award b{font-size:14px;display:block;margin-top:3px}
+.actions{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:12px 0}.controls{display:flex;justify-content:center;gap:8px;margin:10px 0}
+.good{background:#16833b;color:#fff}.bad{background:#c62828;color:#fff}.blue{background:#2461e5;color:#fff}
+#status{text-align:center;color:#666;font-weight:700;min-height:24px}#score{font-size:17px}
+.hidden{display:none!important}.hint{font-size:14px;color:#777}
+#debugPanel{position:fixed;bottom:8px;left:8px;right:8px;max-width:600px;margin:auto;background:#111;color:#0f0;font:12px/1.5 monospace;padding:10px 12px;border-radius:10px;z-index:9;opacity:.92;max-height:40vh;overflow:auto}
+#debugPanel b{color:#fff}
+</style></head><body>
+<header><h1>🏀 Ari's NBA Cards</h1><div id="score">🔥 0</div></header>
+<div id="tabs"></div><main>
+<div class="card">
+<div id="photo" class="photo missing">🏀</div>
+<div class="body"><div id="rank" class="rank"></div><div id="name" class="name"></div><div id="team" class="team"></div><div id="number" class="number"></div>
+<div id="facts" class="facts"></div><div id="trophies" class="trophies"></div>
+<div id="draft" class="facts"></div></div></div>
+<div class="controls"><button id="prev">←</button><button id="reveal" class="blue">Reveal</button><button id="next">→</button></div>
+<div class="actions"><button id="wrong" class="bad">✗ Didn't know</button><button id="right" class="good">✓ Got it!</button></div>
+<div id="status"></div><div class="actions"><button id="learn">Learn</button><button id="guess">Guess</button><button id="shuffle">🔀 Shuffle</button></div>
+</main>
+<script>
+// ---------------------------------------------------------------------------
+// Data: players.json is the single canonical source of truth. This file no
+// longer embeds a second manually-maintained copy of the 200 player records.
+// ---------------------------------------------------------------------------
+let DATA=[];
+let deck=[],index=0,revealed=false,mode='learn',streak=Number(localStorage.getItem('ariStreak')||0);
+const $=id=>document.getElementById(id);
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+
+function render(){
+ const p=deck[index]; if(!p)return;
+ const retired = p.status==='retired';
+ $('rank').textContent=p.category+(p.rank?' · #'+p.rank:'');
+ $('name').textContent=(mode==='learn'||revealed)?p.name:'Who is this?';
+ $('team').textContent=retired?'Retired':(p.teamName||'');
+ const posTxt=p.position?p.position:'';
+ // Jersey numbers are stored as strings (e.g. "00") so leading zeroes survive.
+ // Retired players never show a "current" jersey number alongside "Retired".
+ const numTxt=(!retired && p.number!==null && p.number!==undefined && p.number!=='')
+   ? '#'+String(p.number) : '';
+ $('number').textContent=[posTxt,numTxt].filter(Boolean).join(' · ');
+ $('facts').innerHTML=revealed?`Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`: '';
+ $('draft').innerHTML=revealed?`Drafted ${p.draftYear??'—'} · #${p.draftPick??'—'} · ${esc(p.draftedBy??'—')}`:'';
+ const a=p.awards||{}; let t='';
+ if(a.mvp)t+=`<div class="award"><span class="trophy">🏆</span><b>${a.mvp}× MVP</b></div>`;
+ if(a.championships)t+=`<div class="award"><span class="trophy">🏆</span><b>${a.championships}× Champion</b></div>`;
+ if(a.finalsMvp)t+=`<div class="award"><span class="trophy">🏆</span><b>${a.finalsMvp}× Finals MVP</b></div>`;
+ $('trophies').innerHTML=t;
+ $('status').textContent=(index+1)+' / '+deck.length;
+ $('score').textContent='🔥 '+streak;
+ loadPhoto(p);
+}
+
+function loadPhoto(p){
+ // Prefer bundled local assets. If unavailable, use the existing network fallback.
+ const box=$('photo'); box.className='photo missing'; box.textContent='🏀';
+ try{
+   if(!p || !p.name) return;
+   const useImage=(src)=>{
+     if(!src) return;
+     const img=new Image();
+     img.style.width='100%'; img.style.height='100%'; img.style.objectFit='cover';
+     img.alt='';
+     img.onerror=()=>{ box.className='photo missing'; box.textContent='🏀'; };
+     img.onload=()=>{ box.className='photo'; };
+     img.src=src;
+     box.innerHTML=''; box.appendChild(img);
+   };
+   const local=p.image && p.image.file ? p.image.file : '';
+   if(local){
+     const probe=new Image();
+     probe.onload=()=>useImage(local);
+     probe.onerror=()=>{
+       const q='https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(p.name);
+       fetch(q).then(r=>r.ok?r.json():Promise.reject()).then(x=>useImage(x && x.thumbnail && x.thumbnail.source)).catch(()=>{});
+     };
+     probe.src=local;
+   }else{
+     const q='https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(p.name);
+     fetch(q).then(r=>r.ok?r.json():Promise.reject()).then(x=>useImage(x && x.thumbnail && x.thumbnail.source)).catch(()=>{});
+   }
+ }catch(e){}
+}
+
+function move(n){ if(!deck.length) return; index=(index+n+deck.length)%deck.length;revealed=false;render()}
+function answer(ok){streak=ok?streak+1:0;localStorage.setItem('ariStreak',streak);move(1)}
+$('prev').onclick=()=>move(-1);$('next').onclick=()=>move(1);$('reveal').onclick=()=>{revealed=!revealed;render()};
+$('right').onclick=()=>answer(true);$('wrong').onclick=()=>answer(false);
+$('shuffle').onclick=()=>{deck=[...DATA].sort(()=>Math.random()-0.5);index=0;revealed=false;render()};
+$('learn').onclick=()=>{mode='learn';$('learn').className='blue';$('guess').className='';revealed=false;render()};
+$('guess').onclick=()=>{mode='guess';$('guess').className='blue';$('learn').className='';revealed=false;render()};
+
+function initTabs(){
+ $('tabs').innerHTML='';
+ [['All','All 200'],['Top 150','Top 150'],['All-Time','All-Time 50']].forEach(([v,t],i)=>{
+  const b=document.createElement('button');b.textContent=t;b.onclick=()=>{deck=v==='All'?[...DATA]:DATA.filter(p=>p.category===v);index=0;revealed=false;document.querySelectorAll('#tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');render()};if(i===0)b.classList.add('active');$('tabs').appendChild(b)
+ });
+}
+
+// ---------------------------------------------------------------------------
+// Optional debug/validation mode: index.html?debug=1
+// Purely diagnostic, hidden during normal use, and never affects app state.
+// ---------------------------------------------------------------------------
+function runDiagnostics(list){
+ const ALLOWED_POS = new Set(["PG","SG","SF","PF","C","PG/SG","SG/SF","SF/PF","PF/C"]);
+ const ALLOWED_CAT = new Set(["Top 150","All-Time"]);
+ let valid=0, invalidList=[];
+ const idSet=new Set(), nameSet=new Set();
+ let idDupes=0, nameDupes=0;
+ list.forEach(p=>{
+  let ok=true;
+  if(!p.id || idSet.has(p.id)){ ok=false; idDupes+= idSet.has(p.id)?1:0; } idSet.add(p.id);
+  if(!p.name || nameSet.has(p.name)){ ok=false; nameDupes+= nameSet.has(p.name)?1:0; } nameSet.add(p.name);
+  if(!ALLOWED_CAT.has(p.category)) ok=false;
+  if(!ALLOWED_POS.has(p.position)) ok=false;
+  if(typeof p.number!=='string' && p.number!==null) ok=false;
+  if(p.status!=='active' && p.status!=='retired') ok=false;
+  if(ok) valid++; else invalidList.push(p.name||'(unnamed)');
+ });
+ const imgOk = list.filter(p=>p.image && p.image.file).length;
+ return {
+  total:list.length, valid, invalidList,
+  idDupes, nameDupes,
+  imgOk, imgMissing: list.length-imgOk
+ };
+}
+
+function showDebugPanel(list, loadError){
+ const params = new URLSearchParams(location.search);
+ if(params.get('debug')!=='1') return;
+ const panel=document.createElement('div');
+ panel.id='debugPanel';
+ if(loadError){
+  panel.innerHTML = '<b>Ari\'s NBA Cards — Debug</b><br>players.json failed to load: '+esc(loadError.message||String(loadError));
+  document.body.appendChild(panel);
+  return;
+ }
+ const d = runDiagnostics(list);
+ panel.innerHTML =
+  '<b>Ari\'s NBA Cards — Debug</b><br>' +
+  'Players loaded: '+d.total+'<br>' +
+  'Valid records: '+d.valid+' / '+d.total+
+    (d.invalidList.length? ' (invalid: '+esc(d.invalidList.slice(0,10).join(', '))+(d.invalidList.length>10?'…':'')+')':'') + '<br>' +
+  'Duplicate ids: '+d.idDupes+' · Duplicate names: '+d.nameDupes+'<br>' +
+  'Image manifest: '+(d.imgMissing===0?'OK':(d.imgMissing+' missing file entries'))+' ('+d.imgOk+'/'+d.total+')';
+ document.body.appendChild(panel);
+}
+
+// ---------------------------------------------------------------------------
+// Boot: load the canonical data file, then initialise the app.
+// The app must never leave the page in a broken/blank state if this fails.
+// ---------------------------------------------------------------------------
+function boot(){
+ fetch('players.json').then(r=>{
+   if(!r.ok) throw new Error('HTTP '+r.status);
+   return r.json();
+ }).then(json=>{
+   DATA = json;
+   deck = [...DATA];
+   initTabs();
+   render();
+   showDebugPanel(DATA, null);
+ }).catch(err=>{
+   $('status').textContent = 'Could not load player data (players.json).';
+   $('name').textContent = 'Load error';
+   console.error('Failed to load players.json:', err);
+   showDebugPanel([], err);
+ });
+}
+boot();
+</script></body></html>
