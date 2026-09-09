@@ -50,7 +50,7 @@ jobs:
       - name: Validate player data
         run: |
           if [ -f "validate.py" ]; then
-            python validate.py
+            python validate.py players.json
           else
             echo "::warning::validate.py not found."
           fi
