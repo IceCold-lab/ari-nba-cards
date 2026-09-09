@@ -19,11 +19,37 @@ UA = 'Ari-NBA-Cards/1.0 (+GitHub Actions image builder)'
 
 
 def download(url: str, path: Path) -> None:
-    req = Request(url, headers={'User-Agent': UA})
-    with urlopen(req, timeout=40) as r:
-        data = r.read()
-    path.write_bytes(data)
+    import time
 
+    max_attempts = 5
+
+    for attempt in range(max_attempts):
+        req = Request(url, headers={'User-Agent': UA})
+
+        try:
+            with urlopen(req, timeout=40) as r:
+                data = r.read()
+            path.write_bytes(data)
+            return
+
+        except HTTPError as e:
+            if e.code not in (429, 503):
+                raise
+
+            retry_after = e.headers.get('Retry-After')
+
+            if retry_after:
+                try:
+                    wait = max(5, int(retry_after))
+                except ValueError:
+                    wait = 10
+            else:
+                wait = min(60, 5 * (2 ** attempt))
+
+            print(f'  Wikimedia rate limit ({e.code}); waiting {wait}s...')
+            time.sleep(wait)
+
+    raise RuntimeError('Wikimedia remained rate-limited after 5 attempts')
 
 def process(src: Path, dest: Path) -> tuple[int, int]:
     with Image.open(src) as im:
