@@ -3,7 +3,7 @@
 import json, sys
 from pathlib import Path
 from PIL import Image
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 data = json.loads((ROOT/'image-manifest.json').read_text(encoding='utf-8'))
 required = [p for p in data['players'] if p.get('required')]
 missing=[]; bad=[]
