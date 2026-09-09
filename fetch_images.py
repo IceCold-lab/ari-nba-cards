@@ -11,7 +11,7 @@ from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 from PIL import Image, ImageOps
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 MANIFEST = ROOT / 'image-manifest.json'
 OUT = ROOT / 'images'
 MAX_W, MAX_H = 1400, 1800
