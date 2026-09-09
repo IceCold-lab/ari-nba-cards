@@ -1,1 +1,4944 @@
-[{"id": "nikola-jokic", "name": "Nikola Jokić", "abbr": "DEN", "rank": 1, "category": "Top 150", "status": "active", "position": "C", "draftYear": 2014, "draftedBy": "Denver Nuggets", "number": "15", "age": 31, "seasons": 12, "awards": {"mvp": 3, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/nikola-jokic.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Denver Nuggets"}, {"id": "victor-wembanyama", "name": "Victor Wembanyama", "abbr": "SAS", "rank": 2, "category": "Top 150", "status": "active", "position": "C", "draftYear": 2023, "draftedBy": "San Antonio Spurs", "number": "1", "age": 22, "seasons": 3, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/victor-wembanyama.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "San Antonio Spurs"}, {"id": "shai-gilgeous-alexander", "name": "Shai Gilgeous-Alexander", "abbr": "OKC", "rank": 3, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2018, "draftedBy": "Charlotte Hornets", "number": "2", "age": 28, "seasons": 8, "awards": {"mvp": 2, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/shai-gilgeous-alexander.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Oklahoma City Thunder"}, {"id": "luka-doncic", "name": "Luka Dončić", "abbr": "LAL", "rank": 4, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2018, "draftedBy": "Atlanta Hawks", "number": "77", "age": 27, "seasons": 8, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/luka-doncic.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Los Angeles Lakers"}, {"id": "cade-cunningham", "name": "Cade Cunningham", "abbr": "DET", "rank": 5, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2021, "draftedBy": "Detroit Pistons", "number": "2", "age": 24, "seasons": 5, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cade-cunningham.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Detroit Pistons"}, {"id": "jayson-tatum", "name": "Jayson Tatum", "abbr": "BOS", "rank": 6, "category": "Top 150", "status": "active", "position": "SF", "draftYear": 2017, "draftedBy": "Boston Celtics", "number": "0", "age": 28, "seasons": 9, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jayson-tatum.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Boston Celtics"}, {"id": "giannis-antetokounmpo", "name": "Giannis Antetokounmpo", "abbr": "MIA", "rank": 7, "category": "Top 150", "status": "active", "position": "PF", "draftYear": 2013, "draftedBy": "Milwaukee Bucks", "number": "34", "age": 31, "seasons": 13, "awards": {"mvp": 2, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/giannis-antetokounmpo.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Miami Heat"}, {"id": "jalen-johnson", "name": "Jalen Johnson", "abbr": "ATL", "rank": 8, "category": "Top 150", "status": "active", "position": "SF/PF", "draftYear": 2021, "draftedBy": "Atlanta Hawks", "number": "1", "age": 23, "seasons": 5, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jalen-johnson.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Atlanta Hawks"}, {"id": "anthony-edwards", "name": "Anthony Edwards", "abbr": "MIN", "rank": 9, "category": "Top 150", "status": "active", "position": "SG", "draftYear": 2020, "draftedBy": "Minnesota Timberwolves", "number": "5", "age": 25, "seasons": 6, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/anthony-edwards.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Minnesota Timberwolves"}, {"id": "tyrese-maxey", "name": "Tyrese Maxey", "abbr": "PHI", "rank": 10, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2020, "draftedBy": "Philadelphia 76ers", "number": "0", "age": 25, "seasons": 6, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/tyrese-maxey.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Philadelphia 76ers"}, {"id": "tyrese-haliburton", "name": "Tyrese Haliburton", "abbr": "IND", "rank": 11, "category": "Top 150", "status": "active", "position": "PG", "number": "0", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/tyrese-haliburton.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Indiana Pacers"}, {"id": "cooper-flagg", "name": "Cooper Flagg", "abbr": "DAL", "rank": 12, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "32", "age": 19, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cooper-flagg.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Dallas Mavericks"}, {"id": "scottie-barnes", "name": "Scottie Barnes", "abbr": "TOR", "rank": 13, "category": "Top 150", "status": "active", "position": "SF/PF", "draftYear": 2021, "draftedBy": "Toronto Raptors", "number": "4", "age": 25, "seasons": 5, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/scottie-barnes.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Toronto Raptors"}, {"id": "donovan-mitchell", "name": "Donovan Mitchell", "abbr": "CLE", "rank": 14, "category": "Top 150", "status": "active", "position": "SG", "draftYear": 2017, "draftedBy": "Denver Nuggets", "number": "45", "age": 29, "seasons": 9, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/donovan-mitchell.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Cleveland Cavaliers"}, {"id": "kevin-durant", "name": "Kevin Durant", "abbr": "HOU", "rank": 15, "category": "Top 150", "status": "active", "position": "SF", "draftYear": 2007, "draftedBy": "Seattle SuperSonics", "number": "7", "age": 37, "seasons": 19, "awards": {"mvp": 1, "championships": 2, "finalsMvp": 2}, "image": {"file": "images/kevin-durant.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Houston Rockets"}, {"id": "stephen-curry", "name": "Stephen Curry", "abbr": "GSW", "rank": 16, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2009, "draftedBy": "Golden State Warriors", "number": "30", "age": 38, "seasons": 17, "awards": {"mvp": 2, "championships": 4, "finalsMvp": 1}, "image": {"file": "images/stephen-curry.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Golden State Warriors"}, {"id": "karl-anthony-towns", "name": "Karl-Anthony Towns", "abbr": "NYK", "rank": 17, "category": "Top 150", "status": "active", "position": "PF/C", "draftYear": 2015, "draftedBy": "Minnesota Timberwolves", "number": "32", "age": 30, "seasons": 11, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/karl-anthony-towns.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "New York Knicks"}, {"id": "trae-young", "name": "Trae Young", "abbr": "WAS", "rank": 18, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2018, "draftedBy": "Dallas Mavericks", "number": "11", "age": 27, "seasons": 8, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/trae-young.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Washington Wizards"}, {"id": "alperen-sengun", "name": "Alperen Sengun", "abbr": "HOU", "rank": 19, "category": "Top 150", "status": "active", "position": "C", "number": "28", "age": 24, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/alperen-sengun.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Houston Rockets"}, {"id": "austin-reaves", "name": "Austin Reaves", "abbr": "LAL", "rank": 20, "category": "Top 150", "status": "active", "position": "SG", "number": "15", "age": 28, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/austin-reaves.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Los Angeles Lakers"}, {"id": "james-harden", "name": "James Harden", "abbr": "CLE", "rank": 21, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2009, "draftedBy": "Oklahoma City Thunder", "number": "13", "age": 37, "seasons": 17, "awards": {"mvp": 1, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/james-harden.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Cleveland Cavaliers"}, {"id": "chet-holmgren", "name": "Chet Holmgren", "abbr": "OKC", "rank": 22, "category": "Top 150", "status": "active", "position": "PF/C", "number": "7", "age": 24, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/chet-holmgren.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Oklahoma City Thunder"}, {"id": "lamelo-ball", "name": "LaMelo Ball", "abbr": "MIN", "rank": 23, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2020, "draftedBy": "Charlotte Hornets", "number": "1", "age": 25, "seasons": 6, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/lamelo-ball.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Minnesota Timberwolves"}, {"id": "amen-thompson", "name": "Amen Thompson", "abbr": "HOU", "rank": 24, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "1", "age": 23, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/amen-thompson.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Houston Rockets"}, {"id": "josh-giddey", "name": "Josh Giddey", "abbr": "CHI", "rank": 25, "category": "Top 150", "status": "active", "position": "PG", "number": "3", "age": 23, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/josh-giddey.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Chicago Bulls"}, {"id": "jamal-murray", "name": "Jamal Murray", "abbr": "DEN", "rank": 26, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2016, "draftedBy": "Denver Nuggets", "number": "27", "age": 29, "seasons": 10, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jamal-murray.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Denver Nuggets"}, {"id": "anthony-davis", "name": "Anthony Davis", "abbr": "WAS", "rank": 27, "category": "Top 150", "status": "active", "position": "PF/C", "draftYear": 2012, "draftedBy": "New Orleans Hornets", "number": "23", "age": 33, "seasons": 14, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/anthony-davis.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Washington Wizards"}, {"id": "devin-booker", "name": "Devin Booker", "abbr": "PHX", "rank": 28, "category": "Top 150", "status": "active", "position": "SG", "draftYear": 2015, "draftedBy": "Phoenix Suns", "number": "1", "age": 29, "seasons": 11, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/devin-booker.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Phoenix Suns"}, {"id": "trey-murphy-iii", "name": "Trey Murphy III", "abbr": "NOP", "rank": 29, "category": "Top 150", "status": "active", "position": "SF", "number": "25", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/trey-murphy-iii.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New Orleans Pelicans"}, {"id": "evan-mobley", "name": "Evan Mobley", "abbr": "CLE", "rank": 30, "category": "Top 150", "status": "active", "position": "PF/C", "number": "4", "age": 25, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/evan-mobley.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Cleveland Cavaliers"}, {"id": "jalen-brunson", "name": "Jalen Brunson", "abbr": "NYK", "rank": 31, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2018, "draftedBy": "Dallas Mavericks", "number": "11", "age": 30, "seasons": 8, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jalen-brunson.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "New York Knicks"}, {"id": "domantas-sabonis", "name": "Domantas Sabonis", "abbr": "SAC", "rank": 32, "category": "Top 150", "status": "active", "position": "C", "draftYear": 2016, "draftedBy": "Orlando Magic", "number": "11", "age": 30, "seasons": 10, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/domantas-sabonis.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Sacramento Kings"}, {"id": "lauri-markkanen", "name": "Lauri Markkanen", "abbr": "UTA", "rank": 33, "category": "Top 150", "status": "active", "position": "PF", "number": "23", "age": 29, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/lauri-markkanen.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Utah Jazz"}, {"id": "kawhi-leonard", "name": "Kawhi Leonard", "abbr": "LAC", "rank": 34, "category": "Top 150", "status": "active", "position": "SF", "draftYear": 2011, "draftedBy": "Indiana Pacers", "number": "2", "age": 35, "seasons": 15, "awards": {"mvp": 0, "championships": 2, "finalsMvp": 2}, "image": {"file": "images/kawhi-leonard.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "LA Clippers"}, {"id": "bam-adebayo", "name": "Bam Adebayo", "abbr": "MIA", "rank": 35, "category": "Top 150", "status": "active", "position": "PF/C", "draftYear": 2017, "draftedBy": "Miami Heat", "number": "13", "age": 29, "seasons": 9, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/bam-adebayo.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Miami Heat"}, {"id": "deni-avdija", "name": "Deni Avdija", "abbr": "POR", "rank": 36, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "9", "age": 25, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/deni-avdija.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Portland Trail Blazers"}, {"id": "jalen-williams", "name": "Jalen Williams", "abbr": "OKC", "rank": 37, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "8", "age": 25, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jalen-williams.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Oklahoma City Thunder"}, {"id": "brandon-miller", "name": "Brandon Miller", "abbr": "CHA", "rank": 38, "category": "Top 150", "status": "active", "position": "SF", "number": "24", "age": 23, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/brandon-miller.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Charlotte Hornets"}, {"id": "walker-kessler", "name": "Walker Kessler", "abbr": "LAL", "rank": 39, "category": "Top 150", "status": "active", "position": "C", "number": "31", "age": 25, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/walker-kessler.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Los Angeles Lakers"}, {"id": "derrick-white", "name": "Derrick White", "abbr": "BOS", "rank": 40, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "9", "age": 32, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/derrick-white.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Boston Celtics"}, {"id": "jaren-jackson-jr", "name": "Jaren Jackson Jr.", "abbr": "UTA", "rank": 41, "category": "Top 150", "status": "active", "position": "PF/C", "draftYear": 2018, "draftedBy": "Memphis Grizzlies", "number": "17", "age": 26, "seasons": 8, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jaren-jackson-jr.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Utah Jazz"}, {"id": "kon-knueppel", "name": "Kon Knueppel", "abbr": "CHA", "rank": 42, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "7", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/kon-knueppel.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Charlotte Hornets"}, {"id": "jaylen-brown", "name": "Jaylen Brown", "abbr": "PHI", "rank": 43, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "7", "age": 29, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jaylen-brown.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Philadelphia 76ers"}, {"id": "jalen-duren", "name": "Jalen Duren", "abbr": "DET", "rank": 44, "category": "Top 150", "status": "active", "position": "C", "number": "0", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jalen-duren.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Detroit Pistons"}, {"id": "keyonte-george", "name": "Keyonte George", "abbr": "UTA", "rank": 45, "category": "Top 150", "status": "active", "position": "PG", "number": "3", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/keyonte-george.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Utah Jazz"}, {"id": "nickeil-alexander-walker", "name": "Nickeil Alexander-Walker", "abbr": "ATL", "rank": 46, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "7", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/nickeil-alexander-walker.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Atlanta Hawks"}, {"id": "darius-garland", "name": "Darius Garland", "abbr": "LAC", "rank": 47, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2019, "draftedBy": "Cleveland Cavaliers", "number": "10", "age": 19, "seasons": 7, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/darius-garland.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "LA Clippers"}, {"id": "kyrie-irving", "name": "Kyrie Irving", "abbr": "DAL", "rank": 48, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2011, "draftedBy": "Cleveland Cavaliers", "number": "11", "age": 34, "seasons": 15, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/kyrie-irving.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Dallas Mavericks"}, {"id": "paolo-banchero", "name": "Paolo Banchero", "abbr": "ORL", "rank": 49, "category": "Top 150", "status": "active", "position": "SF/PF", "draftYear": 2022, "draftedBy": "Orlando Magic", "number": "5", "age": 23, "seasons": 4, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/paolo-banchero.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Orlando Magic"}, {"id": "desmond-bane", "name": "Desmond Bane", "abbr": "ORL", "rank": 50, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "1", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/desmond-bane.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Orlando Magic"}, {"id": "onyeka-okongwu", "name": "Onyeka Okongwu", "abbr": "ATL", "rank": 51, "category": "Top 150", "status": "active", "position": "PF/C", "number": "17", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/onyeka-okongwu.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Atlanta Hawks"}, {"id": "lebron-james", "name": "LeBron James", "abbr": "PHI", "rank": 52, "category": "Top 150", "status": "active", "position": "SF", "draftYear": 2003, "draftedBy": "Cleveland Cavaliers", "number": "23", "age": 41, "seasons": 23, "awards": {"mvp": 4, "championships": 4, "finalsMvp": 4}, "image": {"file": "images/lebron-james.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Philadelphia 76ers"}, {"id": "donovan-clingan", "name": "Donovan Clingan", "abbr": "POR", "rank": 53, "category": "Top 150", "status": "active", "position": "C", "number": "23", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/donovan-clingan.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Portland Trail Blazers"}, {"id": "tyler-herro", "name": "Tyler Herro", "abbr": "MIL", "rank": 54, "category": "Top 150", "status": "active", "position": "SG", "number": "14", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/tyler-herro.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Milwaukee Bucks"}, {"id": "matas-buzelis", "name": "Matas Buzelis", "abbr": "CHI", "rank": 55, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "14", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/matas-buzelis.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Chicago Bulls"}, {"id": "dyson-daniels", "name": "Dyson Daniels", "abbr": "ATL", "rank": 56, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "5", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/dyson-daniels.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Atlanta Hawks"}, {"id": "franz-wagner", "name": "Franz Wagner", "abbr": "ORL", "rank": 57, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "22", "age": 25, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/franz-wagner.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Orlando Magic"}, {"id": "pascal-siakam", "name": "Pascal Siakam", "abbr": "IND", "rank": 58, "category": "Top 150", "status": "active", "position": "PF", "number": "43", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/pascal-siakam.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Indiana Pacers"}, {"id": "cameron-boozer", "name": "Cameron Boozer", "abbr": "MEM", "rank": 59, "category": "Top 150", "status": "active", "position": "PF", "draftYear": 2026, "draftPick": 3, "draftedBy": "Memphis Grizzlies", "number": "27", "age": 19, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cameron-boozer.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Memphis Grizzlies"}, {"id": "og-anunoby", "name": "OG Anunoby", "abbr": "NYK", "rank": 60, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "8", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/og-anunoby.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New York Knicks"}, {"id": "joel-embiid", "name": "Joel Embiid", "abbr": "PHI", "rank": 61, "category": "Top 150", "status": "active", "position": "C", "draftYear": 2014, "draftedBy": "Philadelphia 76ers", "number": "21", "age": 32, "seasons": 12, "awards": {"mvp": 1, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/joel-embiid.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Philadelphia 76ers"}, {"id": "dejounte-murray", "name": "Dejounte Murray", "abbr": "NOP", "rank": 62, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "5", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/dejounte-murray.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New Orleans Pelicans"}, {"id": "ryan-rollins", "name": "Ryan Rollins", "abbr": "MIL", "rank": 63, "category": "Top 150", "status": "active", "position": "PG", "number": "13", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ryan-rollins.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Milwaukee Bucks"}, {"id": "julius-randle", "name": "Julius Randle", "abbr": "BKN", "rank": 64, "category": "Top 150", "status": "active", "position": "PF", "number": "30", "age": 31, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/julius-randle.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Brooklyn Nets"}, {"id": "michael-porter-jr", "name": "Michael Porter Jr.", "abbr": "BKN", "rank": 65, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "17", "age": 28, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/michael-porter-jr.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Brooklyn Nets"}, {"id": "kel-el-ware", "name": "Kel’el Ware", "abbr": "MIL", "rank": 66, "category": "Top 150", "status": "active", "position": "C", "number": "9", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/kel-el-ware.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Milwaukee Bucks"}, {"id": "alex-sarr", "name": "Alex Sarr", "abbr": "WAS", "rank": 67, "category": "Top 150", "status": "active", "position": "PF/C", "number": "20", "age": 21, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/alex-sarr.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Washington Wizards"}, {"id": "stephon-castle", "name": "Stephon Castle", "abbr": "SAS", "rank": 68, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "5", "age": 21, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/stephon-castle.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "San Antonio Spurs"}, {"id": "zach-edey", "name": "Zach Edey", "abbr": "MEM", "rank": 69, "category": "Top 150", "status": "active", "position": "C", "number": "15", "age": 24, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/zach-edey.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Memphis Grizzlies"}, {"id": "ivica-zubac", "name": "Ivica Zubac", "abbr": "IND", "rank": 70, "category": "Top 150", "status": "active", "position": "C", "number": "40", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ivica-zubac.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Indiana Pacers"}, {"id": "de-aaron-fox", "name": "De’Aaron Fox", "abbr": "SAS", "rank": 71, "category": "Top 150", "status": "active", "position": "PG", "number": "4", "age": 28, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/de-aaron-fox.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "San Antonio Spurs"}, {"id": "naz-reid", "name": "Naz Reid", "abbr": "CHA", "rank": 72, "category": "Top 150", "status": "active", "position": "PF/C", "number": "11", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/naz-reid.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Charlotte Hornets"}, {"id": "mikal-bridges", "name": "Mikal Bridges", "abbr": "NYK", "rank": 73, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "25", "age": 30, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/mikal-bridges.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New York Knicks"}, {"id": "ja-morant", "name": "Ja Morant", "abbr": "POR", "rank": 74, "category": "Top 150", "status": "active", "position": "PG", "number": "12", "age": 27, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ja-morant.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Portland Trail Blazers"}, {"id": "jaden-mcdaniels", "name": "Jaden McDaniels", "abbr": "MIN", "rank": 75, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "3", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jaden-mcdaniels.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Minnesota Timberwolves"}, {"id": "rudy-gobert", "name": "Rudy Gobert", "abbr": "MIN", "rank": 76, "category": "Top 150", "status": "active", "position": "C", "number": "27", "age": 34, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/rudy-gobert.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Minnesota Timberwolves"}, {"id": "vj-edgecombe", "name": "VJ Edgecombe", "abbr": "PHI", "rank": 77, "category": "Top 150", "status": "active", "position": "SG", "number": "77", "age": 21, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/vj-edgecombe.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Philadelphia 76ers"}, {"id": "immanuel-quickley", "name": "Immanuel Quickley", "abbr": "TOR", "rank": 78, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "1", "age": 27, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/immanuel-quickley.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Toronto Raptors"}, {"id": "coby-white", "name": "Coby White", "abbr": "CHA", "rank": 79, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "0", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/coby-white.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Charlotte Hornets"}, {"id": "brandon-ingram", "name": "Brandon Ingram", "abbr": "TOR", "rank": 80, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "23", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/brandon-ingram.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Toronto Raptors"}, {"id": "paul-george", "name": "Paul George", "abbr": "BOS", "rank": 81, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "13", "age": 36, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/paul-george.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Boston Celtics"}, {"id": "dylan-harper", "name": "Dylan Harper", "abbr": "SAS", "rank": 82, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "2", "age": 20, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/dylan-harper.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "San Antonio Spurs"}, {"id": "zion-williamson", "name": "Zion Williamson", "abbr": "NOP", "rank": 83, "category": "Top 150", "status": "active", "position": "PF", "number": "1", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/zion-williamson.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New Orleans Pelicans"}, {"id": "jarrett-allen", "name": "Jarrett Allen", "abbr": "CLE", "rank": 84, "category": "Top 150", "status": "active", "position": "C", "number": "31", "age": 28, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jarrett-allen.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Cleveland Cavaliers"}, {"id": "payton-pritchard", "name": "Payton Pritchard", "abbr": "BOS", "rank": 85, "category": "Top 150", "status": "active", "position": "PG", "number": "11", "age": 28, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/payton-pritchard.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Boston Celtics"}, {"id": "damian-lillard", "name": "Damian Lillard", "abbr": "POR", "rank": 86, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2012, "draftedBy": "Portland Trail Blazers", "number": "0", "age": 36, "seasons": 14, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/damian-lillard.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Portland Trail Blazers"}, {"id": "jalen-suggs", "name": "Jalen Suggs", "abbr": "ORL", "rank": 87, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "4", "age": 25, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jalen-suggs.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Orlando Magic"}, {"id": "ausar-thompson", "name": "Ausar Thompson", "abbr": "DET", "rank": 88, "category": "Top 150", "status": "active", "position": "SF", "number": "9", "age": 23, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ausar-thompson.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Detroit Pistons"}, {"id": "josh-hart", "name": "Josh Hart", "abbr": "NYK", "rank": 89, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "3", "age": 31, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/josh-hart.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New York Knicks"}, {"id": "norman-powell", "name": "Norman Powell", "abbr": "CHI", "rank": 90, "category": "Top 150", "status": "active", "position": "SG", "number": "24", "age": 33, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/norman-powell.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Chicago Bulls"}, {"id": "ty-jerome", "name": "Ty Jerome", "abbr": "MEM", "rank": 91, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "2", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ty-jerome.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Memphis Grizzlies"}, {"id": "derik-queen", "name": "Derik Queen", "abbr": "NOP", "rank": 92, "category": "Top 150", "status": "active", "position": "PF/C", "number": "22", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/derik-queen.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New Orleans Pelicans"}, {"id": "jabari-smith-jr", "name": "Jabari Smith Jr.", "abbr": "HOU", "rank": 93, "category": "Top 150", "status": "active", "position": "PF", "number": "10", "age": 23, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jabari-smith-jr.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Houston Rockets"}, {"id": "myles-turner", "name": "Myles Turner", "abbr": "MIL", "rank": 94, "category": "Top 150", "status": "active", "position": "C", "number": "33", "age": 30, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/myles-turner.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Milwaukee Bucks"}, {"id": "andrew-wiggins", "name": "Andrew Wiggins", "abbr": "MIA", "rank": 95, "category": "Top 150", "status": "active", "position": "SF", "number": "22", "age": 31, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/andrew-wiggins.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Miami Heat"}, {"id": "aj-dybantsa", "name": "AJ Dybantsa", "abbr": "WAS", "rank": 96, "category": "Top 150", "status": "active", "position": "SF", "draftYear": 2026, "draftPick": 1, "draftedBy": "Washington Wizards", "number": "4", "age": 19, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/aj-dybantsa.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Washington Wizards"}, {"id": "nic-claxton", "name": "Nic Claxton", "abbr": "CHI", "rank": 97, "category": "Top 150", "status": "active", "position": "C", "number": "33", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/nic-claxton.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Chicago Bulls"}, {"id": "isaiah-hartenstein", "name": "Isaiah Hartenstein", "abbr": "OKC", "rank": 98, "category": "Top 150", "status": "active", "position": "C", "number": "55", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/isaiah-hartenstein.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Oklahoma City Thunder"}, {"id": "day-ron-sharpe", "name": "Day’Ron Sharpe", "abbr": "BKN", "rank": 99, "category": "Top 150", "status": "active", "position": "C", "number": "20", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/day-ron-sharpe.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Brooklyn Nets"}, {"id": "caleb-wilson", "name": "Caleb Wilson", "abbr": "CHI", "rank": 100, "category": "Top 150", "status": "active", "position": "PF", "draftYear": 2026, "draftPick": 4, "draftedBy": "Chicago Bulls", "number": "8", "age": 19, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/caleb-wilson.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Chicago Bulls"}, {"id": "fred-vanvleet", "name": "Fred VanVleet", "abbr": "HOU", "rank": 101, "category": "Top 150", "status": "active", "position": "PG", "number": "5", "age": 32, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/fred-vanvleet.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Houston Rockets"}, {"id": "darryn-peterson", "name": "Darryn Peterson", "abbr": "UTA", "rank": 102, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2026, "draftPick": 2, "draftedBy": "Utah Jazz", "number": "22", "age": 19, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/darryn-peterson.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Utah Jazz"}, {"id": "kevin-porter-jr", "name": "Kevin Porter Jr.", "abbr": "MIL", "rank": 103, "category": "Top 150", "status": "active", "position": "PG", "number": "7", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/kevin-porter-jr.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Milwaukee Bucks"}, {"id": "ayo-dosunmu", "name": "Ayo Dosunmu", "abbr": "MIN", "rank": 104, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "11", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ayo-dosunmu.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Minnesota Timberwolves"}, {"id": "cedric-coward", "name": "Cedric Coward", "abbr": "MEM", "rank": 105, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "0", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cedric-coward.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Memphis Grizzlies"}, {"id": "kyshawn-george", "name": "Kyshawn George", "abbr": "WAS", "rank": 106, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "18", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/kyshawn-george.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Washington Wizards"}, {"id": "cj-mccollum", "name": "CJ McCollum", "abbr": "ATL", "rank": 107, "category": "Top 150", "status": "active", "position": "SG", "number": "3", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cj-mccollum.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Atlanta Hawks"}, {"id": "miles-bridges", "name": "Miles Bridges", "abbr": "PHX", "rank": 108, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "0", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/miles-bridges.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Phoenix Suns"}, {"id": "john-collins", "name": "John Collins", "abbr": "DET", "rank": 109, "category": "Top 150", "status": "active", "position": "PF", "number": "23", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/john-collins.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Detroit Pistons"}, {"id": "ajay-mitchell", "name": "Ajay Mitchell", "abbr": "OKC", "rank": 110, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "25", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ajay-mitchell.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Oklahoma City Thunder"}, {"id": "zach-lavine", "name": "Zach LaVine", "abbr": "SAC", "rank": 111, "category": "Top 150", "status": "active", "position": "SG", "number": "8", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/zach-lavine.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Sacramento Kings"}, {"id": "keegan-murray", "name": "Keegan Murray", "abbr": "SAC", "rank": 112, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "13", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/keegan-murray.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Sacramento Kings"}, {"id": "reed-sheppard", "name": "Reed Sheppard", "abbr": "HOU", "rank": 113, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "15", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/reed-sheppard.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Houston Rockets"}, {"id": "neemias-queta", "name": "Neemias Queta", "abbr": "BOS", "rank": 114, "category": "Top 150", "status": "active", "position": "C", "number": "88", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/neemias-queta.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Boston Celtics"}, {"id": "toumani-camara", "name": "Toumani Camara", "abbr": "POR", "rank": 115, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "33", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/toumani-camara.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Portland Trail Blazers"}, {"id": "peyton-watson", "name": "Peyton Watson", "abbr": "CLE", "rank": 116, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "8", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/peyton-watson.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Cleveland Cavaliers"}, {"id": "collin-murray-boyles", "name": "Collin Murray-Boyles", "abbr": "TOR", "rank": 117, "category": "Top 150", "status": "active", "position": "PF", "number": "12", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/collin-murray-boyles.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Toronto Raptors"}, {"id": "jakob-poeltl", "name": "Jakob Poeltl", "abbr": "TOR", "rank": 118, "category": "Top 150", "status": "active", "position": "C", "number": "19", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jakob-poeltl.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Toronto Raptors"}, {"id": "jalen-green", "name": "Jalen Green", "abbr": "PHX", "rank": 119, "category": "Top 150", "status": "active", "position": "SG", "number": "8", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jalen-green.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Phoenix Suns"}, {"id": "mark-williams", "name": "Mark Williams", "abbr": "PHX", "rank": 120, "category": "Top 150", "status": "active", "position": "C", "number": "15", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/mark-williams.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Phoenix Suns"}, {"id": "cason-wallace", "name": "Cason Wallace", "abbr": "OKC", "rank": 121, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "22", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cason-wallace.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Oklahoma City Thunder"}, {"id": "darius-acuff-jr", "name": "Darius Acuff Jr.", "abbr": "SAC", "rank": 122, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2026, "draftPick": 7, "draftedBy": "Sacramento Kings", "number": "4", "age": 19, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/darius-acuff-jr.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Sacramento Kings"}, {"id": "rj-barrett", "name": "RJ Barrett", "abbr": "TOR", "rank": 123, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "9", "age": 26, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/rj-barrett.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Toronto Raptors"}, {"id": "brandin-podziemski", "name": "Brandin Podziemski", "abbr": "GSW", "rank": 124, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "2", "age": 23, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/brandin-podziemski.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Golden State Warriors"}, {"id": "jusuf-nurkic", "name": "Jusuf Nurkić", "abbr": "UTA", "rank": 125, "category": "Top 150", "status": "active", "position": "C", "number": "20", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jusuf-nurkic.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Utah Jazz"}, {"id": "maxime-raynaud", "name": "Maxime Raynaud", "abbr": "SAC", "rank": 126, "category": "Top 150", "status": "active", "position": "C", "number": "42", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/maxime-raynaud.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Sacramento Kings"}, {"id": "kristaps-porzingis", "name": "Kristaps Porziņģis", "abbr": "GSW", "rank": 127, "category": "Top 150", "status": "active", "position": "PF/C", "number": "6", "age": 31, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/kristaps-porzingis.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Golden State Warriors"}, {"id": "anthony-black", "name": "Anthony Black", "abbr": "ORL", "rank": 128, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "0", "age": 22, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/anthony-black.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Orlando Magic"}, {"id": "jeremiah-fears", "name": "Jeremiah Fears", "abbr": "NOP", "rank": 129, "category": "Top 150", "status": "active", "position": "PG", "number": "0", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jeremiah-fears.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New Orleans Pelicans"}, {"id": "sandro-mamukelashvili", "name": "Sandro Mamukelashvili", "abbr": "LAL", "rank": 130, "category": "Top 150", "status": "active", "position": "PF/C", "number": "54", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/sandro-mamukelashvili.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Los Angeles Lakers"}, {"id": "davion-mitchell", "name": "Davion Mitchell", "abbr": "MIA", "rank": 131, "category": "Top 150", "status": "active", "position": "PG", "number": "45", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/davion-mitchell.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Miami Heat"}, {"id": "egor-demin", "name": "Egor Dëmin", "abbr": "BKN", "rank": 132, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "13", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/egor-demin.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Brooklyn Nets"}, {"id": "andrew-nembhard", "name": "Andrew Nembhard", "abbr": "IND", "rank": 133, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "2", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/andrew-nembhard.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Indiana Pacers"}, {"id": "p-j-washington", "name": "P.J. Washington", "abbr": "DAL", "rank": 134, "category": "Top 150", "status": "active", "position": "PF", "number": "25", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/p-j-washington.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Dallas Mavericks"}, {"id": "collin-gillespie", "name": "Collin Gillespie", "abbr": "PHX", "rank": 135, "category": "Top 150", "status": "active", "position": "PG", "number": "12", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/collin-gillespie.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Phoenix Suns"}, {"id": "quentin-grimes", "name": "Quentin Grimes", "abbr": "LAL", "rank": 136, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "5", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/quentin-grimes.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Los Angeles Lakers"}, {"id": "saddiq-bey", "name": "Saddiq Bey", "abbr": "NOP", "rank": 137, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "14", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/saddiq-bey.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "New Orleans Pelicans"}, {"id": "jaime-jaquez-jr", "name": "Jaime Jaquez Jr.", "abbr": "MIL", "rank": 138, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "11", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jaime-jaquez-jr.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Milwaukee Bucks"}, {"id": "tari-eason", "name": "Tari Eason", "abbr": "HOU", "rank": 139, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "17", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/tari-eason.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Houston Rockets"}, {"id": "demar-derozan", "name": "DeMar DeRozan", "abbr": "DEN", "rank": 140, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "10", "age": 37, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/demar-derozan.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Denver Nuggets"}, {"id": "yaxel-lendeborg", "name": "Yaxel Lendeborg", "abbr": "GSW", "rank": 141, "category": "Top 150", "status": "active", "position": "PF", "draftYear": 2026, "draftPick": 11, "draftedBy": "Golden State Warriors", "number": "11", "age": 23, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/yaxel-lendeborg.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Golden State Warriors"}, {"id": "christian-braun", "name": "Christian Braun", "abbr": "DEN", "rank": 142, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "0", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/christian-braun.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Denver Nuggets"}, {"id": "ace-bailey", "name": "Ace Bailey", "abbr": "UTA", "rank": 143, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "19", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/ace-bailey.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Utah Jazz"}, {"id": "aaron-gordon", "name": "Aaron Gordon", "abbr": "DEN", "rank": 144, "category": "Top 150", "status": "active", "position": "PF", "number": "32", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/aaron-gordon.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Denver Nuggets"}, {"id": "devin-vassell", "name": "Devin Vassell", "abbr": "SAS", "rank": 145, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "24", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/devin-vassell.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "San Antonio Spurs"}, {"id": "cameron-johnson", "name": "Cameron Johnson", "abbr": "DEN", "rank": 146, "category": "Top 150", "status": "active", "position": "SF/PF", "number": "23", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/cameron-johnson.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Denver Nuggets"}, {"id": "bennedict-mathurin", "name": "Bennedict Mathurin", "abbr": "LAC", "rank": 147, "category": "Top 150", "status": "active", "position": "SG/SF", "number": "0", "age": null, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/bennedict-mathurin.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "LA Clippers"}, {"id": "jrue-holiday", "name": "Jrue Holiday", "abbr": "POR", "rank": 148, "category": "Top 150", "status": "active", "position": "PG/SG", "number": "6", "age": 36, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jrue-holiday.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Portland Trail Blazers"}, {"id": "grayson-allen", "name": "Grayson Allen", "abbr": "CHA", "rank": 149, "category": "Top 150", "status": "active", "position": "SG", "number": "8", "age": 30, "seasons": null, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/grayson-allen.jpg", "source": "", "era": "current"}, "dataComplete": false, "teamName": "Charlotte Hornets"}, {"id": "mikel-brown-jr", "name": "Mikel Brown Jr.", "abbr": "BKN", "rank": 150, "category": "Top 150", "status": "active", "position": "PG", "draftYear": 2026, "draftPick": 6, "draftedBy": "Brooklyn Nets", "number": "2", "age": 19, "seasons": 0, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/mikel-brown-jr.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Brooklyn Nets"}, {"id": "michael-jordan", "name": "Michael Jordan", "rank": 1, "category": "All-Time", "status": "retired", "position": "SG", "draftYear": 1984, "draftedBy": "Chicago Bulls", "number": "23", "age": 63, "seasons": 42, "awards": {"mvp": 5, "championships": 6, "finalsMvp": 6}, "image": {"file": "images/michael-jordan.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "jordan-clarkson", "name": "Jordan Clarkson", "abbr": "NYK", "rank": 2, "category": "All-Time", "status": "active", "position": "PG/SG", "draftYear": 2014, "draftedBy": "Washington Wizards", "number": "00", "age": 34, "seasons": 12, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/jordan-clarkson.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "New York Knicks"}, {"id": "kareem-abdul-jabbar", "name": "Kareem Abdul-Jabbar", "rank": 3, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1969, "draftedBy": "Milwaukee Bucks", "number": "33", "age": 79, "seasons": 57, "awards": {"mvp": 6, "championships": 6, "finalsMvp": 2}, "image": {"file": "images/kareem-abdul-jabbar.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "bill-russell", "name": "Bill Russell", "rank": 4, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1956, "draftedBy": "St. Louis Hawks", "number": "6", "age": 92, "seasons": 70, "awards": {"mvp": 5, "championships": 11, "finalsMvp": 0}, "image": {"file": "images/bill-russell.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "wilt-chamberlain", "name": "Wilt Chamberlain", "rank": 5, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1959, "draftedBy": "Philadelphia Warriors", "number": "13", "age": 90, "seasons": 67, "awards": {"mvp": 4, "championships": 2, "finalsMvp": 1}, "image": {"file": "images/wilt-chamberlain.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "magic-johnson", "name": "Magic Johnson", "rank": 6, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1979, "draftedBy": "Los Angeles Lakers", "number": "32", "age": 67, "seasons": 47, "awards": {"mvp": 3, "championships": 5, "finalsMvp": 3}, "image": {"file": "images/magic-johnson.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "larry-bird", "name": "Larry Bird", "rank": 7, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1978, "draftedBy": "Boston Celtics", "number": "33", "age": 69, "seasons": 48, "awards": {"mvp": 3, "championships": 3, "finalsMvp": 2}, "image": {"file": "images/larry-bird.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "tim-duncan", "name": "Tim Duncan", "rank": 8, "category": "All-Time", "status": "retired", "position": "PF/C", "draftYear": 1997, "draftedBy": "San Antonio Spurs", "number": "21", "age": 50, "seasons": 29, "awards": {"mvp": 2, "championships": 5, "finalsMvp": 3}, "image": {"file": "images/tim-duncan.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "shaquille-o-neal", "name": "Shaquille O'Neal", "rank": 9, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1992, "draftedBy": "Orlando Magic", "number": "34", "age": 54, "seasons": 34, "awards": {"mvp": 1, "championships": 4, "finalsMvp": 3}, "image": {"file": "images/shaquille-o-neal.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "kobe-bryant", "name": "Kobe Bryant", "rank": 10, "category": "All-Time", "status": "retired", "position": "SG", "draftYear": 1996, "draftedBy": "Charlotte Hornets", "number": "24", "age": 48, "seasons": 30, "awards": {"mvp": 1, "championships": 5, "finalsMvp": 2}, "image": {"file": "images/kobe-bryant.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "hakeem-olajuwon", "name": "Hakeem Olajuwon", "rank": 11, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1984, "draftedBy": "Houston Rockets", "number": "34", "age": 63, "seasons": 42, "awards": {"mvp": 1, "championships": 2, "finalsMvp": 2}, "image": {"file": "images/hakeem-olajuwon.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "jose-alvarado", "name": "Jose Alvarado", "abbr": "NYK", "rank": 12, "category": "All-Time", "status": "active", "position": "PG/SG", "draftYear": null, "draftedBy": "Undrafted", "number": "5", "age": 28, "seasons": 5, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/jose-alvarado.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "New York Knicks"}, {"id": "oscar-robertson", "name": "Oscar Robertson", "rank": 13, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1960, "draftedBy": "Cincinnati Royals", "number": "14", "age": 87, "seasons": 66, "awards": {"mvp": 1, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/oscar-robertson.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "jerry-west", "name": "Jerry West", "rank": 14, "category": "All-Time", "status": "retired", "position": "PG/SG", "draftYear": 1960, "draftedBy": "Minneapolis Lakers", "number": "44", "age": 88, "seasons": 66, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/jerry-west.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "landry-shamet", "name": "Landry Shamet", "abbr": "NYK", "rank": 15, "category": "All-Time", "status": "active", "position": "SG/SF", "draftYear": 2018, "draftedBy": "Philadelphia 76ers", "number": "44", "age": 29, "seasons": 8, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/landry-shamet.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "New York Knicks"}, {"id": "julius-erving", "name": "Julius Erving", "rank": 16, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1972, "draftedBy": "Milwaukee Bucks", "number": "6", "age": 76, "seasons": 54, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/julius-erving.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "moses-malone", "name": "Moses Malone", "rank": 17, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1974, "draftedBy": "Utah Stars", "number": "24", "age": 71, "seasons": 52, "awards": {"mvp": 3, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/moses-malone.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "karl-malone", "name": "Karl Malone", "rank": 18, "category": "All-Time", "status": "retired", "position": "PF", "number": "32", "age": 63, "seasons": null, "awards": {"mvp": 2, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/karl-malone.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "john-stockton", "name": "John Stockton", "rank": 19, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1984, "draftedBy": "Utah Jazz", "number": "12", "age": 64, "seasons": 42, "awards": {"mvp": 0, "championships": 2, "finalsMvp": 0}, "image": {"file": "images/john-stockton.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "charles-barkley", "name": "Charles Barkley", "rank": 20, "category": "All-Time", "status": "retired", "position": "PF", "draftYear": 1984, "draftedBy": "Philadelphia 76ers", "number": "34", "age": 63, "seasons": 42, "awards": {"mvp": 1, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/charles-barkley.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "david-robinson", "name": "David Robinson", "rank": 21, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1987, "draftedBy": "San Antonio Spurs", "number": "50", "age": 61, "seasons": 39, "awards": {"mvp": 1, "championships": 2, "finalsMvp": 1}, "image": {"file": "images/david-robinson.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "kevin-garnett", "name": "Kevin Garnett", "rank": 22, "category": "All-Time", "status": "retired", "position": "PF", "draftYear": 1995, "draftedBy": "Minnesota Timberwolves", "number": "21", "age": 50, "seasons": 31, "awards": {"mvp": 1, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/kevin-garnett.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "dirk-nowitzki", "name": "Dirk Nowitzki", "rank": 23, "category": "All-Time", "status": "retired", "position": "PF", "draftYear": 1998, "draftedBy": "Milwaukee Bucks", "number": "41", "age": 48, "seasons": 28, "awards": {"mvp": 1, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/dirk-nowitzki.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "jared-mccain", "name": "Jared McCain", "abbr": "OKC", "rank": 24, "category": "All-Time", "status": "active", "position": "SG", "draftYear": 2024, "draftedBy": "Philadelphia 76ers", "number": "3", "age": 22, "seasons": 2, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/jared-mccain.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Oklahoma City Thunder"}, {"id": "alex-caruso", "name": "Alex Caruso", "abbr": "OKC", "rank": 25, "category": "All-Time", "status": "active", "position": "SG", "draftYear": null, "draftedBy": "Undrafted", "number": "9", "age": 32, "seasons": 9, "awards": {"mvp": 0, "championships": 2, "finalsMvp": 0}, "image": {"file": "images/alex-caruso.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Oklahoma City Thunder"}, {"id": "elgin-baylor", "name": "Elgin Baylor", "rank": 26, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1956, "draftedBy": "Minneapolis Lakers", "number": "22", "age": 91, "seasons": 70, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/elgin-baylor.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "bob-pettit", "name": "Bob Pettit", "rank": 27, "category": "All-Time", "status": "retired", "position": "PF", "draftYear": 1954, "draftedBy": "Milwaukee Hawks", "number": "9", "age": 93, "seasons": 72, "awards": {"mvp": 2, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/bob-pettit.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "rick-barry", "name": "Rick Barry", "rank": 28, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1965, "draftedBy": "San Francisco Warriors", "number": "24", "age": 82, "seasons": 61, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 1}, "image": {"file": "images/rick-barry.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "isiah-thomas", "name": "Isiah Thomas", "rank": 29, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1981, "draftedBy": "Detroit Pistons", "number": "11", "age": 65, "seasons": 45, "awards": {"mvp": 0, "championships": 2, "finalsMvp": 1}, "image": {"file": "images/isiah-thomas.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "john-havlicek", "name": "John Havlicek", "rank": 30, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1962, "draftedBy": "Boston Celtics", "number": "17", "age": 86, "seasons": 64, "awards": {"mvp": 0, "championships": 8, "finalsMvp": 1}, "image": {"file": "images/john-havlicek.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "scottie-pippen", "name": "Scottie Pippen", "rank": 31, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1987, "draftedBy": "Seattle SuperSonics", "number": "33", "age": 60, "seasons": 39, "awards": {"mvp": 0, "championships": 6, "finalsMvp": 0}, "image": {"file": "images/scottie-pippen.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "dwyane-wade", "name": "Dwyane Wade", "rank": 32, "category": "All-Time", "status": "retired", "position": "SG", "draftYear": 2003, "draftedBy": "Miami Heat", "number": "3", "age": 44, "seasons": 23, "awards": {"mvp": 0, "championships": 3, "finalsMvp": 1}, "image": {"file": "images/dwyane-wade.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "chris-paul", "name": "Chris Paul", "rank": 33, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 2005, "draftedBy": "New Orleans Hornets", "number": "3", "age": 41, "seasons": 21, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/chris-paul.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "steve-nash", "name": "Steve Nash", "rank": 34, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1996, "draftedBy": "Phoenix Suns", "number": "13", "age": 52, "seasons": 30, "awards": {"mvp": 2, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/steve-nash.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "allen-iverson", "name": "Allen Iverson", "rank": 35, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1996, "draftedBy": "Philadelphia 76ers", "number": "3", "age": 51, "seasons": 30, "awards": {"mvp": 1, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/allen-iverson.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "patrick-ewing", "name": "Patrick Ewing", "rank": 36, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1985, "draftedBy": "New York Knicks", "number": "33", "age": 64, "seasons": 41, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/patrick-ewing.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "clyde-drexler", "name": "Clyde Drexler", "rank": 37, "category": "All-Time", "status": "retired", "position": "SG", "draftYear": 1983, "draftedBy": "Portland Trail Blazers", "number": "22", "age": 64, "seasons": 43, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/clyde-drexler.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "jason-kidd", "name": "Jason Kidd", "rank": 38, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1994, "draftedBy": "Dallas Mavericks", "number": "5", "age": 53, "seasons": 32, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/jason-kidd.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "jaylin-williams", "name": "Jaylin Williams", "abbr": "OKC", "rank": 39, "category": "All-Time", "status": "active", "position": "PF/C", "draftYear": 2022, "draftedBy": "Oklahoma City Thunder", "number": "6", "age": 24, "seasons": 4, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/jaylin-williams.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "Oklahoma City Thunder"}, {"id": "george-gervin", "name": "George Gervin", "rank": 40, "category": "All-Time", "status": "retired", "position": "SG", "draftYear": 1972, "draftedBy": "Phoenix Suns", "number": "44", "age": 74, "seasons": 54, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/george-gervin.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "russell-westbrook", "name": "Russell Westbrook", "rank": 41, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 2008, "draftedBy": "Seattle SuperSonics", "number": "0", "age": 37, "seasons": 18, "awards": {"mvp": 1, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/russell-westbrook.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "harrison-barnes", "name": "Harrison Barnes", "abbr": "SAS", "rank": 42, "category": "All-Time", "status": "active", "position": "SF/PF", "draftYear": 2012, "draftedBy": "Golden State Warriors", "number": "40", "age": 34, "seasons": 13, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/harrison-barnes.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "San Antonio Spurs"}, {"id": "tobias-harris", "name": "Tobias Harris", "abbr": "SAS", "rank": 43, "category": "All-Time", "status": "active", "position": "SF/PF", "draftYear": 2011, "draftedBy": "Charlotte Bobcats", "number": "23", "age": 34, "seasons": 15, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/tobias-harris.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "San Antonio Spurs"}, {"id": "julian-champagnie", "name": "Julian Champagnie", "abbr": "SAS", "rank": 44, "category": "All-Time", "status": "active", "position": "PF", "draftYear": null, "draftedBy": "Undrafted", "number": "30", "age": 25, "seasons": 4, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/julian-champagnie.jpg", "source": "", "era": "current"}, "dataComplete": true, "teamName": "San Antonio Spurs"}, {"id": "kevin-mchale", "name": "Kevin McHale", "rank": 45, "category": "All-Time", "status": "retired", "position": "PF", "draftYear": 1980, "draftedBy": "Boston Celtics", "number": "32", "age": 68, "seasons": 46, "awards": {"mvp": 0, "championships": 3, "finalsMvp": 0}, "image": {"file": "images/kevin-mchale.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "bill-walton", "name": "Bill Walton", "rank": 46, "category": "All-Time", "status": "retired", "position": "C", "draftYear": 1974, "draftedBy": "Portland Trail Blazers", "number": "32", "age": 73, "seasons": 52, "awards": {"mvp": 0, "championships": 2, "finalsMvp": 1}, "image": {"file": "images/bill-walton.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "walt-frazier", "name": "Walt Frazier", "rank": 47, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1967, "draftedBy": "New York Knicks", "number": "10", "age": 81, "seasons": 59, "awards": {"mvp": 0, "championships": 2, "finalsMvp": 0}, "image": {"file": "images/walt-frazier.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "gary-payton", "name": "Gary Payton", "rank": 48, "category": "All-Time", "status": "retired", "position": "PG", "draftYear": 1990, "draftedBy": "Seattle SuperSonics", "number": "20", "age": 58, "seasons": 36, "awards": {"mvp": 0, "championships": 1, "finalsMvp": 0}, "image": {"file": "images/gary-payton.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "reggie-miller", "name": "Reggie Miller", "rank": 49, "category": "All-Time", "status": "retired", "position": "SG", "draftYear": 1987, "draftedBy": "Indiana Pacers", "number": "31", "age": 61, "seasons": 39, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/reggie-miller.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}, {"id": "dominique-wilkins", "name": "Dominique Wilkins", "rank": 50, "category": "All-Time", "status": "retired", "position": "SF", "draftYear": 1982, "draftedBy": "Utah Jazz", "number": "21", "age": 66, "seasons": 44, "awards": {"mvp": 0, "championships": 0, "finalsMvp": 0}, "image": {"file": "images/dominique-wilkins.jpg", "source": "", "era": "prime"}, "dataComplete": false, "teamName": ""}]
+[
+  {
+    "id": "nikola-jokic",
+    "name": "Nikola Jokić",
+    "abbr": "DEN",
+    "rank": 1,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "draftYear": 2014,
+    "draftedBy": "Denver Nuggets",
+    "number": "15",
+    "age": 31,
+    "seasons": 12,
+    "awards": {
+      "mvp": 3,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/nikola-jokic.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Denver Nuggets"
+  },
+  {
+    "id": "victor-wembanyama",
+    "name": "Victor Wembanyama",
+    "abbr": "SAS",
+    "rank": 2,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "draftYear": 2023,
+    "draftedBy": "San Antonio Spurs",
+    "number": "1",
+    "age": 22,
+    "seasons": 3,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/victor-wembanyama.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "shai-gilgeous-alexander",
+    "name": "Shai Gilgeous-Alexander",
+    "abbr": "OKC",
+    "rank": 3,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2018,
+    "draftedBy": "Charlotte Hornets",
+    "number": "2",
+    "age": 28,
+    "seasons": 8,
+    "awards": {
+      "mvp": 2,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/shai-gilgeous-alexander.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "luka-doncic",
+    "name": "Luka Dončić",
+    "abbr": "LAL",
+    "rank": 4,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2018,
+    "draftedBy": "Atlanta Hawks",
+    "number": "77",
+    "age": 27,
+    "seasons": 8,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/luka-doncic.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Los Angeles Lakers"
+  },
+  {
+    "id": "cade-cunningham",
+    "name": "Cade Cunningham",
+    "abbr": "DET",
+    "rank": 5,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2021,
+    "draftedBy": "Detroit Pistons",
+    "number": "2",
+    "age": 24,
+    "seasons": 5,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cade-cunningham.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Detroit Pistons"
+  },
+  {
+    "id": "jayson-tatum",
+    "name": "Jayson Tatum",
+    "abbr": "BOS",
+    "rank": 6,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "draftYear": 2017,
+    "draftedBy": "Boston Celtics",
+    "number": "0",
+    "age": 28,
+    "seasons": 9,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jayson-tatum.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Boston Celtics"
+  },
+  {
+    "id": "giannis-antetokounmpo",
+    "name": "Giannis Antetokounmpo",
+    "abbr": "MIA",
+    "rank": 7,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "draftYear": 2013,
+    "draftedBy": "Milwaukee Bucks",
+    "number": "34",
+    "age": 31,
+    "seasons": 13,
+    "awards": {
+      "mvp": 2,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/giannis-antetokounmpo.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Miami Heat"
+  },
+  {
+    "id": "jalen-johnson",
+    "name": "Jalen Johnson",
+    "abbr": "ATL",
+    "rank": 8,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2021,
+    "draftedBy": "Atlanta Hawks",
+    "number": "1",
+    "age": 23,
+    "seasons": 5,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jalen-johnson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Atlanta Hawks"
+  },
+  {
+    "id": "anthony-edwards",
+    "name": "Anthony Edwards",
+    "abbr": "MIN",
+    "rank": 9,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": 2020,
+    "draftedBy": "Minnesota Timberwolves",
+    "number": "5",
+    "age": 25,
+    "seasons": 6,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/anthony-edwards.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Minnesota Timberwolves"
+  },
+  {
+    "id": "tyrese-maxey",
+    "name": "Tyrese Maxey",
+    "abbr": "PHI",
+    "rank": 10,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2020,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "0",
+    "age": 25,
+    "seasons": 6,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/tyrese-maxey.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Philadelphia 76ers"
+  },
+  {
+    "id": "tyrese-haliburton",
+    "name": "Tyrese Haliburton",
+    "abbr": "IND",
+    "rank": 11,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "0",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/tyrese-haliburton.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Indiana Pacers"
+  },
+  {
+    "id": "cooper-flagg",
+    "name": "Cooper Flagg",
+    "abbr": "DAL",
+    "rank": 12,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "32",
+    "age": 19,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cooper-flagg.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Dallas Mavericks"
+  },
+  {
+    "id": "scottie-barnes",
+    "name": "Scottie Barnes",
+    "abbr": "TOR",
+    "rank": 13,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2021,
+    "draftedBy": "Toronto Raptors",
+    "number": "4",
+    "age": 25,
+    "seasons": 5,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/scottie-barnes.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Toronto Raptors"
+  },
+  {
+    "id": "donovan-mitchell",
+    "name": "Donovan Mitchell",
+    "abbr": "CLE",
+    "rank": 14,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": 2017,
+    "draftedBy": "Denver Nuggets",
+    "number": "45",
+    "age": 29,
+    "seasons": 9,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/donovan-mitchell.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Cleveland Cavaliers"
+  },
+  {
+    "id": "kevin-durant",
+    "name": "Kevin Durant",
+    "abbr": "HOU",
+    "rank": 15,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "draftYear": 2007,
+    "draftedBy": "Seattle SuperSonics",
+    "number": "7",
+    "age": 37,
+    "seasons": 19,
+    "awards": {
+      "mvp": 1,
+      "championships": 2,
+      "finalsMvp": 2
+    },
+    "image": {
+      "file": "images/kevin-durant.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "stephen-curry",
+    "name": "Stephen Curry",
+    "abbr": "GSW",
+    "rank": 16,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2009,
+    "draftedBy": "Golden State Warriors",
+    "number": "30",
+    "age": 38,
+    "seasons": 17,
+    "awards": {
+      "mvp": 2,
+      "championships": 4,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/stephen-curry.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Golden State Warriors"
+  },
+  {
+    "id": "karl-anthony-towns",
+    "name": "Karl-Anthony Towns",
+    "abbr": "NYK",
+    "rank": 17,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "draftYear": 2015,
+    "draftedBy": "Minnesota Timberwolves",
+    "number": "32",
+    "age": 30,
+    "seasons": 11,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/karl-anthony-towns.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "trae-young",
+    "name": "Trae Young",
+    "abbr": "WAS",
+    "rank": 18,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2018,
+    "draftedBy": "Dallas Mavericks",
+    "number": "11",
+    "age": 27,
+    "seasons": 8,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/trae-young.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Washington Wizards"
+  },
+  {
+    "id": "alperen-sengun",
+    "name": "Alperen Sengun",
+    "abbr": "HOU",
+    "rank": 19,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "28",
+    "age": 24,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/alperen-sengun.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "austin-reaves",
+    "name": "Austin Reaves",
+    "abbr": "LAL",
+    "rank": 20,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "15",
+    "age": 28,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/austin-reaves.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Los Angeles Lakers"
+  },
+  {
+    "id": "james-harden",
+    "name": "James Harden",
+    "abbr": "CLE",
+    "rank": 21,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2009,
+    "draftedBy": "Oklahoma City Thunder",
+    "number": "13",
+    "age": 37,
+    "seasons": 17,
+    "awards": {
+      "mvp": 1,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/james-harden.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Cleveland Cavaliers"
+  },
+  {
+    "id": "chet-holmgren",
+    "name": "Chet Holmgren",
+    "abbr": "OKC",
+    "rank": 22,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "7",
+    "age": 24,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/chet-holmgren.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "lamelo-ball",
+    "name": "LaMelo Ball",
+    "abbr": "MIN",
+    "rank": 23,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2020,
+    "draftedBy": "Charlotte Hornets",
+    "number": "1",
+    "age": 25,
+    "seasons": 6,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/lamelo-ball.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Minnesota Timberwolves"
+  },
+  {
+    "id": "amen-thompson",
+    "name": "Amen Thompson",
+    "abbr": "HOU",
+    "rank": 24,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "1",
+    "age": 23,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/amen-thompson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "josh-giddey",
+    "name": "Josh Giddey",
+    "abbr": "CHI",
+    "rank": 25,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "3",
+    "age": 23,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/josh-giddey.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Chicago Bulls"
+  },
+  {
+    "id": "jamal-murray",
+    "name": "Jamal Murray",
+    "abbr": "DEN",
+    "rank": 26,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2016,
+    "draftedBy": "Denver Nuggets",
+    "number": "27",
+    "age": 29,
+    "seasons": 10,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jamal-murray.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Denver Nuggets"
+  },
+  {
+    "id": "anthony-davis",
+    "name": "Anthony Davis",
+    "abbr": "WAS",
+    "rank": 27,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "draftYear": 2012,
+    "draftedBy": "New Orleans Hornets",
+    "number": "23",
+    "age": 33,
+    "seasons": 14,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/anthony-davis.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Washington Wizards"
+  },
+  {
+    "id": "devin-booker",
+    "name": "Devin Booker",
+    "abbr": "PHX",
+    "rank": 28,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": 2015,
+    "draftedBy": "Phoenix Suns",
+    "number": "1",
+    "age": 29,
+    "seasons": 11,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/devin-booker.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Phoenix Suns"
+  },
+  {
+    "id": "trey-murphy-iii",
+    "name": "Trey Murphy III",
+    "abbr": "NOP",
+    "rank": 29,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "number": "25",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/trey-murphy-iii.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New Orleans Pelicans"
+  },
+  {
+    "id": "evan-mobley",
+    "name": "Evan Mobley",
+    "abbr": "CLE",
+    "rank": 30,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "4",
+    "age": 25,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/evan-mobley.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Cleveland Cavaliers"
+  },
+  {
+    "id": "jalen-brunson",
+    "name": "Jalen Brunson",
+    "abbr": "NYK",
+    "rank": 31,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2018,
+    "draftedBy": "Dallas Mavericks",
+    "number": "11",
+    "age": 30,
+    "seasons": 8,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jalen-brunson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "domantas-sabonis",
+    "name": "Domantas Sabonis",
+    "abbr": "SAC",
+    "rank": 32,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "draftYear": 2016,
+    "draftedBy": "Orlando Magic",
+    "number": "11",
+    "age": 30,
+    "seasons": 10,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/domantas-sabonis.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Sacramento Kings"
+  },
+  {
+    "id": "lauri-markkanen",
+    "name": "Lauri Markkanen",
+    "abbr": "UTA",
+    "rank": 33,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "23",
+    "age": 29,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/lauri-markkanen.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Utah Jazz"
+  },
+  {
+    "id": "kawhi-leonard",
+    "name": "Kawhi Leonard",
+    "abbr": "LAC",
+    "rank": 34,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "draftYear": 2011,
+    "draftedBy": "Indiana Pacers",
+    "number": "2",
+    "age": 35,
+    "seasons": 15,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 2
+    },
+    "image": {
+      "file": "images/kawhi-leonard.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "LA Clippers"
+  },
+  {
+    "id": "bam-adebayo",
+    "name": "Bam Adebayo",
+    "abbr": "MIA",
+    "rank": 35,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "draftYear": 2017,
+    "draftedBy": "Miami Heat",
+    "number": "13",
+    "age": 29,
+    "seasons": 9,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/bam-adebayo.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Miami Heat"
+  },
+  {
+    "id": "deni-avdija",
+    "name": "Deni Avdija",
+    "abbr": "POR",
+    "rank": 36,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "9",
+    "age": 25,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/deni-avdija.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Portland Trail Blazers"
+  },
+  {
+    "id": "jalen-williams",
+    "name": "Jalen Williams",
+    "abbr": "OKC",
+    "rank": 37,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "8",
+    "age": 25,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jalen-williams.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "brandon-miller",
+    "name": "Brandon Miller",
+    "abbr": "CHA",
+    "rank": 38,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "number": "24",
+    "age": 23,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/brandon-miller.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Charlotte Hornets"
+  },
+  {
+    "id": "walker-kessler",
+    "name": "Walker Kessler",
+    "abbr": "LAL",
+    "rank": 39,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "31",
+    "age": 25,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/walker-kessler.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Los Angeles Lakers"
+  },
+  {
+    "id": "derrick-white",
+    "name": "Derrick White",
+    "abbr": "BOS",
+    "rank": 40,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "9",
+    "age": 32,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/derrick-white.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Boston Celtics"
+  },
+  {
+    "id": "jaren-jackson-jr",
+    "name": "Jaren Jackson Jr.",
+    "abbr": "UTA",
+    "rank": 41,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "draftYear": 2018,
+    "draftedBy": "Memphis Grizzlies",
+    "number": "17",
+    "age": 26,
+    "seasons": 8,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jaren-jackson-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Utah Jazz"
+  },
+  {
+    "id": "kon-knueppel",
+    "name": "Kon Knueppel",
+    "abbr": "CHA",
+    "rank": 42,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "7",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kon-knueppel.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Charlotte Hornets"
+  },
+  {
+    "id": "jaylen-brown",
+    "name": "Jaylen Brown",
+    "abbr": "PHI",
+    "rank": 43,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "7",
+    "age": 29,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jaylen-brown.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Philadelphia 76ers"
+  },
+  {
+    "id": "jalen-duren",
+    "name": "Jalen Duren",
+    "abbr": "DET",
+    "rank": 44,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "0",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jalen-duren.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Detroit Pistons"
+  },
+  {
+    "id": "keyonte-george",
+    "name": "Keyonte George",
+    "abbr": "UTA",
+    "rank": 45,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "3",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/keyonte-george.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Utah Jazz"
+  },
+  {
+    "id": "nickeil-alexander-walker",
+    "name": "Nickeil Alexander-Walker",
+    "abbr": "ATL",
+    "rank": 46,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "7",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/nickeil-alexander-walker.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Atlanta Hawks"
+  },
+  {
+    "id": "darius-garland",
+    "name": "Darius Garland",
+    "abbr": "LAC",
+    "rank": 47,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2019,
+    "draftedBy": "Cleveland Cavaliers",
+    "number": "10",
+    "age": 19,
+    "seasons": 7,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/darius-garland.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "LA Clippers"
+  },
+  {
+    "id": "kyrie-irving",
+    "name": "Kyrie Irving",
+    "abbr": "DAL",
+    "rank": 48,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2011,
+    "draftedBy": "Cleveland Cavaliers",
+    "number": "11",
+    "age": 34,
+    "seasons": 15,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kyrie-irving.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Dallas Mavericks"
+  },
+  {
+    "id": "paolo-banchero",
+    "name": "Paolo Banchero",
+    "abbr": "ORL",
+    "rank": 49,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2022,
+    "draftedBy": "Orlando Magic",
+    "number": "5",
+    "age": 23,
+    "seasons": 4,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/paolo-banchero.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Orlando Magic"
+  },
+  {
+    "id": "desmond-bane",
+    "name": "Desmond Bane",
+    "abbr": "ORL",
+    "rank": 50,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "1",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/desmond-bane.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Orlando Magic"
+  },
+  {
+    "id": "onyeka-okongwu",
+    "name": "Onyeka Okongwu",
+    "abbr": "ATL",
+    "rank": 51,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "17",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/onyeka-okongwu.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Atlanta Hawks"
+  },
+  {
+    "id": "lebron-james",
+    "name": "LeBron James",
+    "abbr": "PHI",
+    "rank": 52,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "draftYear": 2003,
+    "draftedBy": "Cleveland Cavaliers",
+    "number": "23",
+    "age": 41,
+    "seasons": 23,
+    "awards": {
+      "mvp": 4,
+      "championships": 4,
+      "finalsMvp": 4
+    },
+    "image": {
+      "file": "images/lebron-james.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Philadelphia 76ers"
+  },
+  {
+    "id": "donovan-clingan",
+    "name": "Donovan Clingan",
+    "abbr": "POR",
+    "rank": 53,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "23",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/donovan-clingan.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Portland Trail Blazers"
+  },
+  {
+    "id": "tyler-herro",
+    "name": "Tyler Herro",
+    "abbr": "MIL",
+    "rank": 54,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "14",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/tyler-herro.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Milwaukee Bucks"
+  },
+  {
+    "id": "matas-buzelis",
+    "name": "Matas Buzelis",
+    "abbr": "CHI",
+    "rank": 55,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "14",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/matas-buzelis.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Chicago Bulls"
+  },
+  {
+    "id": "dyson-daniels",
+    "name": "Dyson Daniels",
+    "abbr": "ATL",
+    "rank": 56,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "5",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/dyson-daniels.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Atlanta Hawks"
+  },
+  {
+    "id": "franz-wagner",
+    "name": "Franz Wagner",
+    "abbr": "ORL",
+    "rank": 57,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "22",
+    "age": 25,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/franz-wagner.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Orlando Magic"
+  },
+  {
+    "id": "pascal-siakam",
+    "name": "Pascal Siakam",
+    "abbr": "IND",
+    "rank": 58,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "43",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/pascal-siakam.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Indiana Pacers"
+  },
+  {
+    "id": "cameron-boozer",
+    "name": "Cameron Boozer",
+    "abbr": "MEM",
+    "rank": 59,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "draftYear": 2026,
+    "draftPick": 3,
+    "draftedBy": "Memphis Grizzlies",
+    "number": "27",
+    "age": 19,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cameron-boozer.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Memphis Grizzlies"
+  },
+  {
+    "id": "og-anunoby",
+    "name": "OG Anunoby",
+    "abbr": "NYK",
+    "rank": 60,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "8",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/og-anunoby.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "joel-embiid",
+    "name": "Joel Embiid",
+    "abbr": "PHI",
+    "rank": 61,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "draftYear": 2014,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "21",
+    "age": 32,
+    "seasons": 12,
+    "awards": {
+      "mvp": 1,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/joel-embiid.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Philadelphia 76ers"
+  },
+  {
+    "id": "dejounte-murray",
+    "name": "Dejounte Murray",
+    "abbr": "NOP",
+    "rank": 62,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "5",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/dejounte-murray.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New Orleans Pelicans"
+  },
+  {
+    "id": "ryan-rollins",
+    "name": "Ryan Rollins",
+    "abbr": "MIL",
+    "rank": 63,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "13",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ryan-rollins.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Milwaukee Bucks"
+  },
+  {
+    "id": "julius-randle",
+    "name": "Julius Randle",
+    "abbr": "BKN",
+    "rank": 64,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "30",
+    "age": 31,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/julius-randle.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Brooklyn Nets"
+  },
+  {
+    "id": "michael-porter-jr",
+    "name": "Michael Porter Jr.",
+    "abbr": "BKN",
+    "rank": 65,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "17",
+    "age": 28,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/michael-porter-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Brooklyn Nets"
+  },
+  {
+    "id": "kel-el-ware",
+    "name": "Kel’el Ware",
+    "abbr": "MIL",
+    "rank": 66,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "9",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kel-el-ware.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Milwaukee Bucks"
+  },
+  {
+    "id": "alex-sarr",
+    "name": "Alex Sarr",
+    "abbr": "WAS",
+    "rank": 67,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "20",
+    "age": 21,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/alex-sarr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Washington Wizards"
+  },
+  {
+    "id": "stephon-castle",
+    "name": "Stephon Castle",
+    "abbr": "SAS",
+    "rank": 68,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "5",
+    "age": 21,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/stephon-castle.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "zach-edey",
+    "name": "Zach Edey",
+    "abbr": "MEM",
+    "rank": 69,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "15",
+    "age": 24,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/zach-edey.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Memphis Grizzlies"
+  },
+  {
+    "id": "ivica-zubac",
+    "name": "Ivica Zubac",
+    "abbr": "IND",
+    "rank": 70,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "40",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ivica-zubac.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Indiana Pacers"
+  },
+  {
+    "id": "de-aaron-fox",
+    "name": "De’Aaron Fox",
+    "abbr": "SAS",
+    "rank": 71,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "4",
+    "age": 28,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/de-aaron-fox.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "naz-reid",
+    "name": "Naz Reid",
+    "abbr": "CHA",
+    "rank": 72,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "11",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/naz-reid.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Charlotte Hornets"
+  },
+  {
+    "id": "mikal-bridges",
+    "name": "Mikal Bridges",
+    "abbr": "NYK",
+    "rank": 73,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "25",
+    "age": 30,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/mikal-bridges.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "ja-morant",
+    "name": "Ja Morant",
+    "abbr": "POR",
+    "rank": 74,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "12",
+    "age": 27,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ja-morant.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Portland Trail Blazers"
+  },
+  {
+    "id": "jaden-mcdaniels",
+    "name": "Jaden McDaniels",
+    "abbr": "MIN",
+    "rank": 75,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "3",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jaden-mcdaniels.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Minnesota Timberwolves"
+  },
+  {
+    "id": "rudy-gobert",
+    "name": "Rudy Gobert",
+    "abbr": "MIN",
+    "rank": 76,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "27",
+    "age": 34,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/rudy-gobert.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Minnesota Timberwolves"
+  },
+  {
+    "id": "vj-edgecombe",
+    "name": "VJ Edgecombe",
+    "abbr": "PHI",
+    "rank": 77,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "77",
+    "age": 21,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/vj-edgecombe.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Philadelphia 76ers"
+  },
+  {
+    "id": "immanuel-quickley",
+    "name": "Immanuel Quickley",
+    "abbr": "TOR",
+    "rank": 78,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "1",
+    "age": 27,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/immanuel-quickley.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Toronto Raptors"
+  },
+  {
+    "id": "coby-white",
+    "name": "Coby White",
+    "abbr": "CHA",
+    "rank": 79,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "0",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/coby-white.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Charlotte Hornets"
+  },
+  {
+    "id": "brandon-ingram",
+    "name": "Brandon Ingram",
+    "abbr": "TOR",
+    "rank": 80,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "23",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/brandon-ingram.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Toronto Raptors"
+  },
+  {
+    "id": "paul-george",
+    "name": "Paul George",
+    "abbr": "BOS",
+    "rank": 81,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "13",
+    "age": 36,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/paul-george.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Boston Celtics"
+  },
+  {
+    "id": "dylan-harper",
+    "name": "Dylan Harper",
+    "abbr": "SAS",
+    "rank": 82,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "2",
+    "age": 20,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/dylan-harper.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "zion-williamson",
+    "name": "Zion Williamson",
+    "abbr": "NOP",
+    "rank": 83,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "1",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/zion-williamson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New Orleans Pelicans"
+  },
+  {
+    "id": "jarrett-allen",
+    "name": "Jarrett Allen",
+    "abbr": "CLE",
+    "rank": 84,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "31",
+    "age": 28,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jarrett-allen.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Cleveland Cavaliers"
+  },
+  {
+    "id": "payton-pritchard",
+    "name": "Payton Pritchard",
+    "abbr": "BOS",
+    "rank": 85,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "11",
+    "age": 28,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/payton-pritchard.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Boston Celtics"
+  },
+  {
+    "id": "damian-lillard",
+    "name": "Damian Lillard",
+    "abbr": "POR",
+    "rank": 86,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2012,
+    "draftedBy": "Portland Trail Blazers",
+    "number": "0",
+    "age": 36,
+    "seasons": 14,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/damian-lillard.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Portland Trail Blazers"
+  },
+  {
+    "id": "jalen-suggs",
+    "name": "Jalen Suggs",
+    "abbr": "ORL",
+    "rank": 87,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "4",
+    "age": 25,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jalen-suggs.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Orlando Magic"
+  },
+  {
+    "id": "ausar-thompson",
+    "name": "Ausar Thompson",
+    "abbr": "DET",
+    "rank": 88,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "number": "9",
+    "age": 23,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ausar-thompson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Detroit Pistons"
+  },
+  {
+    "id": "josh-hart",
+    "name": "Josh Hart",
+    "abbr": "NYK",
+    "rank": 89,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "3",
+    "age": 31,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/josh-hart.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "norman-powell",
+    "name": "Norman Powell",
+    "abbr": "CHI",
+    "rank": 90,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "24",
+    "age": 33,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/norman-powell.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Chicago Bulls"
+  },
+  {
+    "id": "ty-jerome",
+    "name": "Ty Jerome",
+    "abbr": "MEM",
+    "rank": 91,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "2",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ty-jerome.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Memphis Grizzlies"
+  },
+  {
+    "id": "derik-queen",
+    "name": "Derik Queen",
+    "abbr": "NOP",
+    "rank": 92,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "22",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/derik-queen.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New Orleans Pelicans"
+  },
+  {
+    "id": "jabari-smith-jr",
+    "name": "Jabari Smith Jr.",
+    "abbr": "HOU",
+    "rank": 93,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "10",
+    "age": 23,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jabari-smith-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "myles-turner",
+    "name": "Myles Turner",
+    "abbr": "MIL",
+    "rank": 94,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "33",
+    "age": 30,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/myles-turner.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Milwaukee Bucks"
+  },
+  {
+    "id": "andrew-wiggins",
+    "name": "Andrew Wiggins",
+    "abbr": "MIA",
+    "rank": 95,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "number": "22",
+    "age": 31,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/andrew-wiggins.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Miami Heat"
+  },
+  {
+    "id": "aj-dybantsa",
+    "name": "AJ Dybantsa",
+    "abbr": "WAS",
+    "rank": 96,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF",
+    "draftYear": 2026,
+    "draftPick": 1,
+    "draftedBy": "Washington Wizards",
+    "number": "4",
+    "age": 19,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/aj-dybantsa.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Washington Wizards"
+  },
+  {
+    "id": "nic-claxton",
+    "name": "Nic Claxton",
+    "abbr": "CHI",
+    "rank": 97,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "33",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/nic-claxton.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Chicago Bulls"
+  },
+  {
+    "id": "isaiah-hartenstein",
+    "name": "Isaiah Hartenstein",
+    "abbr": "OKC",
+    "rank": 98,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "55",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/isaiah-hartenstein.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "day-ron-sharpe",
+    "name": "Day’Ron Sharpe",
+    "abbr": "BKN",
+    "rank": 99,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "20",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/day-ron-sharpe.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Brooklyn Nets"
+  },
+  {
+    "id": "caleb-wilson",
+    "name": "Caleb Wilson",
+    "abbr": "CHI",
+    "rank": 100,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "draftYear": 2026,
+    "draftPick": 4,
+    "draftedBy": "Chicago Bulls",
+    "number": "8",
+    "age": 19,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/caleb-wilson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Chicago Bulls"
+  },
+  {
+    "id": "fred-vanvleet",
+    "name": "Fred VanVleet",
+    "abbr": "HOU",
+    "rank": 101,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "5",
+    "age": 32,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/fred-vanvleet.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "darryn-peterson",
+    "name": "Darryn Peterson",
+    "abbr": "UTA",
+    "rank": 102,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2026,
+    "draftPick": 2,
+    "draftedBy": "Utah Jazz",
+    "number": "22",
+    "age": 19,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/darryn-peterson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Utah Jazz"
+  },
+  {
+    "id": "kevin-porter-jr",
+    "name": "Kevin Porter Jr.",
+    "abbr": "MIL",
+    "rank": 103,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "7",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kevin-porter-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Milwaukee Bucks"
+  },
+  {
+    "id": "ayo-dosunmu",
+    "name": "Ayo Dosunmu",
+    "abbr": "MIN",
+    "rank": 104,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "11",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ayo-dosunmu.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Minnesota Timberwolves"
+  },
+  {
+    "id": "cedric-coward",
+    "name": "Cedric Coward",
+    "abbr": "MEM",
+    "rank": 105,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "0",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cedric-coward.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Memphis Grizzlies"
+  },
+  {
+    "id": "kyshawn-george",
+    "name": "Kyshawn George",
+    "abbr": "WAS",
+    "rank": 106,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "18",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kyshawn-george.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Washington Wizards"
+  },
+  {
+    "id": "cj-mccollum",
+    "name": "CJ McCollum",
+    "abbr": "ATL",
+    "rank": 107,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "3",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cj-mccollum.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Atlanta Hawks"
+  },
+  {
+    "id": "miles-bridges",
+    "name": "Miles Bridges",
+    "abbr": "PHX",
+    "rank": 108,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "0",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/miles-bridges.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Phoenix Suns"
+  },
+  {
+    "id": "john-collins",
+    "name": "John Collins",
+    "abbr": "DET",
+    "rank": 109,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "23",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/john-collins.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Detroit Pistons"
+  },
+  {
+    "id": "ajay-mitchell",
+    "name": "Ajay Mitchell",
+    "abbr": "OKC",
+    "rank": 110,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "25",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ajay-mitchell.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "zach-lavine",
+    "name": "Zach LaVine",
+    "abbr": "SAC",
+    "rank": 111,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "8",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/zach-lavine.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Sacramento Kings"
+  },
+  {
+    "id": "keegan-murray",
+    "name": "Keegan Murray",
+    "abbr": "SAC",
+    "rank": 112,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "13",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/keegan-murray.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Sacramento Kings"
+  },
+  {
+    "id": "reed-sheppard",
+    "name": "Reed Sheppard",
+    "abbr": "HOU",
+    "rank": 113,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "15",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/reed-sheppard.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "neemias-queta",
+    "name": "Neemias Queta",
+    "abbr": "BOS",
+    "rank": 114,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "88",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/neemias-queta.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Boston Celtics"
+  },
+  {
+    "id": "toumani-camara",
+    "name": "Toumani Camara",
+    "abbr": "POR",
+    "rank": 115,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "33",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/toumani-camara.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Portland Trail Blazers"
+  },
+  {
+    "id": "peyton-watson",
+    "name": "Peyton Watson",
+    "abbr": "CLE",
+    "rank": 116,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "8",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/peyton-watson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Cleveland Cavaliers"
+  },
+  {
+    "id": "collin-murray-boyles",
+    "name": "Collin Murray-Boyles",
+    "abbr": "TOR",
+    "rank": 117,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "12",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/collin-murray-boyles.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Toronto Raptors"
+  },
+  {
+    "id": "jakob-poeltl",
+    "name": "Jakob Poeltl",
+    "abbr": "TOR",
+    "rank": 118,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "19",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jakob-poeltl.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Toronto Raptors"
+  },
+  {
+    "id": "jalen-green",
+    "name": "Jalen Green",
+    "abbr": "PHX",
+    "rank": 119,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "8",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jalen-green.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Phoenix Suns"
+  },
+  {
+    "id": "mark-williams",
+    "name": "Mark Williams",
+    "abbr": "PHX",
+    "rank": 120,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "15",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/mark-williams.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Phoenix Suns"
+  },
+  {
+    "id": "cason-wallace",
+    "name": "Cason Wallace",
+    "abbr": "OKC",
+    "rank": 121,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "22",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cason-wallace.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "darius-acuff-jr",
+    "name": "Darius Acuff Jr.",
+    "abbr": "SAC",
+    "rank": 122,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2026,
+    "draftPick": 7,
+    "draftedBy": "Sacramento Kings",
+    "number": "4",
+    "age": 19,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/darius-acuff-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Sacramento Kings"
+  },
+  {
+    "id": "rj-barrett",
+    "name": "RJ Barrett",
+    "abbr": "TOR",
+    "rank": 123,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "9",
+    "age": 26,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/rj-barrett.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Toronto Raptors"
+  },
+  {
+    "id": "brandin-podziemski",
+    "name": "Brandin Podziemski",
+    "abbr": "GSW",
+    "rank": 124,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "2",
+    "age": 23,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/brandin-podziemski.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Golden State Warriors"
+  },
+  {
+    "id": "jusuf-nurkic",
+    "name": "Jusuf Nurkić",
+    "abbr": "UTA",
+    "rank": 125,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "20",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jusuf-nurkic.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Utah Jazz"
+  },
+  {
+    "id": "maxime-raynaud",
+    "name": "Maxime Raynaud",
+    "abbr": "SAC",
+    "rank": 126,
+    "category": "Current Players",
+    "status": "active",
+    "position": "C",
+    "number": "42",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/maxime-raynaud.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Sacramento Kings"
+  },
+  {
+    "id": "kristaps-porzingis",
+    "name": "Kristaps Porziņģis",
+    "abbr": "GSW",
+    "rank": 127,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "6",
+    "age": 31,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kristaps-porzingis.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Golden State Warriors"
+  },
+  {
+    "id": "anthony-black",
+    "name": "Anthony Black",
+    "abbr": "ORL",
+    "rank": 128,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "0",
+    "age": 22,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/anthony-black.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Orlando Magic"
+  },
+  {
+    "id": "jeremiah-fears",
+    "name": "Jeremiah Fears",
+    "abbr": "NOP",
+    "rank": 129,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "0",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jeremiah-fears.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New Orleans Pelicans"
+  },
+  {
+    "id": "sandro-mamukelashvili",
+    "name": "Sandro Mamukelashvili",
+    "abbr": "LAL",
+    "rank": 130,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "number": "54",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/sandro-mamukelashvili.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Los Angeles Lakers"
+  },
+  {
+    "id": "davion-mitchell",
+    "name": "Davion Mitchell",
+    "abbr": "MIA",
+    "rank": 131,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "45",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/davion-mitchell.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Miami Heat"
+  },
+  {
+    "id": "egor-demin",
+    "name": "Egor Dëmin",
+    "abbr": "BKN",
+    "rank": 132,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "13",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/egor-demin.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Brooklyn Nets"
+  },
+  {
+    "id": "andrew-nembhard",
+    "name": "Andrew Nembhard",
+    "abbr": "IND",
+    "rank": 133,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "2",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/andrew-nembhard.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Indiana Pacers"
+  },
+  {
+    "id": "p-j-washington",
+    "name": "P.J. Washington",
+    "abbr": "DAL",
+    "rank": 134,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "25",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/p-j-washington.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Dallas Mavericks"
+  },
+  {
+    "id": "collin-gillespie",
+    "name": "Collin Gillespie",
+    "abbr": "PHX",
+    "rank": 135,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "number": "12",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/collin-gillespie.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Phoenix Suns"
+  },
+  {
+    "id": "quentin-grimes",
+    "name": "Quentin Grimes",
+    "abbr": "LAL",
+    "rank": 136,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "5",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/quentin-grimes.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Los Angeles Lakers"
+  },
+  {
+    "id": "saddiq-bey",
+    "name": "Saddiq Bey",
+    "abbr": "NOP",
+    "rank": 137,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "14",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/saddiq-bey.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "New Orleans Pelicans"
+  },
+  {
+    "id": "jaime-jaquez-jr",
+    "name": "Jaime Jaquez Jr.",
+    "abbr": "MIL",
+    "rank": 138,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "11",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jaime-jaquez-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Milwaukee Bucks"
+  },
+  {
+    "id": "tari-eason",
+    "name": "Tari Eason",
+    "abbr": "HOU",
+    "rank": 139,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "17",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/tari-eason.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Houston Rockets"
+  },
+  {
+    "id": "demar-derozan",
+    "name": "DeMar DeRozan",
+    "abbr": "DEN",
+    "rank": 140,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "10",
+    "age": 37,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/demar-derozan.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Denver Nuggets"
+  },
+  {
+    "id": "yaxel-lendeborg",
+    "name": "Yaxel Lendeborg",
+    "abbr": "GSW",
+    "rank": 141,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "draftYear": 2026,
+    "draftPick": 11,
+    "draftedBy": "Golden State Warriors",
+    "number": "11",
+    "age": 23,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/yaxel-lendeborg.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Golden State Warriors"
+  },
+  {
+    "id": "christian-braun",
+    "name": "Christian Braun",
+    "abbr": "DEN",
+    "rank": 142,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "0",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/christian-braun.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Denver Nuggets"
+  },
+  {
+    "id": "ace-bailey",
+    "name": "Ace Bailey",
+    "abbr": "UTA",
+    "rank": 143,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "19",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/ace-bailey.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Utah Jazz"
+  },
+  {
+    "id": "aaron-gordon",
+    "name": "Aaron Gordon",
+    "abbr": "DEN",
+    "rank": 144,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "number": "32",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/aaron-gordon.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Denver Nuggets"
+  },
+  {
+    "id": "devin-vassell",
+    "name": "Devin Vassell",
+    "abbr": "SAS",
+    "rank": 145,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "24",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/devin-vassell.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "cameron-johnson",
+    "name": "Cameron Johnson",
+    "abbr": "DEN",
+    "rank": 146,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "number": "23",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/cameron-johnson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Denver Nuggets"
+  },
+  {
+    "id": "bennedict-mathurin",
+    "name": "Bennedict Mathurin",
+    "abbr": "LAC",
+    "rank": 147,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "number": "0",
+    "age": null,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/bennedict-mathurin.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "LA Clippers"
+  },
+  {
+    "id": "jrue-holiday",
+    "name": "Jrue Holiday",
+    "abbr": "POR",
+    "rank": 148,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "number": "6",
+    "age": 36,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jrue-holiday.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Portland Trail Blazers"
+  },
+  {
+    "id": "grayson-allen",
+    "name": "Grayson Allen",
+    "abbr": "CHA",
+    "rank": 149,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "number": "8",
+    "age": 30,
+    "seasons": null,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/grayson-allen.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": false,
+    "teamName": "Charlotte Hornets"
+  },
+  {
+    "id": "mikel-brown-jr",
+    "name": "Mikel Brown Jr.",
+    "abbr": "BKN",
+    "rank": 150,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG",
+    "draftYear": 2026,
+    "draftPick": 6,
+    "draftedBy": "Brooklyn Nets",
+    "number": "2",
+    "age": 19,
+    "seasons": 0,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/mikel-brown-jr.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Brooklyn Nets"
+  },
+  {
+    "id": "michael-jordan",
+    "name": "Michael Jordan",
+    "rank": 1,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SG",
+    "draftYear": 1984,
+    "draftedBy": "Chicago Bulls",
+    "number": "23",
+    "age": 63,
+    "seasons": 42,
+    "awards": {
+      "mvp": 5,
+      "championships": 6,
+      "finalsMvp": 6
+    },
+    "image": {
+      "file": "images/michael-jordan.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "jordan-clarkson",
+    "name": "Jordan Clarkson",
+    "abbr": "NYK",
+    "rank": 2,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "draftYear": 2014,
+    "draftedBy": "Washington Wizards",
+    "number": "00",
+    "age": 34,
+    "seasons": 12,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jordan-clarkson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "kareem-abdul-jabbar",
+    "name": "Kareem Abdul-Jabbar",
+    "rank": 3,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1969,
+    "draftedBy": "Milwaukee Bucks",
+    "number": "33",
+    "age": 79,
+    "seasons": 57,
+    "awards": {
+      "mvp": 6,
+      "championships": 6,
+      "finalsMvp": 2
+    },
+    "image": {
+      "file": "images/kareem-abdul-jabbar.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "bill-russell",
+    "name": "Bill Russell",
+    "rank": 4,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1956,
+    "draftedBy": "St. Louis Hawks",
+    "number": "6",
+    "age": 92,
+    "seasons": 70,
+    "awards": {
+      "mvp": 5,
+      "championships": 11,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/bill-russell.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "wilt-chamberlain",
+    "name": "Wilt Chamberlain",
+    "rank": 5,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1959,
+    "draftedBy": "Philadelphia Warriors",
+    "number": "13",
+    "age": 90,
+    "seasons": 67,
+    "awards": {
+      "mvp": 4,
+      "championships": 2,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/wilt-chamberlain.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "magic-johnson",
+    "name": "Magic Johnson",
+    "rank": 6,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1979,
+    "draftedBy": "Los Angeles Lakers",
+    "number": "32",
+    "age": 67,
+    "seasons": 47,
+    "awards": {
+      "mvp": 3,
+      "championships": 5,
+      "finalsMvp": 3
+    },
+    "image": {
+      "file": "images/magic-johnson.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "larry-bird",
+    "name": "Larry Bird",
+    "rank": 7,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1978,
+    "draftedBy": "Boston Celtics",
+    "number": "33",
+    "age": 69,
+    "seasons": 48,
+    "awards": {
+      "mvp": 3,
+      "championships": 3,
+      "finalsMvp": 2
+    },
+    "image": {
+      "file": "images/larry-bird.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "tim-duncan",
+    "name": "Tim Duncan",
+    "rank": 8,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF/C",
+    "draftYear": 1997,
+    "draftedBy": "San Antonio Spurs",
+    "number": "21",
+    "age": 50,
+    "seasons": 29,
+    "awards": {
+      "mvp": 2,
+      "championships": 5,
+      "finalsMvp": 3
+    },
+    "image": {
+      "file": "images/tim-duncan.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "shaquille-o-neal",
+    "name": "Shaquille O'Neal",
+    "rank": 9,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1992,
+    "draftedBy": "Orlando Magic",
+    "number": "34",
+    "age": 54,
+    "seasons": 34,
+    "awards": {
+      "mvp": 1,
+      "championships": 4,
+      "finalsMvp": 3
+    },
+    "image": {
+      "file": "images/shaquille-o-neal.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "kobe-bryant",
+    "name": "Kobe Bryant",
+    "rank": 10,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SG",
+    "draftYear": 1996,
+    "draftedBy": "Charlotte Hornets",
+    "number": "24",
+    "age": 48,
+    "seasons": 30,
+    "awards": {
+      "mvp": 1,
+      "championships": 5,
+      "finalsMvp": 2
+    },
+    "image": {
+      "file": "images/kobe-bryant.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "hakeem-olajuwon",
+    "name": "Hakeem Olajuwon",
+    "rank": 11,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1984,
+    "draftedBy": "Houston Rockets",
+    "number": "34",
+    "age": 63,
+    "seasons": 42,
+    "awards": {
+      "mvp": 1,
+      "championships": 2,
+      "finalsMvp": 2
+    },
+    "image": {
+      "file": "images/hakeem-olajuwon.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "jose-alvarado",
+    "name": "Jose Alvarado",
+    "abbr": "NYK",
+    "rank": 12,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "draftYear": null,
+    "draftedBy": "Undrafted",
+    "number": "5",
+    "age": 28,
+    "seasons": 5,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jose-alvarado.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "oscar-robertson",
+    "name": "Oscar Robertson",
+    "rank": 13,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1960,
+    "draftedBy": "Cincinnati Royals",
+    "number": "14",
+    "age": 87,
+    "seasons": 66,
+    "awards": {
+      "mvp": 1,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/oscar-robertson.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "jerry-west",
+    "name": "Jerry West",
+    "rank": 14,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG/SG",
+    "draftYear": 1960,
+    "draftedBy": "Minneapolis Lakers",
+    "number": "44",
+    "age": 88,
+    "seasons": 66,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/jerry-west.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "landry-shamet",
+    "name": "Landry Shamet",
+    "abbr": "NYK",
+    "rank": 15,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "draftYear": 2018,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "44",
+    "age": 29,
+    "seasons": 8,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/landry-shamet.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks"
+  },
+  {
+    "id": "julius-erving",
+    "name": "Julius Erving",
+    "rank": 16,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1972,
+    "draftedBy": "Milwaukee Bucks",
+    "number": "6",
+    "age": 76,
+    "seasons": 54,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/julius-erving.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "moses-malone",
+    "name": "Moses Malone",
+    "rank": 17,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1974,
+    "draftedBy": "Utah Stars",
+    "number": "24",
+    "age": 71,
+    "seasons": 52,
+    "awards": {
+      "mvp": 3,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/moses-malone.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "karl-malone",
+    "name": "Karl Malone",
+    "rank": 18,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF",
+    "number": "32",
+    "age": 63,
+    "seasons": null,
+    "awards": {
+      "mvp": 2,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/karl-malone.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "john-stockton",
+    "name": "John Stockton",
+    "rank": 19,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1984,
+    "draftedBy": "Utah Jazz",
+    "number": "12",
+    "age": 64,
+    "seasons": 42,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/john-stockton.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "charles-barkley",
+    "name": "Charles Barkley",
+    "rank": 20,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF",
+    "draftYear": 1984,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "34",
+    "age": 63,
+    "seasons": 42,
+    "awards": {
+      "mvp": 1,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/charles-barkley.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "david-robinson",
+    "name": "David Robinson",
+    "rank": 21,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1987,
+    "draftedBy": "San Antonio Spurs",
+    "number": "50",
+    "age": 61,
+    "seasons": 39,
+    "awards": {
+      "mvp": 1,
+      "championships": 2,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/david-robinson.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "kevin-garnett",
+    "name": "Kevin Garnett",
+    "rank": 22,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF",
+    "draftYear": 1995,
+    "draftedBy": "Minnesota Timberwolves",
+    "number": "21",
+    "age": 50,
+    "seasons": 31,
+    "awards": {
+      "mvp": 1,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/kevin-garnett.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "dirk-nowitzki",
+    "name": "Dirk Nowitzki",
+    "rank": 23,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF",
+    "draftYear": 1998,
+    "draftedBy": "Milwaukee Bucks",
+    "number": "41",
+    "age": 48,
+    "seasons": 28,
+    "awards": {
+      "mvp": 1,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/dirk-nowitzki.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "jared-mccain",
+    "name": "Jared McCain",
+    "abbr": "OKC",
+    "rank": 24,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": 2024,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "3",
+    "age": 22,
+    "seasons": 2,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jared-mccain.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "alex-caruso",
+    "name": "Alex Caruso",
+    "abbr": "OKC",
+    "rank": 25,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": null,
+    "draftedBy": "Undrafted",
+    "number": "9",
+    "age": 32,
+    "seasons": 9,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/alex-caruso.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "elgin-baylor",
+    "name": "Elgin Baylor",
+    "rank": 26,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1956,
+    "draftedBy": "Minneapolis Lakers",
+    "number": "22",
+    "age": 91,
+    "seasons": 70,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/elgin-baylor.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "bob-pettit",
+    "name": "Bob Pettit",
+    "rank": 27,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF",
+    "draftYear": 1954,
+    "draftedBy": "Milwaukee Hawks",
+    "number": "9",
+    "age": 93,
+    "seasons": 72,
+    "awards": {
+      "mvp": 2,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/bob-pettit.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "rick-barry",
+    "name": "Rick Barry",
+    "rank": 28,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1965,
+    "draftedBy": "San Francisco Warriors",
+    "number": "24",
+    "age": 82,
+    "seasons": 61,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/rick-barry.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "isiah-thomas",
+    "name": "Isiah Thomas",
+    "rank": 29,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1981,
+    "draftedBy": "Detroit Pistons",
+    "number": "11",
+    "age": 65,
+    "seasons": 45,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/isiah-thomas.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "john-havlicek",
+    "name": "John Havlicek",
+    "rank": 30,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1962,
+    "draftedBy": "Boston Celtics",
+    "number": "17",
+    "age": 86,
+    "seasons": 64,
+    "awards": {
+      "mvp": 0,
+      "championships": 8,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/john-havlicek.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "scottie-pippen",
+    "name": "Scottie Pippen",
+    "rank": 31,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1987,
+    "draftedBy": "Seattle SuperSonics",
+    "number": "33",
+    "age": 60,
+    "seasons": 39,
+    "awards": {
+      "mvp": 0,
+      "championships": 6,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/scottie-pippen.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "dwyane-wade",
+    "name": "Dwyane Wade",
+    "rank": 32,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SG",
+    "draftYear": 2003,
+    "draftedBy": "Miami Heat",
+    "number": "3",
+    "age": 44,
+    "seasons": 23,
+    "awards": {
+      "mvp": 0,
+      "championships": 3,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/dwyane-wade.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "chris-paul",
+    "name": "Chris Paul",
+    "rank": 33,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 2005,
+    "draftedBy": "New Orleans Hornets",
+    "number": "3",
+    "age": 41,
+    "seasons": 21,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/chris-paul.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "steve-nash",
+    "name": "Steve Nash",
+    "rank": 34,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1996,
+    "draftedBy": "Phoenix Suns",
+    "number": "13",
+    "age": 52,
+    "seasons": 30,
+    "awards": {
+      "mvp": 2,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/steve-nash.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "allen-iverson",
+    "name": "Allen Iverson",
+    "rank": 35,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1996,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "3",
+    "age": 51,
+    "seasons": 30,
+    "awards": {
+      "mvp": 1,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/allen-iverson.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "patrick-ewing",
+    "name": "Patrick Ewing",
+    "rank": 36,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1985,
+    "draftedBy": "New York Knicks",
+    "number": "33",
+    "age": 64,
+    "seasons": 41,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/patrick-ewing.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "clyde-drexler",
+    "name": "Clyde Drexler",
+    "rank": 37,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SG",
+    "draftYear": 1983,
+    "draftedBy": "Portland Trail Blazers",
+    "number": "22",
+    "age": 64,
+    "seasons": 43,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/clyde-drexler.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "jason-kidd",
+    "name": "Jason Kidd",
+    "rank": 38,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1994,
+    "draftedBy": "Dallas Mavericks",
+    "number": "5",
+    "age": 53,
+    "seasons": 32,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jason-kidd.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "jaylin-williams",
+    "name": "Jaylin Williams",
+    "abbr": "OKC",
+    "rank": 39,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "draftYear": 2022,
+    "draftedBy": "Oklahoma City Thunder",
+    "number": "6",
+    "age": 24,
+    "seasons": 4,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jaylin-williams.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder"
+  },
+  {
+    "id": "george-gervin",
+    "name": "George Gervin",
+    "rank": 40,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SG",
+    "draftYear": 1972,
+    "draftedBy": "Phoenix Suns",
+    "number": "44",
+    "age": 74,
+    "seasons": 54,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/george-gervin.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "russell-westbrook",
+    "name": "Russell Westbrook",
+    "rank": 41,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 2008,
+    "draftedBy": "Seattle SuperSonics",
+    "number": "0",
+    "age": 37,
+    "seasons": 18,
+    "awards": {
+      "mvp": 1,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/russell-westbrook.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "harrison-barnes",
+    "name": "Harrison Barnes",
+    "abbr": "SAS",
+    "rank": 42,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2012,
+    "draftedBy": "Golden State Warriors",
+    "number": "40",
+    "age": 34,
+    "seasons": 13,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/harrison-barnes.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "tobias-harris",
+    "name": "Tobias Harris",
+    "abbr": "SAS",
+    "rank": 43,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2011,
+    "draftedBy": "Charlotte Bobcats",
+    "number": "23",
+    "age": 34,
+    "seasons": 15,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/tobias-harris.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "julian-champagnie",
+    "name": "Julian Champagnie",
+    "abbr": "SAS",
+    "rank": 44,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "draftYear": null,
+    "draftedBy": "Undrafted",
+    "number": "30",
+    "age": 25,
+    "seasons": 4,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/julian-champagnie.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs"
+  },
+  {
+    "id": "kevin-mchale",
+    "name": "Kevin McHale",
+    "rank": 45,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PF",
+    "draftYear": 1980,
+    "draftedBy": "Boston Celtics",
+    "number": "32",
+    "age": 68,
+    "seasons": 46,
+    "awards": {
+      "mvp": 0,
+      "championships": 3,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/kevin-mchale.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "bill-walton",
+    "name": "Bill Walton",
+    "rank": 46,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "C",
+    "draftYear": 1974,
+    "draftedBy": "Portland Trail Blazers",
+    "number": "32",
+    "age": 73,
+    "seasons": 52,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 1
+    },
+    "image": {
+      "file": "images/bill-walton.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "walt-frazier",
+    "name": "Walt Frazier",
+    "rank": 47,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1967,
+    "draftedBy": "New York Knicks",
+    "number": "10",
+    "age": 81,
+    "seasons": 59,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/walt-frazier.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "gary-payton",
+    "name": "Gary Payton",
+    "rank": 48,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "PG",
+    "draftYear": 1990,
+    "draftedBy": "Seattle SuperSonics",
+    "number": "20",
+    "age": 58,
+    "seasons": 36,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/gary-payton.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "reggie-miller",
+    "name": "Reggie Miller",
+    "rank": 49,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SG",
+    "draftYear": 1987,
+    "draftedBy": "Indiana Pacers",
+    "number": "31",
+    "age": 61,
+    "seasons": 39,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/reggie-miller.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  },
+  {
+    "id": "dominique-wilkins",
+    "name": "Dominique Wilkins",
+    "rank": 50,
+    "category": "Classic Players",
+    "status": "retired",
+    "position": "SF",
+    "draftYear": 1982,
+    "draftedBy": "Utah Jazz",
+    "number": "21",
+    "age": 66,
+    "seasons": 44,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/dominique-wilkins.jpg",
+      "source": "",
+      "era": "prime"
+    },
+    "dataComplete": false,
+    "teamName": ""
+  }
+]

@@ -17,7 +17,7 @@ WHAT CHANGED IN V9
    "active" or "retired". Retired players are not forced to carry a
    current team/jersey -- the card shows "Retired" in place of a
    team/jersey combination for them. This is a status, not a new
-   category; the two existing categories (Top 150 / All-Time 50) are
+   category; the two categories (Current Players / Classic Players) are
    unchanged.
 
 4. players.json is now the single source of truth. index.html no longer
@@ -141,7 +141,7 @@ Also verified before packaging:
 
 WHAT WAS DELIBERATELY NOT CHANGED
 ----------------------------------
- - The 200-player list, rankings, and Top 150 / All-Time 50 categories.
+ - The 200-player list, rankings, and Current Players / Classic Players categories.
  - Visual design, card layout, and CSS (aside from the small "Retired"
    label and the hidden debug panel, which is invisible without ?debug=1).
  - Scoring/streak system, Learn/Guess behaviour, Shuffle behaviour.

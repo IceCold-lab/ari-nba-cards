@@ -18,7 +18,7 @@ VALID_ABBR = {
     "HOU", "IND", "LAC", "LAL", "MEM", "MIA", "MIL", "MIN", "NOP", "NYK",
     "OKC", "ORL", "PHI", "PHX", "POR", "SAC", "SAS", "TOR", "UTA", "WAS",
 }
-VALID_CATEGORIES = {"Top 150", "All-Time"}
+VALID_CATEGORIES = {"Current Players", "Classic Players"}
 VALID_POSITIONS = {"PG", "SG", "SF", "PF", "C", "PG/SG", "SG/SF", "SF/PF", "PF/C"}
 VALID_STATUS = {"active", "retired"}
 # draftYear/draftedBy/draftPick/abbr are legitimately optional in this schema
