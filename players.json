@@ -3713,7 +3713,7 @@
     "id": "jordan-clarkson",
     "name": "Jordan Clarkson",
     "abbr": "NYK",
-    "rank": 2,
+    "rank": 151,
     "category": "Current Players",
     "status": "active",
     "position": "PG/SG",
@@ -3738,7 +3738,7 @@
   {
     "id": "kareem-abdul-jabbar",
     "name": "Kareem Abdul-Jabbar",
-    "rank": 3,
+    "rank": 2,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3763,7 +3763,7 @@
   {
     "id": "bill-russell",
     "name": "Bill Russell",
-    "rank": 4,
+    "rank": 3,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3788,7 +3788,7 @@
   {
     "id": "wilt-chamberlain",
     "name": "Wilt Chamberlain",
-    "rank": 5,
+    "rank": 4,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3813,7 +3813,7 @@
   {
     "id": "magic-johnson",
     "name": "Magic Johnson",
-    "rank": 6,
+    "rank": 5,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -3838,7 +3838,7 @@
   {
     "id": "larry-bird",
     "name": "Larry Bird",
-    "rank": 7,
+    "rank": 6,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -3863,7 +3863,7 @@
   {
     "id": "tim-duncan",
     "name": "Tim Duncan",
-    "rank": 8,
+    "rank": 7,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF/C",
@@ -3888,7 +3888,7 @@
   {
     "id": "shaquille-o-neal",
     "name": "Shaquille O'Neal",
-    "rank": 9,
+    "rank": 8,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3913,7 +3913,7 @@
   {
     "id": "kobe-bryant",
     "name": "Kobe Bryant",
-    "rank": 10,
+    "rank": 9,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -3938,7 +3938,7 @@
   {
     "id": "hakeem-olajuwon",
     "name": "Hakeem Olajuwon",
-    "rank": 11,
+    "rank": 10,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3964,7 +3964,7 @@
     "id": "jose-alvarado",
     "name": "Jose Alvarado",
     "abbr": "NYK",
-    "rank": 12,
+    "rank": 152,
     "category": "Current Players",
     "status": "active",
     "position": "PG/SG",
@@ -3989,7 +3989,7 @@
   {
     "id": "oscar-robertson",
     "name": "Oscar Robertson",
-    "rank": 13,
+    "rank": 11,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4014,7 +4014,7 @@
   {
     "id": "jerry-west",
     "name": "Jerry West",
-    "rank": 14,
+    "rank": 12,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG/SG",
@@ -4040,7 +4040,7 @@
     "id": "landry-shamet",
     "name": "Landry Shamet",
     "abbr": "NYK",
-    "rank": 15,
+    "rank": 153,
     "category": "Current Players",
     "status": "active",
     "position": "SG/SF",
@@ -4065,7 +4065,7 @@
   {
     "id": "julius-erving",
     "name": "Julius Erving",
-    "rank": 16,
+    "rank": 13,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4090,7 +4090,7 @@
   {
     "id": "moses-malone",
     "name": "Moses Malone",
-    "rank": 17,
+    "rank": 14,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4115,7 +4115,7 @@
   {
     "id": "karl-malone",
     "name": "Karl Malone",
-    "rank": 18,
+    "rank": 15,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4138,7 +4138,7 @@
   {
     "id": "john-stockton",
     "name": "John Stockton",
-    "rank": 19,
+    "rank": 16,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4163,7 +4163,7 @@
   {
     "id": "charles-barkley",
     "name": "Charles Barkley",
-    "rank": 20,
+    "rank": 17,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4188,7 +4188,7 @@
   {
     "id": "david-robinson",
     "name": "David Robinson",
-    "rank": 21,
+    "rank": 18,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4213,7 +4213,7 @@
   {
     "id": "kevin-garnett",
     "name": "Kevin Garnett",
-    "rank": 22,
+    "rank": 19,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4238,7 +4238,7 @@
   {
     "id": "dirk-nowitzki",
     "name": "Dirk Nowitzki",
-    "rank": 23,
+    "rank": 20,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4264,7 +4264,7 @@
     "id": "jared-mccain",
     "name": "Jared McCain",
     "abbr": "OKC",
-    "rank": 24,
+    "rank": 154,
     "category": "Current Players",
     "status": "active",
     "position": "SG",
@@ -4290,7 +4290,7 @@
     "id": "alex-caruso",
     "name": "Alex Caruso",
     "abbr": "OKC",
-    "rank": 25,
+    "rank": 155,
     "category": "Current Players",
     "status": "active",
     "position": "SG",
@@ -4315,7 +4315,7 @@
   {
     "id": "elgin-baylor",
     "name": "Elgin Baylor",
-    "rank": 26,
+    "rank": 21,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4340,7 +4340,7 @@
   {
     "id": "bob-pettit",
     "name": "Bob Pettit",
-    "rank": 27,
+    "rank": 22,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4365,7 +4365,7 @@
   {
     "id": "rick-barry",
     "name": "Rick Barry",
-    "rank": 28,
+    "rank": 23,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4390,7 +4390,7 @@
   {
     "id": "isiah-thomas",
     "name": "Isiah Thomas",
-    "rank": 29,
+    "rank": 24,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4415,7 +4415,7 @@
   {
     "id": "john-havlicek",
     "name": "John Havlicek",
-    "rank": 30,
+    "rank": 25,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4440,7 +4440,7 @@
   {
     "id": "scottie-pippen",
     "name": "Scottie Pippen",
-    "rank": 31,
+    "rank": 26,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4465,7 +4465,7 @@
   {
     "id": "dwyane-wade",
     "name": "Dwyane Wade",
-    "rank": 32,
+    "rank": 27,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4490,7 +4490,7 @@
   {
     "id": "chris-paul",
     "name": "Chris Paul",
-    "rank": 33,
+    "rank": 28,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4515,7 +4515,7 @@
   {
     "id": "steve-nash",
     "name": "Steve Nash",
-    "rank": 34,
+    "rank": 29,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4540,7 +4540,7 @@
   {
     "id": "allen-iverson",
     "name": "Allen Iverson",
-    "rank": 35,
+    "rank": 30,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4565,7 +4565,7 @@
   {
     "id": "patrick-ewing",
     "name": "Patrick Ewing",
-    "rank": 36,
+    "rank": 31,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4590,7 +4590,7 @@
   {
     "id": "clyde-drexler",
     "name": "Clyde Drexler",
-    "rank": 37,
+    "rank": 32,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4615,7 +4615,7 @@
   {
     "id": "jason-kidd",
     "name": "Jason Kidd",
-    "rank": 38,
+    "rank": 33,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4641,7 +4641,7 @@
     "id": "jaylin-williams",
     "name": "Jaylin Williams",
     "abbr": "OKC",
-    "rank": 39,
+    "rank": 156,
     "category": "Current Players",
     "status": "active",
     "position": "PF/C",
@@ -4666,7 +4666,7 @@
   {
     "id": "george-gervin",
     "name": "George Gervin",
-    "rank": 40,
+    "rank": 34,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4691,7 +4691,7 @@
   {
     "id": "russell-westbrook",
     "name": "Russell Westbrook",
-    "rank": 41,
+    "rank": 35,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4717,7 +4717,7 @@
     "id": "harrison-barnes",
     "name": "Harrison Barnes",
     "abbr": "SAS",
-    "rank": 42,
+    "rank": 157,
     "category": "Current Players",
     "status": "active",
     "position": "SF/PF",
@@ -4743,7 +4743,7 @@
     "id": "tobias-harris",
     "name": "Tobias Harris",
     "abbr": "SAS",
-    "rank": 43,
+    "rank": 158,
     "category": "Current Players",
     "status": "active",
     "position": "SF/PF",
@@ -4769,7 +4769,7 @@
     "id": "julian-champagnie",
     "name": "Julian Champagnie",
     "abbr": "SAS",
-    "rank": 44,
+    "rank": 159,
     "category": "Current Players",
     "status": "active",
     "position": "PF",
@@ -4794,7 +4794,7 @@
   {
     "id": "kevin-mchale",
     "name": "Kevin McHale",
-    "rank": 45,
+    "rank": 36,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4819,7 +4819,7 @@
   {
     "id": "bill-walton",
     "name": "Bill Walton",
-    "rank": 46,
+    "rank": 37,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4844,7 +4844,7 @@
   {
     "id": "walt-frazier",
     "name": "Walt Frazier",
-    "rank": 47,
+    "rank": 38,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4869,7 +4869,7 @@
   {
     "id": "gary-payton",
     "name": "Gary Payton",
-    "rank": 48,
+    "rank": 39,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4894,7 +4894,7 @@
   {
     "id": "reggie-miller",
     "name": "Reggie Miller",
-    "rank": 49,
+    "rank": 40,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4919,7 +4919,7 @@
   {
     "id": "dominique-wilkins",
     "name": "Dominique Wilkins",
-    "rank": 50,
+    "rank": 41,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
