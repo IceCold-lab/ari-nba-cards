@@ -57,3 +57,12 @@ A Wikimedia Commons search result is not automatically approved for publication 
 ## Current scope
 
 This version is deliberately focused on reliable human review. It does not yet modify `image-manifest.json` or download final images. Once the approval workflow has been used and tested, the next step can be a small conversion utility that turns approved selections into the existing image manifest.
+
+
+## Crop adjustment
+
+Each candidate now has **Adjust crop**. This provides a live preview with zoom plus horizontal and vertical positioning. Use it when an otherwise good image needs a tighter crop or the subject needs repositioning.
+
+The adjustment is saved as crop instructions in the review data; the original Wikimedia image is never modified. Exported approvals include the crop settings so the later image-build step can apply them when creating the local card image.
+
+If the photographer actually cropped the person's head out of the source image, the tool cannot recover missing pixels — use another candidate instead.
