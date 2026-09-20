@@ -66,3 +66,7 @@ Each candidate now has **Adjust crop**. This provides a live preview with zoom p
 The adjustment is saved as crop instructions in the review data; the original Wikimedia image is never modified. Exported approvals include the crop settings so the later image-build step can apply them when creating the local card image.
 
 If the photographer actually cropped the person's head out of the source image, the tool cannot recover missing pixels — use another candidate instead.
+
+
+## v6 crop geometry
+This version uses a canonical 4:3 crop window, an original-image crop overlay, and a separate exact resulting-crop preview.
