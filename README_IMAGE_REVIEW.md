@@ -26,7 +26,7 @@ Do not open the HTML as `file://` on the phone. It needs to be served by GitHub 
 - Shows only 20 players at a time.
 - Searches Wikimedia Commons only for the visible batch.
 - Uses Wikimedia's anonymous CORS API (`origin=*`) to retrieve public image metadata and thumbnails.
-- Filters out unsupported formats and images smaller than 600px on either dimension.
+- Filters out unsupported formats and very small images. The current minimums are 250px on the short side, 450px on the long side, and 100,000 total pixels, allowing some lower-resolution but still usable candidates.
 - Ranks candidates using filename/title relevance, basketball context, dimensions and aspect ratio.
 - Caches search results and decisions in browser `localStorage`.
 - Uses a controlled request delay and backs off when Wikimedia returns 429/503.
@@ -69,4 +69,4 @@ If the photographer actually cropped the person's head out of the source image, 
 
 
 ## v6 crop geometry
-This version uses a canonical 4:3 crop window, an original-image crop overlay, and a separate exact resulting-crop preview.
+This version uses a canonical 3:4 portrait crop window, an original-image crop overlay, and a separate exact resulting-crop preview. The Commons search requests up to 20 results per query and retains up to 9 candidates, while allowing some lower-resolution images when they meet the minimum dimensions.
