@@ -70,3 +70,9 @@ If the photographer actually cropped the person's head out of the source image, 
 
 ## v6 crop geometry
 This version uses a canonical 3:4 portrait crop window, an original-image crop overlay, and a separate exact resulting-crop preview. The Commons search requests up to 20 results per query and retains up to 9 candidates, while allowing some lower-resolution images when they meet the minimum dimensions.
+
+## External image candidates
+
+Each player now has an **Add external image** form. Paste a direct `http(s)` image URL and optionally record a title, source page, creator, and licence/usage notes. The image is added to that player's candidate list and can be reviewed, cropped, kept, marked maybe, or rejected like a Wikimedia candidate.
+
+The browser measures the image's natural dimensions after it loads so the crop geometry uses the actual source aspect ratio. Exported approvals preserve the external URL and metadata. Before production use, verify that the source permits reuse and that GitHub Actions can download the URL; adding an external candidate to the reviewer does not itself guarantee automated build access.
