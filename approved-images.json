@@ -1,0 +1,1350 @@
+{
+  "version": 1,
+  "generated": "2026-09-26",
+  "aspect_ratio": "3:4",
+  "source": "image-approvals.json",
+  "players": {
+    "nikola-jokic": {
+      "name": "Nikola Jokić",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nikola_Jokic_%2851915399117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Nikola_Jokic_%2851915399117%29.jpg/960px-Nikola_Jokic_%2851915399117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nikola_Jokic_(51915399117).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 50
+      }
+    },
+    "victor-wembanyama": {
+      "name": "Victor Wembanyama",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/San_Antonio_at_Toronto_-_Wembanyama_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/San_Antonio_at_Toronto_-_Wembanyama_2024.jpg/960px-San_Antonio_at_Toronto_-_Wembanyama_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:San_Antonio_at_Toronto_-_Wembanyama_2024.jpg",
+      "artist": "H4stings",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 30
+      }
+    },
+    "shai-gilgeous-alexander": {
+      "name": "Shai Gilgeous-Alexander",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shai_Gilgeous-Alexander_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Shai_Gilgeous-Alexander_2_%28cropped%29.jpg/960px-Shai_Gilgeous-Alexander_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Shai_Gilgeous-Alexander_2_(cropped).jpg",
+      "artist": "Frenchieinportland",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "luka-doncic": {
+      "name": "Luka Dončić",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Luka_Don%C4%8Di%C4%87_and_Marines%2C_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Luka_Don%C4%8Di%C4%87_and_Marines%2C_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Luka_Don%C4%8Di%C4%87_and_Marines,_2026_(cropped).jpg",
+      "artist": "U.S. Embassy Ljubljana",
+      "license": "Public domain",
+      "crop": null
+    },
+    "cade-cunningham": {
+      "name": "Cade Cunningham",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Evan_Mobley%2C_Jarrett_Allen%2C_and_Cade_Cunningham_%2851915447699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Evan_Mobley%2C_Jarrett_Allen%2C_and_Cade_Cunningham_%2851915447699%29.jpg/960px-Evan_Mobley%2C_Jarrett_Allen%2C_and_Cade_Cunningham_%2851915447699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Evan_Mobley,_Jarrett_Allen,_and_Cade_Cunningham_(51915447699).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 40,
+        "y": 15
+      }
+    },
+    "jayson-tatum": {
+      "name": "Jayson Tatum",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jayson_Tatum%2C_Olympic_Games_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jayson_Tatum%2C_Olympic_Games_2024.jpg/960px-Jayson_Tatum%2C_Olympic_Games_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jayson_Tatum,_Olympic_Games_2024.jpg",
+      "artist": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 10
+      }
+    },
+    "giannis-antetokounmpo": {
+      "name": "Giannis Antetokounmpo",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Thanasis_and_Giannis_Antetokounmpo_at_Sepolia%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Thanasis_and_Giannis_Antetokounmpo_at_Sepolia%2C_Greece.jpg/960px-Thanasis_and_Giannis_Antetokounmpo_at_Sepolia%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Thanasis_and_Giannis_Antetokounmpo_at_Sepolia,_Greece.jpg",
+      "artist": "sixtwelve",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 45
+      }
+    },
+    "jalen-johnson": {
+      "name": "Jalen Johnson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jalen_Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jalen_Johnson.jpg/960px-Jalen_Johnson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalen_Johnson.jpg",
+      "artist": "Eleven Warriors",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "anthony-edwards": {
+      "name": "Anthony Edwards",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Anthony_Edwards_Kentavious_Caldwell-Pope_%2851734745028%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Anthony_Edwards_Kentavious_Caldwell-Pope_%2851734745028%29_%28cropped%29.jpg/960px-Anthony_Edwards_Kentavious_Caldwell-Pope_%2851734745028%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Anthony_Edwards_Kentavious_Caldwell-Pope_(51734745028)_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "tyrese-maxey": {
+      "name": "Tyrese Maxey",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/1_tyrese_maxey_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/1_tyrese_maxey_2026.jpg/960px-1_tyrese_maxey_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1_tyrese_maxey_2026.jpg",
+      "artist": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "tyrese-haliburton": {
+      "name": "Tyrese Haliburton",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1_tyrese_haliburton_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1_tyrese_haliburton_2025_%28cropped%29.jpg/960px-1_tyrese_haliburton_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1_tyrese_haliburton_2025_(cropped).jpg",
+      "artist": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "scottie-barnes": {
+      "name": "Scottie Barnes",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Scottie_Barnes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Scottie_Barnes.jpg/960px-Scottie_Barnes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Scottie_Barnes.jpg",
+      "artist": "Eleven Warriors",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "donovan-mitchell": {
+      "name": "Donovan Mitchell",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Donovan_Mitchell_makes_underhanded_layup_around_Alex_Len_in_2018_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Donovan_Mitchell_makes_underhanded_layup_around_Alex_Len_in_2018_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Donovan_Mitchell_makes_underhanded_layup_around_Alex_Len_in_2018_(crop).jpg",
+      "artist": "Dperfect",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 50
+      }
+    },
+    "kevin-durant": {
+      "name": "Kevin Durant",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Golden_State_Warriors_Small_Forward_Kevin_Durant_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Golden_State_Warriors_Small_Forward_Kevin_Durant_%28cropped%29.jpg/960px-Golden_State_Warriors_Small_Forward_Kevin_Durant_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Golden_State_Warriors_Small_Forward_Kevin_Durant_(cropped).jpg",
+      "artist": "Cyrus Saatsaz",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 2,
+        "x": 80,
+        "y": 0
+      }
+    },
+    "stephen-curry": {
+      "name": "Stephen Curry",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Stephen_Curry_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Stephen_Curry_close_up.jpg/960px-Stephen_Curry_close_up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Stephen_Curry_close_up.jpg",
+      "artist": "Noah Salzman",
+      "license": "CC BY-SA 3.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 50
+      }
+    },
+    "karl-anthony-towns": {
+      "name": "Karl-Anthony Towns",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Karl-Anthony_Towns_%2851915893840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Karl-Anthony_Towns_%2851915893840%29.jpg/960px-Karl-Anthony_Towns_%2851915893840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Karl-Anthony_Towns_(51915893840).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "trae-young": {
+      "name": "Trae Young",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Trae_Young_%282022_All-Star_Weekend%29_%2851916215049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Trae_Young_%282022_All-Star_Weekend%29_%2851916215049%29.jpg/960px-Trae_Young_%282022_All-Star_Weekend%29_%2851916215049%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Trae_Young_(2022_All-Star_Weekend)_(51916215049).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 35
+      }
+    },
+    "alperen-sengun": {
+      "name": "Alperen Sengun",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250822_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250822_%283%29.jpg/960px-Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250822_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alperen_%C5%9Eeng%C3%BCn_23_T%C3%BCrkiye_20250822_(3).jpg",
+      "artist": "Zafer",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "austin-reaves": {
+      "name": "Austin Reaves",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Austin_Reaves_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Austin_Reaves_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Austin_Reaves_2023.jpg",
+      "artist": "ReaganHoang10",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 40,
+        "y": 30
+      }
+    },
+    "james-harden": {
+      "name": "James Harden",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/James_Harden_%2851832174512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/James_Harden_%2851832174512%29.jpg/960px-James_Harden_%2851832174512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:James_Harden_(51832174512).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 30
+      }
+    },
+    "lamelo-ball": {
+      "name": "LaMelo Ball",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/LaMelo_Ball_Vytautas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/LaMelo_Ball_Vytautas.jpg/960px-LaMelo_Ball_Vytautas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:LaMelo_Ball_Vytautas.jpg",
+      "artist": "Graham Hodges",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 30
+      }
+    },
+    "josh-giddey": {
+      "name": "Josh Giddey",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Josh_Giddey_%2851915174941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Josh_Giddey_%2851915174941%29.jpg/960px-Josh_Giddey_%2851915174941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Josh_Giddey_(51915174941).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 30
+      }
+    },
+    "jamal-murray": {
+      "name": "Jamal Murray",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Denver_Nuggets_2023_Championship_parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Denver_Nuggets_2023_Championship_parade.png/960px-Denver_Nuggets_2023_Championship_parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Denver_Nuggets_2023_Championship_parade.png",
+      "artist": "Milosgr97",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 10
+      }
+    },
+    "anthony-davis": {
+      "name": "Anthony Davis",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Anthony_Davis_12711093105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Anthony_Davis_12711093105.jpg/960px-Anthony_Davis_12711093105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Anthony_Davis_12711093105.jpg",
+      "artist": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 5
+      }
+    },
+    "evan-mobley": {
+      "name": "Evan Mobley",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Evan_Mobley_%2851914176247%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Evan_Mobley_%2851914176247%29.jpg/960px-Evan_Mobley_%2851914176247%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Evan_Mobley_(51914176247).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 20
+      }
+    },
+    "domantas-sabonis": {
+      "name": "Domantas Sabonis",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sabonis_Pacers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Sabonis_Pacers.jpg/960px-Sabonis_Pacers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sabonis_Pacers.jpg",
+      "artist": "Taphazardly",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "lauri-markkanen": {
+      "name": "Lauri Markkanen",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Lauri_Markkanen_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lauri_Markkanen_2021.jpg/960px-Lauri_Markkanen_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lauri_Markkanen_2021.jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "kawhi-leonard": {
+      "name": "Kawhi Leonard",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/1_kawhi_leonard_2019_nba_finals_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/1_kawhi_leonard_2019_nba_finals_%28cropped%29.jpg/960px-1_kawhi_leonard_2019_nba_finals_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1_kawhi_leonard_2019_nba_finals_(cropped).jpg",
+      "artist": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "jalen-williams": {
+      "name": "Jalen Williams",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jalen_Williams_OKCThunder_2025_NBA_Cup_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jalen_Williams_OKCThunder_2025_NBA_Cup_%28cropped%29.jpg/960px-Jalen_Williams_OKCThunder_2025_NBA_Cup_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalen_Williams_OKCThunder_2025_NBA_Cup_(cropped).jpg",
+      "artist": "Daiei Onoguchi",
+      "license": "CC BY 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "derrick-white": {
+      "name": "Derrick White",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/USMC-12841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/USMC-12841.jpg/960px-USMC-12841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:USMC-12841.jpg",
+      "artist": "http://www.marines.mil/unit/iimef/PublishingImages/IMG_6291.jpg",
+      "license": "Public domain",
+      "crop": null
+    },
+    "kon-knueppel": {
+      "name": "Kon Knueppel",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kon_Knueppel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kon_Knueppel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Kon_Knueppel.jpg",
+      "artist": "Unknown author Unknown author",
+      "license": "CC0",
+      "crop": null
+    },
+    "jaylen-brown": {
+      "name": "Jaylen Brown",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jaylen_Brown_%2840484839775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Jaylen_Brown_%2840484839775%29.jpg/960px-Jaylen_Brown_%2840484839775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jaylen_Brown_(40484839775).jpg",
+      "artist": "Keith Allison from Hanover, MD, USA",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 1.5,
+        "x": 20,
+        "y": 80
+      }
+    },
+    "jalen-duren": {
+      "name": "Jalen Duren",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jalen_Duren_Free_Throw_01252026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Jalen_Duren_Free_Throw_01252026_%28cropped%29.jpg/960px-Jalen_Duren_Free_Throw_01252026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalen_Duren_Free_Throw_01252026_(cropped).jpg",
+      "artist": "Pikraken",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "nickeil-alexander-walker": {
+      "name": "Nickeil Alexander-Walker",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93083.jpg/960px-2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93083.jpg",
+      "artist": "Sandro Halank, Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "darius-garland": {
+      "name": "Darius Garland",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Darius_Garland_%2851916248830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Darius_Garland_%2851916248830%29.jpg/960px-Darius_Garland_%2851916248830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Darius_Garland_(51916248830).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 35
+      }
+    },
+    "kyrie-irving": {
+      "name": "Kyrie Irving",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kyrie_Irving_%2810355627426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Kyrie_Irving_%2810355627426%29.jpg/960px-Kyrie_Irving_%2810355627426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Kyrie_Irving_(10355627426).jpg",
+      "artist": "Erik Drost from United States",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "desmond-bane": {
+      "name": "Desmond Bane",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Desmond_Bane_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Desmond_Bane_2_%28cropped%29.jpg/960px-Desmond_Bane_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Desmond_Bane_2_(cropped).jpg",
+      "artist": "Nathan Lowe",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "lebron-james": {
+      "name": "LeBron James",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LeBron_James_at_GSW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/LeBron_James_at_GSW.jpg/960px-LeBron_James_at_GSW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:LeBron_James_at_GSW.jpg",
+      "artist": "Steve Jurvetson",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "matas-buzelis": {
+      "name": "Matas Buzelis",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Matas_Buzelis_Jan_14_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Matas_Buzelis_Jan_14_2026.jpg/960px-Matas_Buzelis_Jan_14_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Matas_Buzelis_Jan_14_2026.jpg",
+      "artist": "Brady Saylor",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "franz-wagner": {
+      "name": "Franz Wagner",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93117.jpg/960px-2023-08-09_Deutschland_gegen_Kanada_%28Basketball-L%C3%A4nderspiel%29_by_Sandro_Halank%E2%80%93117.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2023-08-09_Deutschland_gegen_Kanada_(Basketball-L%C3%A4nderspiel)_by_Sandro_Halank%E2%80%93117.jpg",
+      "artist": "Sandro Halank, Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "pascal-siakam": {
+      "name": "Pascal Siakam",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/72/Patrick_Patterson_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Patrick_Patterson_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Patterson_2017.jpg",
+      "artist": "Peter Kudlacz",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "cameron-boozer": {
+      "name": "Cameron Boozer",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Boozer_%E2%80%93_Clemson_%E2%80%93_February_14_2026_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Boozer_%E2%80%93_Clemson_%E2%80%93_February_14_2026_%28cropped%29.png/960px-Boozer_%E2%80%93_Clemson_%E2%80%93_February_14_2026_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Boozer_%E2%80%93_Clemson_%E2%80%93_February_14_2026_(cropped).png",
+      "artist": "CIarke",
+      "license": "CC BY 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "og-anunoby": {
+      "name": "OG Anunoby",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/OG_Anunoby_%2851653799162%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/OG_Anunoby_%2851653799162%29_%28cropped%29.jpg/960px-OG_Anunoby_%2851653799162%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:OG_Anunoby_(51653799162)_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "joel-embiid": {
+      "name": "Joel Embiid",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Joel_Embiid%2C_Olympic_Games_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Joel_Embiid%2C_Olympic_Games_2024.jpg/960px-Joel_Embiid%2C_Olympic_Games_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Joel_Embiid,_Olympic_Games_2024.jpg",
+      "artist": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 15,
+        "y": 0
+      }
+    },
+    "dejounte-murray": {
+      "name": "Dejounte Murray",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dejounte_Murray_Tours_the_METC_%285148235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dejounte_Murray_Tours_the_METC_%285148235%29.jpg/960px-Dejounte_Murray_Tours_the_METC_%285148235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dejounte_Murray_Tours_the_METC_(5148235).jpg",
+      "artist": "U.S. Navy photo by Mass Communication Specialist 2nd Class Shayla D. Hamilton/Released",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1.2,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "michael-porter-jr": {
+      "name": "Michael Porter Jr.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Michael_Porter_Nuggets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Michael_Porter_Nuggets.jpg/960px-Michael_Porter_Nuggets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Michael_Porter_Nuggets.jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 25
+      }
+    },
+    "alex-sarr": {
+      "name": "Alex Sarr",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2025_Washington_Wizards_Media_Day_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2025_Washington_Wizards_Media_Day_22.jpg/960px-2025_Washington_Wizards_Media_Day_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2025_Washington_Wizards_Media_Day_22.jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "ivica-zubac": {
+      "name": "Ivica Zubac",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ivica_Zubac_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ivica_Zubac_%28cropped%29.jpg/960px-Ivica_Zubac_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ivica_Zubac_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "naz-reid": {
+      "name": "Naz Reid",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Naz_Reid_%2851733687822%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Naz_Reid_%2851733687822%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Naz_Reid_(51733687822)_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "ja-morant": {
+      "name": "Ja Morant",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ja_Morant_dribbling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Ja_Morant_dribbling.jpg/960px-Ja_Morant_dribbling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ja_Morant_dribbling.jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "rudy-gobert": {
+      "name": "Rudy Gobert",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rudy_Gobert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rudy_Gobert.jpg/960px-Rudy_Gobert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Rudy_Gobert.jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "vj-edgecombe": {
+      "name": "VJ Edgecombe",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/V._J._Edgecombe_Baylor_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/V._J._Edgecombe_Baylor_2025.jpg/960px-V._J._Edgecombe_Baylor_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:V._J._Edgecombe_Baylor_2025.jpg",
+      "artist": "SneakinDeacon",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "coby-white": {
+      "name": "Coby White",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/White_with_the_Chicago_Bulls_on_January_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/White_with_the_Chicago_Bulls_on_January_2022.jpg/960px-White_with_the_Chicago_Bulls_on_January_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:White_with_the_Chicago_Bulls_on_January_2022.jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "paul-george": {
+      "name": "Paul George",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pacers_Paul_George_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Pacers_Paul_George_%28cropped%29.jpg/960px-Pacers_Paul_George_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Pacers_Paul_George_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "dylan-harper": {
+      "name": "Dylan Harper",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dylan_Harper_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dylan_Harper_in_2026.jpg/960px-Dylan_Harper_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dylan_Harper_in_2026.jpg",
+      "artist": "Petsbikes",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "zion-williamson": {
+      "name": "Zion Williamson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Zion_Williamson_%2849488462157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Zion_Williamson_%2849488462157%29.jpg/960px-Zion_Williamson_%2849488462157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Zion_Williamson_(49488462157).jpg",
+      "artist": "Erik Drost on Flickr",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 1.5,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "jarrett-allen": {
+      "name": "Jarrett Allen",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jarrett_Allen_%2851915630921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Jarrett_Allen_%2851915630921%29.jpg/960px-Jarrett_Allen_%2851915630921%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jarrett_Allen_(51915630921).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2.5,
+        "x": 50,
+        "y": 40
+      }
+    },
+    "payton-pritchard": {
+      "name": "Payton Pritchard",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Payton_Pritchard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Payton_Pritchard.jpg/960px-Payton_Pritchard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Payton_Pritchard.jpg",
+      "artist": "Marc-Gregor Campredon",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "damian-lillard": {
+      "name": "Damian Lillard",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Damian_Lillard_%2851658901900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Damian_Lillard_%2851658901900%29.jpg/960px-Damian_Lillard_%2851658901900%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Damian_Lillard_(51658901900).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 1.3,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "ausar-thompson": {
+      "name": "Ausar Thompson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ausar_Thompson_free_throw_1252026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ausar_Thompson_free_throw_1252026.jpg/960px-Ausar_Thompson_free_throw_1252026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ausar_Thompson_free_throw_1252026.jpg",
+      "artist": "Pikraken",
+      "license": "CC BY 4.0",
+      "crop": {
+        "zoom": 1.5,
+        "x": 50,
+        "y": 20
+      }
+    },
+    "norman-powell": {
+      "name": "Norman Powell",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Dean_Wade_vs_Norman_Powell%2C_Cleveland_Cavaliers_vs_Portland_Trail_Blazers_on_November_3%2C_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Dean_Wade_vs_Norman_Powell%2C_Cleveland_Cavaliers_vs_Portland_Trail_Blazers_on_November_3%2C_2021_%28cropped%29.jpg/960px-Dean_Wade_vs_Norman_Powell%2C_Cleveland_Cavaliers_vs_Portland_Trail_Blazers_on_November_3%2C_2021_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dean_Wade_vs_Norman_Powell,_Cleveland_Cavaliers_vs_Portland_Trail_Blazers_on_November_3,_2021_(cropped).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "jabari-smith-jr": {
+      "name": "Jabari Smith Jr.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/1_jabari_smith_jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/1_jabari_smith_jr.jpg/960px-1_jabari_smith_jr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1_jabari_smith_jr.jpg",
+      "artist": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 30
+      }
+    },
+    "myles-turner": {
+      "name": "Myles Turner",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/20140402_MCDAAG_Cliff_Alexander_tomahawk_dunk_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/20140402_MCDAAG_Cliff_Alexander_tomahawk_dunk_%282%29.JPG/960px-20140402_MCDAAG_Cliff_Alexander_tomahawk_dunk_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:20140402_MCDAAG_Cliff_Alexander_tomahawk_dunk_(2).JPG",
+      "artist": "TonyTheTiger",
+      "license": "CC BY-SA 3.0",
+      "crop": {
+        "zoom": 2,
+        "x": 70,
+        "y": 30
+      }
+    },
+    "andrew-wiggins": {
+      "name": "Andrew Wiggins",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/20130403_MCDAAG_Andrew_Wiggins_dunking_B_%287%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/20130403_MCDAAG_Andrew_Wiggins_dunking_B_%287%29.JPG/960px-20130403_MCDAAG_Andrew_Wiggins_dunking_B_%287%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:20130403_MCDAAG_Andrew_Wiggins_dunking_B_(7).JPG",
+      "artist": "TonyTheTiger",
+      "license": "CC BY-SA 3.0",
+      "crop": {
+        "zoom": 2,
+        "x": 55,
+        "y": 30
+      }
+    },
+    "nic-claxton": {
+      "name": "Nic Claxton",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nicolas_Claxton_%2849165813553%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nicolas_Claxton_%2849165813553%29_%28cropped%29.jpg/960px-Nicolas_Claxton_%2849165813553%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Claxton_(49165813553)_(cropped).jpg",
+      "artist": "Erik Drost on Flickr",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "isaiah-hartenstein": {
+      "name": "Isaiah Hartenstein",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Isaiah_Hartenstein_with_the_Clippers_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Isaiah_Hartenstein_with_the_Clippers_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Isaiah_Hartenstein_with_the_Clippers_in_2022_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "day-ron-sharpe": {
+      "name": "Day’Ron Sharpe",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Dayron_Sharpe_%2851833854120%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Dayron_Sharpe_%2851833854120%29_%28cropped%29.jpg/960px-Dayron_Sharpe_%2851833854120%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dayron_Sharpe_(51833854120)_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "darryn-peterson": {
+      "name": "Darryn Peterson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/7th_grade_Darryn_peterson_AAU_game_full_body.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/7th_grade_Darryn_peterson_AAU_game_full_body.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:7th_grade_Darryn_peterson_AAU_game_full_body.jpg",
+      "artist": "HoopDiamonds",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "kevin-porter-jr": {
+      "name": "Kevin Porter Jr.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kevin_Porter_Jr._%2848885562137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Kevin_Porter_Jr._%2848885562137%29.jpg/960px-Kevin_Porter_Jr._%2848885562137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Kevin_Porter_Jr._(48885562137).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "ayo-dosunmu": {
+      "name": "Ayo Dosunmu",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ayo_Dosunmu_with_the_Chicago_Bulls_in_January_1%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Ayo_Dosunmu_with_the_Chicago_Bulls_in_January_1%2C_2022.jpg/960px-Ayo_Dosunmu_with_the_Chicago_Bulls_in_January_1%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ayo_Dosunmu_with_the_Chicago_Bulls_in_January_1,_2022.jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "kyshawn-george": {
+      "name": "Kyshawn George",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kyshawn_George_%28241117-F-XI802-1065%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kyshawn_George_%28241117-F-XI802-1065%29_%28cropped%29.jpg/960px-Kyshawn_George_%28241117-F-XI802-1065%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Kyshawn_George_(241117-F-XI802-1065)_(cropped).jpg",
+      "artist": "Senior Airman Martha Moore",
+      "license": "Public domain",
+      "crop": null
+    },
+    "cj-mccollum": {
+      "name": "CJ McCollum",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/CJ_McCollum_%282022_All-Star_Weekend%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/CJ_McCollum_%282022_All-Star_Weekend%29.jpg/960px-CJ_McCollum_%282022_All-Star_Weekend%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:CJ_McCollum_(2022_All-Star_Weekend).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "john-collins": {
+      "name": "John Collins",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/John_Collins_%2851637103643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/John_Collins_%2851637103643%29.jpg/960px-John_Collins_%2851637103643%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:John_Collins_(51637103643).jpg",
+      "artist": "All-Pro Reels from District of Columbia, USA",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 10
+      }
+    },
+    "ajay-mitchell": {
+      "name": "Ajay Mitchell",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ajay_Mitchell_OKCThunder_2025_at_the_NBA_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ajay_Mitchell_OKCThunder_2025_at_the_NBA_Cup.jpg/960px-Ajay_Mitchell_OKCThunder_2025_at_the_NBA_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ajay_Mitchell_OKCThunder_2025_at_the_NBA_Cup.jpg",
+      "artist": "Daiei Onoguchi",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "zach-lavine": {
+      "name": "Zach LaVine",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Zach_LaVine_vs_USC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Zach_LaVine_vs_USC_%28cropped%29.jpg/960px-Zach_LaVine_vs_USC_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Zach_LaVine_vs_USC_(cropped).jpg",
+      "artist": "Neon Tommy",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "neemias-queta": {
+      "name": "Neemias Queta",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Celtics_at_Wizards_2024-12-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Celtics_at_Wizards_2024-12-002.jpg/960px-Celtics_at_Wizards_2024-12-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Celtics_at_Wizards_2024-12-002.jpg",
+      "artist": "Hameltion",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 1.6,
+        "x": 50,
+        "y": 50
+      }
+    },
+    "toumani-camara": {
+      "name": "Toumani Camara",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Toumani_Camara_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Toumani_Camara_2024.jpg/960px-Toumani_Camara_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Toumani_Camara_2024.jpg",
+      "artist": "Frenchieinportland",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "peyton-watson": {
+      "name": "Peyton Watson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/Peyton_Watson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Peyton_Watson.jpg/960px-Peyton_Watson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Peyton_Watson.jpg",
+      "artist": "Steve Cheng, Bruin Report Online",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "jakob-poeltl": {
+      "name": "Jakob Poeltl",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Markieff_Morris%2C_Jakob_Poeltl_%2840586395271%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Markieff_Morris%2C_Jakob_Poeltl_%2840586395271%29.jpg/960px-Markieff_Morris%2C_Jakob_Poeltl_%2840586395271%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Markieff_Morris,_Jakob_Poeltl_(40586395271).jpg",
+      "artist": "Keith Allison from Hanover, MD, USA",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "jalen-green": {
+      "name": "Jalen Green",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jalen_Green_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jalen_Green_2022_%28cropped%29.jpg/960px-Jalen_Green_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalen_Green_2022_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "rj-barrett": {
+      "name": "RJ Barrett",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RJ_Barrett_Knicks_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/RJ_Barrett_Knicks_%28cropped%29.jpg/960px-RJ_Barrett_Knicks_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RJ_Barrett_Knicks_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "jusuf-nurkic": {
+      "name": "Jusuf Nurkić",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jusuf_Nurki%C4%8727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Jusuf_Nurki%C4%8727.jpg/960px-Jusuf_Nurki%C4%8727.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jusuf_Nurki%C4%8727.jpg",
+      "artist": "Frenchieinportland",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 2,
+        "x": 55,
+        "y": 70
+      }
+    },
+    "maxime-raynaud": {
+      "name": "Maxime Raynaud",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Maxime_Raynaud_01252026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Maxime_Raynaud_01252026.jpg/960px-Maxime_Raynaud_01252026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Maxime_Raynaud_01252026.jpg",
+      "artist": "Pikraken",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "kristaps-porzingis": {
+      "name": "Kristaps Porziņģis",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Suitu_sievas_and_Kristaps_Porzingis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Suitu_sievas_and_Kristaps_Porzingis.jpg/960px-Suitu_sievas_and_Kristaps_Porzingis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Suitu_sievas_and_Kristaps_Porzingis.jpg",
+      "artist": "Suitu sieva",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "saddiq-bey": {
+      "name": "Saddiq Bey",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Saddiq_Bey_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Saddiq_Bey_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Saddiq_Bey_(cropped).jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "tari-eason": {
+      "name": "Tari Eason",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/1_tari_eason.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/1_tari_eason.jpg/960px-1_tari_eason.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1_tari_eason.jpg",
+      "artist": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "demar-derozan": {
+      "name": "DeMar DeRozan",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/DeMar_DeRozan_%2851915293454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/DeMar_DeRozan_%2851915293454%29.jpg/960px-DeMar_DeRozan_%2851915293454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:DeMar_DeRozan_(51915293454).jpg",
+      "artist": "Erik Drost",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "yaxel-lendeborg": {
+      "name": "Yaxel Lendeborg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/20260211_Yaxel_Lendeborg_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/20260211_Yaxel_Lendeborg_13.jpg/960px-20260211_Yaxel_Lendeborg_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:20260211_Yaxel_Lendeborg_13.jpg",
+      "artist": "TonyTheTiger",
+      "license": "CC0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 20
+      }
+    },
+    "devin-vassell": {
+      "name": "Devin Vassell",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/DevinVassellFSU_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/DevinVassellFSU_%28cropped%29.jpg/960px-DevinVassellFSU_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:DevinVassellFSU_(cropped).jpg",
+      "artist": "Photo by Jacob Gralton",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 2,
+        "x": 50,
+        "y": 40
+      }
+    },
+    "jrue-holiday": {
+      "name": "Jrue Holiday",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jrue_Holiday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Jrue_Holiday.jpg/960px-Jrue_Holiday.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jrue_Holiday.jpg",
+      "artist": "All-Pro Reels",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 1.2,
+        "x": 50,
+        "y": 10
+      }
+    },
+    "grayson-allen": {
+      "name": "Grayson Allen",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/20140402_MCDAAG_Grayson_Allen_dunk_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/20140402_MCDAAG_Grayson_Allen_dunk_%282%29.JPG/960px-20140402_MCDAAG_Grayson_Allen_dunk_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:20140402_MCDAAG_Grayson_Allen_dunk_(2).JPG",
+      "artist": "TonyTheTiger",
+      "license": "CC BY-SA 3.0",
+      "crop": null
+    },
+    "jordan-clarkson": {
+      "name": "Jordan Clarkson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Jordan_Clarkson_NY_Knicks_2025_NBA_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Jordan_Clarkson_NY_Knicks_2025_NBA_Cup.jpg/960px-Jordan_Clarkson_NY_Knicks_2025_NBA_Cup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jordan_Clarkson_NY_Knicks_2025_NBA_Cup.jpg",
+      "artist": "Daiei Onoguchi",
+      "license": "CC BY 4.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "kareem-abdul-jabbar": {
+      "name": "Kareem Abdul-Jabbar",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kareem_Abdul-Jabbar_1970.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kareem_Abdul-Jabbar_1970.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Kareem_Abdul-Jabbar_1970.jpeg",
+      "artist": "Unknown author Unknown author",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1.5,
+        "x": 60,
+        "y": 0
+      }
+    },
+    "bill-russell": {
+      "name": "Bill Russell",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Bill_Russell_dribbling_Boston_Celtics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bill_Russell_dribbling_Boston_Celtics.jpg/960px-Bill_Russell_dribbling_Boston_Celtics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bill_Russell_dribbling_Boston_Celtics.jpg",
+      "artist": "Unknown author Unknown author",
+      "license": "Public domain",
+      "crop": null
+    },
+    "wilt-chamberlain": {
+      "name": "Wilt Chamberlain",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Wilt_Chamberlain_100_Point_Game_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Wilt_Chamberlain_100_Point_Game_1962.jpg/960px-Wilt_Chamberlain_100_Point_Game_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Wilt_Chamberlain_100_Point_Game_1962.jpg",
+      "artist": "Paul Vathis",
+      "license": "Public domain",
+      "crop": null
+    },
+    "larry-bird": {
+      "name": "Larry Bird",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/December_1983_One_on_One_Dr_J_vs_Larry_Bird_advertisement_by_Electronic_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/December_1983_One_on_One_Dr_J_vs_Larry_Bird_advertisement_by_Electronic_Arts.jpg/960px-December_1983_One_on_One_Dr_J_vs_Larry_Bird_advertisement_by_Electronic_Arts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:December_1983_One_on_One_Dr_J_vs_Larry_Bird_advertisement_by_Electronic_Arts.jpg",
+      "artist": "Electronic Arts",
+      "license": "Public domain",
+      "crop": null
+    },
+    "tim-duncan": {
+      "name": "Tim Duncan",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tim_Duncan_in_the_paint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Tim_Duncan_in_the_paint.jpg/960px-Tim_Duncan_in_the_paint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Tim_Duncan_in_the_paint.jpg",
+      "artist": "rimesparse",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "kobe-bryant": {
+      "name": "Kobe Bryant",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kobe_Bryant_8.jpg/960px-Kobe_Bryant_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Kobe_Bryant_8.jpg",
+      "artist": "Kobe_Bryant_7144.jpg : Sgt. Joseph A. Lee derivative work: JoeJohnson2 ( talk )",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1,
+        "x": 60,
+        "y": 50
+      }
+    },
+    "hakeem-olajuwon": {
+      "name": "Hakeem Olajuwon",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hakeem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Hakeem.jpg/960px-Hakeem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Hakeem.jpg",
+      "artist": "University of Houston Digital Library",
+      "license": "Public domain",
+      "crop": null
+    },
+    "jose-alvarado": {
+      "name": "Jose Alvarado",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jose_Alvarado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Jose_Alvarado.jpg/960px-Jose_Alvarado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jose_Alvarado.jpg",
+      "artist": "SneakinDeacon",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "oscar-robertson": {
+      "name": "Oscar Robertson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Oscar_Robertson_1966.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Oscar_Robertson_1966.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Oscar_Robertson_1966.jpeg",
+      "artist": "Malcolm W. Emmons",
+      "license": "Public domain",
+      "crop": null
+    },
+    "jerry-west": {
+      "name": "Jerry West",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jerry_West_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Jerry_West_1973.jpg/960px-Jerry_West_1973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jerry_West_1973.jpg",
+      "artist": "Associated Press",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1,
+        "x": 0,
+        "y": 50
+      }
+    },
+    "julius-erving": {
+      "name": "Julius Erving",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Dave_DeBusschere_and_Julius_Erving.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Dave_DeBusschere_and_Julius_Erving.jpeg/960px-Dave_DeBusschere_and_Julius_Erving.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dave_DeBusschere_and_Julius_Erving.jpeg",
+      "artist": "Ann Chwatsky",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1.5,
+        "x": 100,
+        "y": 50
+      }
+    },
+    "karl-malone": {
+      "name": "Karl Malone",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NBA_HOF%E2%80%99er_Karl_Malone_visits_Barksdale_%289%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NBA_HOF%E2%80%99er_Karl_Malone_visits_Barksdale_%289%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:NBA_HOF%E2%80%99er_Karl_Malone_visits_Barksdale_(9)_(cropped).jpg",
+      "artist": "Airman 1st Class Jacob B. Wrightsman",
+      "license": "Public domain",
+      "crop": null
+    },
+    "david-robinson": {
+      "name": "David Robinson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/David_Robinson_at_1988_Summer_Olympics_vs._Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/David_Robinson_at_1988_Summer_Olympics_vs._Spain.jpg/960px-David_Robinson_at_1988_Summer_Olympics_vs._Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Robinson_at_1988_Summer_Olympics_vs._Spain.jpg",
+      "artist": "Ken Hackman",
+      "license": "Public domain",
+      "crop": null
+    },
+    "kevin-garnett": {
+      "name": "Kevin Garnett",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kevin_Garnett_with_the_Minnesota_Timberwolves_dunking%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kevin_Garnett_with_the_Minnesota_Timberwolves_dunking%2C_2007.jpg/960px-Kevin_Garnett_with_the_Minnesota_Timberwolves_dunking%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Kevin_Garnett_with_the_Minnesota_Timberwolves_dunking,_2007.jpg",
+      "artist": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "dirk-nowitzki": {
+      "name": "Dirk Nowitzki",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Dirk_Nowitzki_shooting_February_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Dirk_Nowitzki_shooting_February_2013.jpg/960px-Dirk_Nowitzki_shooting_February_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dirk_Nowitzki_shooting_February_2013.jpg",
+      "artist": "scott mecum",
+      "license": "CC BY 2.0",
+      "crop": null
+    },
+    "jared-mccain": {
+      "name": "Jared McCain",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Jared_McCain_Duke_v._Michigan_State.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Jared_McCain_Duke_v._Michigan_State.jpg/960px-Jared_McCain_Duke_v._Michigan_State.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jared_McCain_Duke_v._Michigan_State.jpg",
+      "artist": "Brady Saylor",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "elgin-baylor": {
+      "name": "Elgin Baylor",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tom_Heinsohn_and_Elgin_Baylor%2C_Game_1_of_the_1963_NBA_Finals.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tom_Heinsohn_and_Elgin_Baylor%2C_Game_1_of_the_1963_NBA_Finals.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tom_Heinsohn_and_Elgin_Baylor,_Game_1_of_the_1963_NBA_Finals.jpeg",
+      "artist": "Unknown for the United Press International",
+      "license": "Public domain",
+      "crop": null
+    },
+    "bob-pettit": {
+      "name": "Bob Pettit",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bob_Pettit_1960.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bob_Pettit_1960.jpeg/960px-Bob_Pettit_1960.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bob_Pettit_1960.jpeg",
+      "artist": "Bob Moreland",
+      "license": "Public domain",
+      "crop": null
+    },
+    "rick-barry": {
+      "name": "Rick Barry",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/The_Gardener%27s_monthly_and_horticulturist_%281887%29_%2814597748357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/The_Gardener%27s_monthly_and_horticulturist_%281887%29_%2814597748357%29.jpg/960px-The_Gardener%27s_monthly_and_horticulturist_%281887%29_%2814597748357%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Gardener%27s_monthly_and_horticulturist_(1887)_(14597748357).jpg",
+      "artist": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "crop": null
+    },
+    "john-havlicek": {
+      "name": "John Havlicek",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/President_John_F._Kennedy_with_the_Boston_Celtics_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/President_John_F._Kennedy_with_the_Boston_Celtics_%2804%29.jpg/960px-President_John_F._Kennedy_with_the_Boston_Celtics_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:President_John_F._Kennedy_with_the_Boston_Celtics_(04).jpg",
+      "artist": "Cecil Stoughton. White House Photographs. John F. Kennedy Presidential Library and Museum, Boston",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "dwyane-wade": {
+      "name": "Dwyane Wade",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dwyane_Wade_HOMEStrong_Program_Pregame_March_2%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dwyane_Wade_HOMEStrong_Program_Pregame_March_2%2C_2009.jpg/960px-Dwyane_Wade_HOMEStrong_Program_Pregame_March_2%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Dwyane_Wade_HOMEStrong_Program_Pregame_March_2,_2009.jpg",
+      "artist": "SGM Steve Valley",
+      "license": "Public domain",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 0
+      }
+    },
+    "chris-paul": {
+      "name": "Chris Paul",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chris_Paul_Basketball_Camp_%283771613401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Chris_Paul_Basketball_Camp_%283771613401%29.jpg/960px-Chris_Paul_Basketball_Camp_%283771613401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Chris_Paul_Basketball_Camp_(3771613401).jpg",
+      "artist": "Tulane Public Relations",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 1.5,
+        "x": 50,
+        "y": 10
+      }
+    },
+    "steve-nash": {
+      "name": "Steve Nash",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Steve_Nash_Lakers_smiling_2013_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Steve_Nash_Lakers_smiling_2013_%28cropped_2%29.jpg/960px-Steve_Nash_Lakers_smiling_2013_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Steve_Nash_Lakers_smiling_2013_(cropped_2).jpg",
+      "artist": "scott mecum",
+      "license": "CC BY 2.0",
+      "crop": {
+        "zoom": 1,
+        "x": 50,
+        "y": 10
+      }
+    },
+    "allen-iverson": {
+      "name": "Allen Iverson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Allen_Iverson_Detroit_Pistons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Allen_Iverson_Detroit_Pistons.jpg/960px-Allen_Iverson_Detroit_Pistons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Allen_Iverson_Detroit_Pistons.jpg",
+      "artist": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "patrick-ewing": {
+      "name": "Patrick Ewing",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Patrick_Ewing_Magic_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Patrick_Ewing_Magic_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Ewing_Magic_cropped.jpg",
+      "artist": "Patrick_Ewing_Magic.jpg : Mike derivative work: Lpdrew",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "jason-kidd": {
+      "name": "Jason Kidd",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jason_Kidd_Nets_coach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Jason_Kidd_Nets_coach.jpg/960px-Jason_Kidd_Nets_coach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jason_Kidd_Nets_coach.jpg",
+      "artist": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    },
+    "george-gervin": {
+      "name": "George Gervin",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/George_Gervin_being_honored_8446_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/George_Gervin_being_honored_8446_%282%29.jpg/960px-George_Gervin_being_honored_8446_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:George_Gervin_being_honored_8446_(2).jpg",
+      "artist": "SecretName101",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "russell-westbrook": {
+      "name": "Russell Westbrook",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Russell_Westbrook_%285528459136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Russell_Westbrook_%285528459136%29.jpg/960px-Russell_Westbrook_%285528459136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Russell_Westbrook_(5528459136).jpg",
+      "artist": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "crop": {
+        "zoom": 1.5,
+        "x": 50,
+        "y": 30
+      }
+    },
+    "harrison-barnes": {
+      "name": "Harrison Barnes",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Harrison_Barnes_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Harrison_Barnes_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Harrison_Barnes_cropped.jpg",
+      "artist": "U.S. Navy photo by Mass Communication Specialist 2nd Class James R. Evans",
+      "license": "Public domain",
+      "crop": null
+    },
+    "tobias-harris": {
+      "name": "Tobias Harris",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Tobias_Harris_Clippers_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Tobias_Harris_Clippers_%28cropped%29.jpg/960px-Tobias_Harris_Clippers_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Tobias_Harris_Clippers_(cropped).jpg",
+      "artist": "Frenchieinportland",
+      "license": "CC BY-SA 4.0",
+      "crop": null
+    },
+    "julian-champagnie": {
+      "name": "Julian Champagnie",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Julian_Champagnie_San_Antonio_Spurs_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Julian_Champagnie_San_Antonio_Spurs_2024.jpg/960px-Julian_Champagnie_San_Antonio_Spurs_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Julian_Champagnie_San_Antonio_Spurs_2024.jpg",
+      "artist": "Frenchieinportland",
+      "license": "CC BY 4.0",
+      "crop": null
+    },
+    "bill-walton": {
+      "name": "Bill Walton",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bill_Walton_%E2%80%93_Trail_Blazers_%2811%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bill_Walton_%E2%80%93_Trail_Blazers_%2811%29.jpeg/960px-Bill_Walton_%E2%80%93_Trail_Blazers_%2811%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bill_Walton_%E2%80%93_Trail_Blazers_(11).jpeg",
+      "artist": "Nancy Hogue",
+      "license": "Public domain",
+      "crop": null
+    },
+    "walt-frazier": {
+      "name": "Walt Frazier",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/32/Walt_Frazier_1977.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Walt_Frazier_1977.jpeg/960px-Walt_Frazier_1977.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Walt_Frazier_1977.jpeg",
+      "artist": "George Gojkovich",
+      "license": "Public domain",
+      "crop": null
+    },
+    "gary-payton": {
+      "name": "Gary Payton",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/PaytonHeat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/PaytonHeat.jpg/960px-PaytonHeat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:PaytonHeat.jpg",
+      "artist": "Keith Allison",
+      "license": "CC BY-SA 2.0",
+      "crop": null
+    }
+  }
+}

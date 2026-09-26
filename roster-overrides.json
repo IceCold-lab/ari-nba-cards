@@ -1,0 +1,136 @@
+{
+  "kawhi-leonard": {
+    "abbr": "TOR",
+    "teamName": "Toronto Raptors",
+    "number": "2"
+  },
+  "brandon-ingram": {
+    "abbr": "LAC",
+    "teamName": "Los Angeles Clippers",
+    "number": "3"
+  },
+  "giannis-antetokounmpo": {
+    "abbr": "MIA",
+    "teamName": "Miami Heat",
+    "number": "7"
+  },
+  "bobby-portis": {
+    "abbr": "MIA",
+    "teamName": "Miami Heat",
+    "number": "95"
+  },
+  "jaylen-brown": {
+    "abbr": "PHI",
+    "teamName": "Philadelphia 76ers",
+    "number": "7"
+  },
+  "paul-george": {
+    "abbr": "BOS",
+    "teamName": "Boston Celtics",
+    "number": "8"
+  },
+  "aaron-wiggins": {
+    "abbr": "ATL",
+    "teamName": "Atlanta Hawks"
+  },
+  "lu-dort": {
+    "abbr": "ATL",
+    "teamName": "Atlanta Hawks"
+  },
+  "dorian-finney-smith": {
+    "abbr": "ATL",
+    "teamName": "Atlanta Hawks",
+    "number": "2"
+  },
+  "miles-bridges": {
+    "abbr": "PHX",
+    "teamName": "Phoenix Suns",
+    "number": "0"
+  },
+  "grayson-allen": {
+    "abbr": "CHA",
+    "teamName": "Charlotte Hornets",
+    "number": "8"
+  },
+  "royce-oneale": {
+    "abbr": "CHA",
+    "teamName": "Charlotte Hornets"
+  },
+  "lamelo-ball": {
+    "abbr": "MIN",
+    "teamName": "Minnesota Timberwolves",
+    "number": "1"
+  },
+  "naz-reid": {
+    "abbr": "CHA",
+    "teamName": "Charlotte Hornets",
+    "number": "11"
+  },
+  "josh-green": {
+    "abbr": "UTA",
+    "teamName": "Utah Jazz"
+  },
+  "nic-claxton": {
+    "abbr": "CHI",
+    "teamName": "Chicago Bulls",
+    "number": "9"
+  },
+  "deandre-ayton": {
+    "abbr": "WAS",
+    "teamName": "Washington Wizards",
+    "number": "5"
+  },
+  "jaden-hardy": {
+    "abbr": "LAL",
+    "teamName": "Los Angeles Lakers"
+  },
+  "isaiah-joe": {
+    "abbr": "DET",
+    "teamName": "Detroit Pistons",
+    "number": "11"
+  },
+  "ja-morant": {
+    "abbr": "POR",
+    "teamName": "Portland Trail Blazers",
+    "number": "12"
+  },
+  "jerami-grant": {
+    "abbr": "MEM",
+    "teamName": "Memphis Grizzlies",
+    "number": "9"
+  },
+  "kris-murray": {
+    "abbr": "MEM",
+    "teamName": "Memphis Grizzlies"
+  },
+  "dangelo-russell": {
+    "abbr": "MEM",
+    "teamName": "Memphis Grizzlies",
+    "number": "5",
+    "status": "active",
+    "note": "Waived 2026-09-25; free agent if not subsequently signed"
+  },
+  "isaiah-stewart": {
+    "abbr": "MEM",
+    "teamName": "Memphis Grizzlies"
+  },
+  "john-collins": {
+    "abbr": "DET",
+    "teamName": "Detroit Pistons",
+    "number": "20"
+  },
+  "caris-levert": {
+    "abbr": "MIL",
+    "teamName": "Milwaukee Bucks",
+    "number": "8"
+  },
+  "devin-carter": {
+    "abbr": "ATL",
+    "teamName": "Atlanta Hawks"
+  },
+  "andrew-wiggins": {
+    "abbr": "MIA",
+    "teamName": "Miami Heat",
+    "number": "22"
+  }
+}
