@@ -2,174 +2,36 @@
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Ari's NBA Cards</title>
 <style>
-*{box-sizing:border-box}body{margin:0;background:#eef1f5;color:#111;font-family:system-ui,-apple-system,Segoe UI,sans-serif}
-header{background:#fff;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:2}
-h1{font-size:20px;margin:0}button{border:0;border-radius:12px;padding:11px 14px;font-size:16px;font-weight:700;background:#fff;box-shadow:0 1px 5px #0002}
-#tabs{display:flex;gap:7px;overflow-x:auto;padding:10px 12px;background:#f7f8fa}#tabs button.active{background:#111;color:#fff}
-main{max-width:620px;margin:auto;padding:8px 14px 30px}
-.card{background:#fff;border-radius:24px;overflow:hidden;box-shadow:0 5px 20px #0002}
-.photo{width:75%;aspect-ratio:3/4;margin:0 auto;background:linear-gradient(135deg,#182848,#4b6cb7);overflow:hidden}
-.photo img{display:block;width:100%;height:100%;object-fit:contain}
-.photo.missing{display:flex;align-items:center;justify-content:center;color:#fff;font-size:55px}
-.body{padding:20px;text-align:center}.rank{font-size:13px;color:#707780;font-weight:800;text-transform:uppercase}
-.name{font-size:36px;line-height:1.05;font-weight:900;margin:8px 0}.team{font-size:20px;font-weight:700}.number{font-size:16px;color:#555}
-.facts{margin:14px 0;font-size:16px;line-height:1.55;color:#333}.trophies{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin:13px 0}
-.award{background:#f4f5f7;border-radius:14px;padding:7px 10px;min-width:90px}.trophy{font-size:26px;display:block}
-.actions,.controls{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:12px 0}.good{background:#16833b;color:#fff}.bad{background:#c62828;color:#fff}.blue{background:#2461e5;color:#fff}
-#status{text-align:center;color:#666;font-weight:700;min-height:24px}#score{font-size:17px}
+*{box-sizing:border-box}body{margin:0;background:#080a0e;color:#f5f7fa;font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+header{background:#0d1016;border-bottom:1px solid #252a34;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:2}
+h1{font-size:20px;margin:0;color:#fff}button{border:1px solid #2b303a;border-radius:12px;padding:11px 14px;font-size:16px;font-weight:700;background:#151922;color:#f5f7fa}
+#tabs{display:flex;gap:7px;overflow-x:auto;padding:10px 12px;background:#0b0e13}#tabs button.active{background:#2461e5;border-color:#2461e5;color:#fff}
+main{max-width:620px;margin:auto;padding:8px 14px 30px}.card{background:#10141c;border:1px solid #272d38;border-radius:24px;overflow:hidden;box-shadow:0 8px 30px #0008}
+.photo{width:75%;margin:0 auto;aspect-ratio:3/4;background:#05070a;overflow:hidden}.photo img{display:block;width:100%;height:100%;object-fit:contain}.photo.missing{display:flex;align-items:center;justify-content:center;color:#6f7785;font-size:60px}
+.body{padding:16px 20px 18px;text-align:center}.rank{font-size:12px;color:#8e98a8;font-weight:800;text-transform:uppercase;letter-spacing:.08em}.name{font-size:34px;line-height:1.05;font-weight:900;margin:7px 0;color:#fff}.team{font-size:19px;font-weight:700;color:#e7eaf0}.number{font-size:15px;color:#aab2c0}.facts{margin:10px 0;font-size:15px;line-height:1.4;color:#c5cbd5}
+.trophies{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:nowrap;overflow:hidden;margin:10px 0;white-space:nowrap}.award{background:#181d27;border:1px solid #303745;border-radius:10px;padding:5px 8px;min-width:0;font-size:13px;color:#f4f6f9}.actions,.controls{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:10px 0}.good,.blue{background:#2461e5;border-color:#2461e5;color:#fff}.bad{background:#d62839;border-color:#d62839;color:#fff}#status{text-align:center;color:#8993a3;font-weight:700;min-height:24px}#score{font-size:17px;color:#fff}
 </style></head><body>
-<header><h1>🏀 Ari's NBA Cards</h1><div id="score">🔥 0</div></header>
-<div id="tabs"></div><main><div class="card">
-<div id="photo" class="photo missing">🏀</div>
-<div class="body"><div id="rank" class="rank"></div><div id="name" class="name"></div><div id="team" class="team"></div><div id="number" class="number"></div>
-<div id="facts" class="facts"></div><div id="trophies" class="trophies"></div><div id="draft" class="facts"></div></div></div>
-<div class="controls"><button id="prev">←</button><button id="reveal" class="blue">Reveal</button><button id="next">→</button></div>
-<div class="actions"><button id="wrong" class="bad">✗ Didn't know</button><button id="right" class="good">✓ Got it!</button></div>
-<div id="status"></div><div class="actions"><button id="learn">Learn</button><button id="guess">Guess</button><button id="shuffle">🔀 Shuffle</button></div>
-</main><script>
+<header><h1>🏀 Ari's NBA Cards</h1><div id="score">🔥 0</div></header><div id="tabs"></div><main>
+<div class="card"><div id="photo" class="photo missing">🏀</div><div class="body"><div id="rank" class="rank"></div><div id="name" class="name"></div><div id="team" class="team"></div><div id="number" class="number"></div><div id="facts" class="facts"></div><div id="trophies" class="trophies"></div><div id="draft" class="facts"></div></div></div>
+<div class="controls"><button id="prev">←</button><button id="reveal" class="blue">Reveal</button><button id="next">→</button></div><div class="actions"><button id="wrong" class="bad">✗ Didn't know</button><button id="right" class="good">✓ Got it!</button></div><div id="status"></div><div class="actions"><button id="learn">Learn</button><button id="guess">Guess</button><button id="shuffle">🔀 Shuffle</button></div></main>
+<script>
 let DATA=[],deck=[],index=0,revealed=false,mode='learn',streak=Number(localStorage.getItem('ariStreak')||0);
 const $=id=>document.getElementById(id);
-function esc(s){return String(s??'').replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]))}
-
-function careerLine(p){
-  if(p.status!=='retired') return `Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`;
-  if(p.deceased || p.deathYear) return `Deceased · ${p.careerStart??p.draftYear??'—'}–${p.careerEnd??'—'}`;
-  return `Age ${p.age??'—'} · ${p.careerStart??p.draftYear??'—'}–${p.careerEnd??'—'}`;
-}
-function draftLine(p){
-  const parts=[];
-  if(p.draftYear!=null) parts.push(String(p.draftYear));
-  if(p.draftPick!=null) parts.push('#'+p.draftPick);
-  if(p.draftedBy) parts.push(p.draftedBy);
-  return parts.length?`Drafted ${parts.join(' · ')}`:'Draft data unavailable';
-}
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
 function render(){
- const p=deck[index];
- if(!p)return;
-
- const retired=p.status==='retired';
-
- // Learn:
- //   before reveal = name only
- // Guess:
- //   before reveal = image + details, but NO name
- const showDetails = mode==='guess' || revealed;
- const showImage = mode==='guess' || revealed;
- const showName = mode==='learn' || revealed;
-
- $('rank').textContent = showDetails
-   ? p.category+(p.rank?' · #'+p.rank:'')
-   : '';
-
- $('name').textContent = showName
-   ? p.name
-   : 'Who is this?';
-
- $('team').textContent = showDetails
-   ? (retired ? 'Retired' : (p.teamName||''))
-   : '';
-
- $('number').textContent = showDetails
-   ? [
-       p.position,
-       (!retired && p.number!==null &&
-        p.number!==undefined && p.number!=='')
-          ? '#'+p.number
-          : ''
-     ].filter(Boolean).join(' · ')
-   : '';
-
- $('facts').innerHTML = showDetails
-   ? `Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`
-   : '';
-
- $('draft').innerHTML = showDetails
-   ? `Drafted ${p.draftYear??'—'} · #${p.draftPick??'—'} · ${esc(p.draftedBy??'—')}`
-   : '';
-
- const a=p.awards||{};
- let t='';
-
- if(showDetails && a.mvp)
-   t+=`<div class="award">
-        <span class="trophy">🏆</span>
-        <b>${a.mvp}× MVP</b>
-      </div>`;
-
- if(showDetails && a.championships)
-   t+=`<div class="award">
-        <span class="trophy">🏆</span>
-        <b>${a.championships}× Champion</b>
-      </div>`;
-
- if(showDetails && a.finalsMvp)
-   t+=`<div class="award">
-        <span class="trophy">🏆</span>
-        <b>${a.finalsMvp}× Finals MVP</b>
-      </div>`;
-
- $('trophies').innerHTML=t;
-
- $('status').textContent=(index+1)+' / '+deck.length;
- $('score').textContent='🔥 '+streak;
-
- loadPhoto(p,showImage);
+ const p=deck[index];if(!p)return;const retired=p.status==='retired',showDetails=mode==='guess'||revealed,showImage=mode==='guess'||revealed,showName=mode==='learn'||revealed;
+ $('rank').textContent=showDetails?p.category+(p.rank?' · #'+p.rank:''):'';
+ $('name').textContent=showName?p.name:'Who is this?';$('team').textContent=showDetails?(retired?'Retired':(p.teamName||'')):'';
+ $('number').textContent=showDetails?[p.position,(!retired&&p.number!==null&&p.number!==undefined&&p.number!=='')?'#'+p.number:''].filter(Boolean).join(' · '):'';
+ $('facts').innerHTML=showDetails?(retired?`Age ${p.deathYear?'Deceased':'—'} · ${p.careerStart??'—'}–${p.careerEnd??'—'}`:`Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`):'';
+ $('draft').innerHTML=showDetails?`Drafted ${p.draftYear??'—'}${p.draftPick!==null&&p.draftPick!==undefined&&p.draftPick!==''?' · #'+p.draftPick:''}${p.draftedBy?' · '+esc(p.draftedBy):''}`:'';
+ const a=p.awards||{};let t='';if(showDetails&&a.championships)t+=`<div class="award">🏆 <b>${a.championships}× Champion</b></div>`;if(showDetails&&a.mvp)t+=`<div class="award">🏆 <b>${a.mvp}× MVP</b></div>`;if(showDetails&&a.finalsMvp)t+=`<div class="award">🏆 <b>${a.finalsMvp}× Finals MVP</b></div>`;if(showDetails&&a.dpoy)t+=`<div class="award">🛡️ <b>${a.dpoy}× DPOY</b></div>`;
+ $('trophies').innerHTML=t;$('status').textContent=(index+1)+' / '+deck.length;$('score').textContent='🔥 '+streak;loadPhoto(p,showImage)
 }
-function loadPhoto(p,showImage){
- const box=$('photo');
-
- box.className='photo missing';
- box.textContent='🏀';
-
- if(!showImage)return;
-
- const src=p.image&&p.image.file?p.image.file:'';
-
- if(!src)return;
-
- const img=new Image();
-
- img.alt='';
-
- img.onload=()=>{
-   box.className='photo';
- };
-
- img.onerror=()=>{
-   box.className='photo missing';
-   box.textContent='🏀';
- };
-
- img.src=src;
-
- box.innerHTML='';
- box.appendChild(img);
-}
-function fallbackApproved(p,use){
- fetch('approved-images.json').then(r=>r.ok?r.json():Promise.reject()).then(d=>{
-   const x=d?.players?.[p.id]; if(x?.download_url)use(x.download_url);
- }).catch(()=>{});
-}
-function move(n){index=(index+n+deck.length)%deck.length;revealed=false;render()}
-function answer(ok){streak=ok?streak+1:0;localStorage.setItem('ariStreak',streak);move(1)}
-$('prev').onclick=()=>move(-1);$('next').onclick=()=>move(1);$('reveal').onclick=()=>{revealed=!revealed;render()};
-$('right').onclick=()=>answer(true);$('wrong').onclick=()=>answer(false);
-$('shuffle').onclick=()=>{deck=[...DATA].sort(()=>Math.random()-0.5);index=0;revealed=false;render()};
-$('learn').onclick=()=>{
-  mode='learn';
-  revealed=false;
-  $('learn').className='blue';
-  $('guess').className='';
-  render();
-};
-
-$('guess').onclick=()=>{
-  mode='guess';
-  revealed=false;
-  $('guess').className='blue';
-  $('learn').className='';
-  render();
-};
+function loadPhoto(p,showImage){const box=$('photo');box.className='photo missing';box.textContent='🏀';if(!showImage)return;const src=p.image&&p.image.file?p.image.file:'';if(!src)return;const img=new Image();img.alt='';img.onload=()=>box.className='photo';img.onerror=()=>{box.className='photo missing';box.textContent='🏀'};img.src=src;box.innerHTML='';box.appendChild(img)}
+function move(n){index=(index+n+deck.length)%deck.length;revealed=false;render()}function answer(ok){streak=ok?streak+1:0;localStorage.setItem('ariStreak',streak);move(1)}
+$('prev').onclick=()=>move(-1);$('next').onclick=()=>move(1);$('reveal').onclick=()=>{revealed=!revealed;render()};$('right').onclick=()=>answer(true);$('wrong').onclick=()=>answer(false);
+$('shuffle').onclick=()=>{deck=[...DATA].sort(()=>Math.random()-0.5);index=0;revealed=false;render()};$('learn').onclick=()=>{mode='learn';revealed=false;$('learn').className='blue';$('guess').className='';render()};$('guess').onclick=()=>{mode='guess';revealed=false;$('guess').className='blue';$('learn').className='';render()};
 function initTabs(){$('tabs').innerHTML='';[['All',`All ${DATA.length}`],['Current Players',`Current ${DATA.filter(p=>p.status==='active').length}`],['Classic Players',`Classic ${DATA.filter(p=>p.status==='retired').length}`]].forEach(([v,t],i)=>{const b=document.createElement('button');b.textContent=t;b.onclick=()=>{deck=v==='All'?[...DATA]:DATA.filter(p=>p.category===v);index=0;revealed=false;document.querySelectorAll('#tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');render()};if(i===0)b.classList.add('active');$('tabs').appendChild(b)})}
-fetch('players.json').then(r=>r.json()).then(j=>{DATA=j;deck=[...DATA];initTabs();render()}).catch(e=>{$('name').textContent='Load error';$('status').textContent='Could not load player data';console.error(e)});
+fetch('players.json').then(r=>r.json()).then(j=>{DATA=j;deck=[...DATA];initTabs();render()});
 </script></body></html>
