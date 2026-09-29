@@ -42,6 +42,7 @@
       "mvp": 0,
       "championships": 0,
       "finalsMvp": 0
+      "dpoy": 1
     },
     "image": {
       "file": "images/victor-wembanyama.jpg",
@@ -172,6 +173,7 @@
       "mvp": 2,
       "championships": 1,
       "finalsMvp": 1
+      "dpoy": 1
     },
     "image": {
       "file": "images/giannis-antetokounmpo.jpg",
@@ -752,6 +754,7 @@
       "mvp": 0,
       "championships": 0,
       "finalsMvp": 0
+      "dpoy": 1
     },
     "image": {
       "file": "images/evan-mobley.jpg",
@@ -854,6 +857,7 @@
       "mvp": 0,
       "championships": 2,
       "finalsMvp": 2
+      "dpoy": 1
     },
     "image": {
       "file": "images/kawhi-leonard.jpg",
@@ -1026,6 +1030,7 @@
       "mvp": 0,
       "championships": 0,
       "finalsMvp": 0
+      "dpoy": 1
     },
     "image": {
       "file": "images/jaren-jackson-jr.jpg",
@@ -1879,6 +1884,7 @@
       "mvp": 0,
       "championships": 0,
       "finalsMvp": 0
+      "dpoy": 4
     },
     "image": {
       "file": "images/rudy-gobert.jpg",
@@ -3700,6 +3706,7 @@
       "mvp": 5,
       "championships": 6,
       "finalsMvp": 6
+      "dpoy": 1
     },
     "image": {
       "file": "images/michael-jordan.jpg",
@@ -3951,6 +3958,7 @@
       "mvp": 1,
       "championships": 2,
       "finalsMvp": 2
+      "dpoy": 2
     },
     "image": {
       "file": "images/hakeem-olajuwon.jpg",
@@ -4201,6 +4209,7 @@
       "mvp": 1,
       "championships": 2,
       "finalsMvp": 1
+      "dpoy": 1
     },
     "image": {
       "file": "images/david-robinson.jpg",
@@ -4226,6 +4235,7 @@
       "mvp": 1,
       "championships": 1,
       "finalsMvp": 1
+      "dpoy": 1
     },
     "image": {
       "file": "images/kevin-garnett.jpg",
@@ -4882,6 +4892,7 @@
       "mvp": 0,
       "championships": 1,
       "finalsMvp": 0
+      "dpoy": 1
     },
     "image": {
       "file": "images/gary-payton.jpg",
