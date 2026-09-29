@@ -27,7 +27,7 @@ main{max-width:620px;margin:auto;padding:8px 14px 30px}
 <div class="actions"><button id="wrong" class="bad">✗ Didn't know</button><button id="right" class="good">✓ Got it!</button></div>
 <div id="status"></div><div class="actions"><button id="learn">Learn</button><button id="guess">Guess</button><button id="shuffle">🔀 Shuffle</button></div>
 </main><script>
-let DATA=[],deck=[],index=0,revealed=false,streak=Number(localStorage.getItem('ariStreak')||0);
+let DATA=[],deck=[],index=0,revealed=false,mode='learn',streak=Number(localStorage.getItem('ariStreak')||0);
 const $=id=>document.getElementById(id);
 function esc(s){return String(s??'').replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[m]))}
 
@@ -44,25 +44,106 @@ function draftLine(p){
   return parts.length?`Drafted ${parts.join(' · ')}`:'Draft data unavailable';
 }
 function render(){
- const p=deck[index];if(!p)return;
- const retired=p.status==='retired',show=revealed;
- $('rank').textContent=p.category+(p.rank?' · #'+p.rank:'');
- $('name').textContent=p.name;
- $('team').textContent=show?(retired?'Retired':(p.teamName||'')):'';
- $('number').textContent=show?[p.position,(!retired&&p.number!==null&&p.number!==undefined&&p.number!=='')?'#'+p.number:''].filter(Boolean).join(' · '):'';
- $('facts').textContent=show?careerLine(p):'';
- $('draft').textContent=show?draftLine(p):'';
- const a=p.awards||{};let t='';
- if(show&&a.mvp)t+=`<div class="award"><span class="trophy">🏆</span><b>${a.mvp}× MVP</b></div>`;
- if(show&&a.championships)t+=`<div class="award"><span class="trophy">🏆</span><b>${a.championships}× Champion</b></div>`;
- if(show&&a.finalsMvp)t+=`<div class="award"><span class="trophy">🏆</span><b>${a.finalsMvp}× Finals MVP</b></div>`;
- $('trophies').innerHTML=t;$('status').textContent=(index+1)+' / '+deck.length;$('score').textContent='🔥 '+streak;loadPhoto(p);
+ const p=deck[index];
+ if(!p)return;
+
+ const retired=p.status==='retired';
+
+ // Learn:
+ //   before reveal = name only
+ // Guess:
+ //   before reveal = image + details, but NO name
+ const showDetails = mode==='guess' || revealed;
+ const showImage = mode==='guess' || revealed;
+ const showName = mode==='learn' || revealed;
+
+ $('rank').textContent = showDetails
+   ? p.category+(p.rank?' · #'+p.rank:'')
+   : '';
+
+ $('name').textContent = showName
+   ? p.name
+   : 'Who is this?';
+
+ $('team').textContent = showDetails
+   ? (retired ? 'Retired' : (p.teamName||''))
+   : '';
+
+ $('number').textContent = showDetails
+   ? [
+       p.position,
+       (!retired && p.number!==null &&
+        p.number!==undefined && p.number!=='')
+          ? '#'+p.number
+          : ''
+     ].filter(Boolean).join(' · ')
+   : '';
+
+ $('facts').innerHTML = showDetails
+   ? `Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`
+   : '';
+
+ $('draft').innerHTML = showDetails
+   ? `Drafted ${p.draftYear??'—'} · #${p.draftPick??'—'} · ${esc(p.draftedBy??'—')}`
+   : '';
+
+ const a=p.awards||{};
+ let t='';
+
+ if(showDetails && a.mvp)
+   t+=`<div class="award">
+        <span class="trophy">🏆</span>
+        <b>${a.mvp}× MVP</b>
+      </div>`;
+
+ if(showDetails && a.championships)
+   t+=`<div class="award">
+        <span class="trophy">🏆</span>
+        <b>${a.championships}× Champion</b>
+      </div>`;
+
+ if(showDetails && a.finalsMvp)
+   t+=`<div class="award">
+        <span class="trophy">🏆</span>
+        <b>${a.finalsMvp}× Finals MVP</b>
+      </div>`;
+
+ $('trophies').innerHTML=t;
+
+ $('status').textContent=(index+1)+' / '+deck.length;
+ $('score').textContent='🔥 '+streak;
+
+ loadPhoto(p,showImage);
 }
-function loadPhoto(p){
- const box=$('photo');box.className='photo missing';box.textContent='🏀';if(!revealed)return;
- const local=p.image&&p.image.file?p.image.file:'';
- const use=src=>{if(!src)return;const img=new Image();img.alt='';img.onload=()=>box.className='photo';img.onerror=()=>fallbackApproved(p,use);img.src=src;box.innerHTML='';box.appendChild(img)};
- if(local){const probe=new Image();probe.onload=()=>use(local);probe.onerror=()=>fallbackApproved(p,use);probe.src=local}else fallbackApproved(p,use);
+function loadPhoto(p,showImage){
+ const box=$('photo');
+
+ box.className='photo missing';
+ box.textContent='🏀';
+
+ if(!showImage)return;
+
+ const src=p.image&&p.image.file?p.image.file:'';
+
+ if(!src)return;
+
+ const img=new Image();
+
+ img.alt='';
+
+ img.onload=()=>{
+   box.className='photo';
+ };
+
+ img.onerror=()=>{
+   box.className='photo missing';
+   box.textContent='🏀';
+ };
+
+ img.src=src;
+
+ box.innerHTML='';
+ box.appendChild(img);
 }
 function fallbackApproved(p,use){
  fetch('approved-images.json').then(r=>r.ok?r.json():Promise.reject()).then(d=>{
@@ -74,7 +155,21 @@ function answer(ok){streak=ok?streak+1:0;localStorage.setItem('ariStreak',streak
 $('prev').onclick=()=>move(-1);$('next').onclick=()=>move(1);$('reveal').onclick=()=>{revealed=!revealed;render()};
 $('right').onclick=()=>answer(true);$('wrong').onclick=()=>answer(false);
 $('shuffle').onclick=()=>{deck=[...DATA].sort(()=>Math.random()-0.5);index=0;revealed=false;render()};
-$('learn').onclick=()=>{revealed=false;render()};$('guess').onclick=()=>{revealed=false;render()};
+$('learn').onclick=()=>{
+  mode='learn';
+  revealed=false;
+  $('learn').className='blue';
+  $('guess').className='';
+  render();
+};
+
+$('guess').onclick=()=>{
+  mode='guess';
+  revealed=false;
+  $('guess').className='blue';
+  $('learn').className='';
+  render();
+};
 function initTabs(){$('tabs').innerHTML='';[['All',`All ${DATA.length}`],['Current Players',`Current ${DATA.filter(p=>p.status==='active').length}`],['Classic Players',`Classic ${DATA.filter(p=>p.status==='retired').length}`]].forEach(([v,t],i)=>{const b=document.createElement('button');b.textContent=t;b.onclick=()=>{deck=v==='All'?[...DATA]:DATA.filter(p=>p.category===v);index=0;revealed=false;document.querySelectorAll('#tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');render()};if(i===0)b.classList.add('active');$('tabs').appendChild(b)})}
 fetch('players.json').then(r=>r.json()).then(j=>{DATA=j;deck=[...DATA];initTabs();render()}).catch(e=>{$('name').textContent='Load error';$('status').textContent='Could not load player data';console.error(e)});
 </script></body></html>
