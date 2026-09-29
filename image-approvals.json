@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated": "2026-09-25T16:35:14.790Z",
+  "generated": "2026-09-29T02:42:02.454Z",
   "players": {
     "nikola-jokic": {
       "id": "nikola-jokic",
@@ -16757,8 +16757,8 @@
     "michael-jordan": {
       "id": "michael-jordan",
       "name": "Michael Jordan",
-      "state": "unreviewed",
-      "selected": null,
+      "state": "approved",
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Michael Jordan.jpg",
@@ -16876,18 +16876,38 @@
           "license": "CC BY 2.0",
           "description": "Michael Jordan and LeBron James",
           "score": 78.83353936856628
+        },
+        {
+          "title": "External image — Michael Jordan",
+          "url": "https://cdn.britannica.com/96/195196-050-3909D5BD/Michael-Jordan-1988.jpg",
+          "original": "https://cdn.britannica.com/96/195196-050-3909D5BD/Michael-Jordan-1988.jpg",
+          "page": "https://cdn.britannica.com/96/195196-050-3909D5BD/Michael-Jordan-1988.jpg",
+          "width": 1251,
+          "height": 1600,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
-      "candidateDecisions": {},
+      "candidateDecisions": {
+        "https://cdn.britannica.com/96/195196-050-3909D5BD/Michael-Jordan-1988.jpg": "keep"
+      },
       "crops": {
         "1": {
           "zoom": 1,
           "x": 50,
           "y": 0
+        },
+        "9": {
+          "zoom": 1.5,
+          "x": 70,
+          "y": 30
         }
       },
       "cropSaved": {
-        "1": true
+        "1": true,
+        "9": true
       }
     },
     "jordan-clarkson": {
@@ -17301,7 +17321,7 @@
       "id": "wilt-chamberlain",
       "name": "Wilt Chamberlain",
       "state": "approved",
-      "selected": 5,
+      "selected": 10,
       "candidates": [
         {
           "title": "File:Wilt Chamberlain 100 Point Game 1962 (original).jpg",
@@ -17419,10 +17439,36 @@
           "license": "Public domain",
           "description": "Professional basketball player Wilt Chamberlain",
           "score": 92.52347709470507
+        },
+        {
+          "title": "External image — Wilt Chamberlain",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpEF7ZZzlFzrr3EX-EtwUYQ-N_APoMHzTe9OFAltlSQ&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpEF7ZZzlFzrr3EX-EtwUYQ-N_APoMHzTe9OFAltlSQ&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpEF7ZZzlFzrr3EX-EtwUYQ-N_APoMHzTe9OFAltlSQ&s=10",
+          "width": 400,
+          "height": 500,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
+        },
+        {
+          "title": "External image — Wilt Chamberlain",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7TuCW-twjLnt29hUi6BQ-JRaQVu8wez5JonPOfX-_A&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7TuCW-twjLnt29hUi6BQ-JRaQVu8wez5JonPOfX-_A&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7TuCW-twjLnt29hUi6BQ-JRaQVu8wez5JonPOfX-_A&s=10",
+          "width": 587,
+          "height": 521,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wilt_Chamberlain_dunk_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wilt_Chamberlain_dunk_1963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpEF7ZZzlFzrr3EX-EtwUYQ-N_APoMHzTe9OFAltlSQ&s=10": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7TuCW-twjLnt29hUi6BQ-JRaQVu8wez5JonPOfX-_A&s=10": "keep"
       },
       "crops": {},
       "cropSaved": {}
@@ -17711,7 +17757,7 @@
       "id": "tim-duncan",
       "name": "Tim Duncan",
       "state": "approved",
-      "selected": 1,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Tim Duncan in the paint.jpg",
@@ -17829,10 +17875,23 @@
           "license": "CC BY 2.0",
           "description": "Tim Duncan (left) backs down Ben Wallace of the Pistons in 2005.",
           "score": 91.89388654139564
+        },
+        {
+          "title": "External image — Tim Duncan",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIaBnIYEThnWDmD7HTEjld21iQIV7yiMpvZqfV6g8UQ&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIaBnIYEThnWDmD7HTEjld21iQIV7yiMpvZqfV6g8UQ&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIaBnIYEThnWDmD7HTEjld21iQIV7yiMpvZqfV6g8UQ&s=10",
+          "width": 588,
+          "height": 390,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tim_Duncan_Walks_Verizon_Center%27s_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tim_Duncan_Walks_Verizon_Center%27s_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIaBnIYEThnWDmD7HTEjld21iQIV7yiMpvZqfV6g8UQ&s=10": "keep"
       },
       "crops": {},
       "cropSaved": {}
@@ -18141,7 +18200,7 @@
       "id": "hakeem-olajuwon",
       "name": "Hakeem Olajuwon",
       "state": "approved",
-      "selected": 1,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Hakeem.jpg",
@@ -18259,10 +18318,23 @@
           "license": "CC BY 2.5",
           "description": "Hakeem Olajuwon's retired number at the University of Houston in Hofheinz Pavilion.",
           "score": 82.40823996531185
+        },
+        {
+          "title": "External image — Hakeem Olajuwon",
+          "url": "https://from-way-downtown.com/wp-content/uploads/2025/01/img_3451.jpeg?w=1568",
+          "original": "https://from-way-downtown.com/wp-content/uploads/2025/01/img_3451.jpeg?w=1568",
+          "page": "https://from-way-downtown.com/wp-content/uploads/2025/01/img_3451.jpeg?w=1568",
+          "width": 1568,
+          "height": 2090,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hakeem_Olajuwon_20_June_1984_San_Angelo_Standard-Times.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hakeem_Olajuwon_20_June_1984_San_Angelo_Standard-Times.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://from-way-downtown.com/wp-content/uploads/2025/01/img_3451.jpeg?w=1568": "keep"
       },
       "crops": {},
       "cropSaved": {}
@@ -18401,7 +18473,7 @@
       "id": "oscar-robertson",
       "name": "Oscar Robertson",
       "state": "approved",
-      "selected": 7,
+      "selected": 8,
       "candidates": [
         {
           "title": "File:Oscar Robertson 2024.jpg",
@@ -18522,7 +18594,8 @@
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Oscar_Robertson_1960s.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Oscar_Robertson_1960s.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a5/Oscar_Robertson1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
       },
       "crops": {},
       "cropSaved": {}
@@ -19021,7 +19094,7 @@
       "id": "karl-malone",
       "name": "Karl Malone",
       "state": "approved",
-      "selected": 2,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Karl Malone in Afghanistan.jpg",
@@ -19139,13 +19212,34 @@
           "license": "CC BY-SA 2.0",
           "description": "Karl Malone",
           "score": 83.08090922734283
+        },
+        {
+          "title": "External image — Karl Malone",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiV-xL9xTRgTG6hBJ9B4zLhANuXi5Siww4VG_0o0pnw&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiV-xL9xTRgTG6hBJ9B4zLhANuXi5Siww4VG_0o0pnw&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiV-xL9xTRgTG6hBJ9B4zLhANuXi5Siww4VG_0o0pnw&s=10",
+          "width": 365,
+          "height": 547,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/d/de/Karl_Malone_with_Louisiana_Tech%2C_January_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Karl_Malone_with_Louisiana_Tech%2C_January_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiV-xL9xTRgTG6hBJ9B4zLhANuXi5Siww4VG_0o0pnw&s=10": "keep"
       },
-      "crops": {},
-      "cropSaved": {}
+      "crops": {
+        "9": {
+          "zoom": 1.5,
+          "x": 20,
+          "y": 50
+        }
+      },
+      "cropSaved": {
+        "9": true
+      }
     },
     "john-stockton": {
       "id": "john-stockton",
@@ -19561,6 +19655,18 @@
           "license": "Public domain",
           "description": "National Basketball Association superstar David Robinson during a visit by Team USA to the Pentagon in Arlington, Va., on April 6, 2006.",
           "score": 92.19033870286351
+        },
+        {
+          "title": "External image — David Robinson",
+          "url": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2021-08/david-robinson-vs-la-clippers-in-1994_10a7ywsefnam21w7rg6pkq67hn.jpeg.webp?itok=aTzNoVLg",
+          "original": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2021-08/david-robinson-vs-la-clippers-in-1994_10a7ywsefnam21w7rg6pkq67hn.jpeg.webp?itok=aTzNoVLg",
+          "page": "https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2021-08/david-robinson-vs-la-clippers-in-1994_10a7ywsefnam21w7rg6pkq67hn.jpeg.webp?itok=aTzNoVLg",
+          "width": 760,
+          "height": 428,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
@@ -19577,17 +19683,23 @@
           "zoom": 2,
           "x": 50,
           "y": 40
+        },
+        "9": {
+          "zoom": 1.3,
+          "x": 50,
+          "y": 0
         }
       },
       "cropSaved": {
-        "4": true
+        "4": true,
+        "9": true
       }
     },
     "kevin-garnett": {
       "id": "kevin-garnett",
       "name": "Kevin Garnett",
       "state": "approved",
-      "selected": 5,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Kevin Garnett palming the basketball.jpg",
@@ -19705,10 +19817,23 @@
           "license": "CC BY-SA 2.0",
           "description": "Kevin Garnett",
           "score": 82.86079518277393
+        },
+        {
+          "title": "External image — Kevin Garnett",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRxSzLlYjPezsTGyJ6-0tpqWre3C1n6I55Xbt2UZX2Q&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRxSzLlYjPezsTGyJ6-0tpqWre3C1n6I55Xbt2UZX2Q&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRxSzLlYjPezsTGyJ6-0tpqWre3C1n6I55Xbt2UZX2Q&s=10",
+          "width": 554,
+          "height": 554,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/7/77/Kevin_Garnett_with_the_Minnesota_Timberwolves_dunking%2C_2007_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Kevin_Garnett_with_the_Minnesota_Timberwolves_dunking%2C_2007_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRxSzLlYjPezsTGyJ6-0tpqWre3C1n6I55Xbt2UZX2Q&s=10": "keep"
       },
       "crops": {},
       "cropSaved": {}
@@ -19717,7 +19842,7 @@
       "id": "dirk-nowitzki",
       "name": "Dirk Nowitzki",
       "state": "approved",
-      "selected": 8,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Dirk Nowitzki 2011 08 28 Deutschland vs. Mazedonien.jpg",
@@ -19835,10 +19960,23 @@
           "license": "CC BY 2.0",
           "description": "Dirk Nowitzki of the Dallas Mavericks",
           "score": 88.17587069727271
+        },
+        {
+          "title": "External image — Dirk Nowitzki",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fjjEv90tj97H-LtomFU0Yk2pZTjJ9auhfmUdait7Rg&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fjjEv90tj97H-LtomFU0Yk2pZTjJ9auhfmUdait7Rg&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fjjEv90tj97H-LtomFU0Yk2pZTjJ9auhfmUdait7Rg&s=10",
+          "width": 400,
+          "height": 500,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dirk_Nowitzki_high_fives_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dirk_Nowitzki_high_fives_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fjjEv90tj97H-LtomFU0Yk2pZTjJ9auhfmUdait7Rg&s=10": "keep"
       },
       "crops": {},
       "cropSaved": {}
@@ -21092,7 +21230,7 @@
       "id": "steve-nash",
       "name": "Steve Nash",
       "state": "approved",
-      "selected": 0,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Steve Nash Lakers smiling 2013 (cropped 2).jpg",
@@ -21210,10 +21348,23 @@
           "license": "CC BY 2.0",
           "description": "basketball,nba,2/24/2013 Steve Nash",
           "score": 91.6988388275938
+        },
+        {
+          "title": "External image — Steve Nash",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41R0zXCd7rJInrtklTdqEMT4GqZkNeg4MgOCYtjRoxQ&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41R0zXCd7rJInrtklTdqEMT4GqZkNeg4MgOCYtjRoxQ&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41R0zXCd7rJInrtklTdqEMT4GqZkNeg4MgOCYtjRoxQ&s=10",
+          "width": 377,
+          "height": 530,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/7/76/Steve_Nash_Lakers_smiling_2013_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/Steve_Nash_Lakers_smiling_2013_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41R0zXCd7rJInrtklTdqEMT4GqZkNeg4MgOCYtjRoxQ&s=10": "keep"
       },
       "crops": {
         "0": {
@@ -21951,7 +22102,7 @@
       "id": "russell-westbrook",
       "name": "Russell Westbrook",
       "state": "approved",
-      "selected": 4,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Russell Westbrook (5527907117).jpg",
@@ -22069,20 +22220,39 @@
           "license": "CC BY-SA 2.0",
           "description": "Wizards v/s Thunder 03/14/11",
           "score": 92.6848453616444
+        },
+        {
+          "title": "External image — Russell Westbrook",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm95f-zc0eYiBToG6TLSFX1n0KKDlxof4dd17QqCOVoA&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm95f-zc0eYiBToG6TLSFX1n0KKDlxof4dd17QqCOVoA&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm95f-zc0eYiBToG6TLSFX1n0KKDlxof4dd17QqCOVoA&s=10",
+          "width": 452,
+          "height": 678,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/0/06/Russell_Westbrook_shoots_against_Cavs_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/Russell_Westbrook_shoots_against_Cavs_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm95f-zc0eYiBToG6TLSFX1n0KKDlxof4dd17QqCOVoA&s=10": "keep"
       },
       "crops": {
         "4": {
           "zoom": 1.5,
           "x": 50,
           "y": 30
+        },
+        "9": {
+          "zoom": 1.5,
+          "x": 70,
+          "y": 70
         }
       },
       "cropSaved": {
-        "4": true
+        "4": true,
+        "9": true
       }
     },
     "harrison-barnes": {
@@ -22649,7 +22819,7 @@
       "id": "walt-frazier",
       "name": "Walt Frazier",
       "state": "approved",
-      "selected": 0,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:Walt Frazier 1977.jpeg",
@@ -22767,10 +22937,23 @@
           "license": "CC BY 2.0",
           "description": "Looking classy as always.",
           "score": 82.62265990460759
+        },
+        {
+          "title": "External image — Walt Frazier",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04Dr3kPmGdteQ9Sb9MFJTLEcQjxXyrvJpeIgZ5Ebnmw&s=10",
+          "original": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04Dr3kPmGdteQ9Sb9MFJTLEcQjxXyrvJpeIgZ5Ebnmw&s=10",
+          "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04Dr3kPmGdteQ9Sb9MFJTLEcQjxXyrvJpeIgZ5Ebnmw&s=10",
+          "width": 475,
+          "height": 645,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/3/32/Walt_Frazier_1977.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/Walt_Frazier_1977.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04Dr3kPmGdteQ9Sb9MFJTLEcQjxXyrvJpeIgZ5Ebnmw&s=10": "keep"
       },
       "crops": {},
       "cropSaved": {}
