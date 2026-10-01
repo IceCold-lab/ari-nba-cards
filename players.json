@@ -41,7 +41,7 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
       "dpoy": 1
     },
     "image": {
@@ -172,7 +172,7 @@
     "awards": {
       "mvp": 2,
       "championships": 1,
-      "finalsMvp": 1
+      "finalsMvp": 1,
       "dpoy": 1
     },
     "image": {
@@ -753,7 +753,7 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
       "dpoy": 1
     },
     "image": {
@@ -856,7 +856,7 @@
     "awards": {
       "mvp": 0,
       "championships": 2,
-      "finalsMvp": 2
+      "finalsMvp": 2,
       "dpoy": 1
     },
     "image": {
@@ -1029,7 +1029,7 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
       "dpoy": 1
     },
     "image": {
@@ -3705,7 +3705,7 @@
     "awards": {
       "mvp": 5,
       "championships": 6,
-      "finalsMvp": 6
+      "finalsMvp": 6,
       "dpoy": 1
     },
     "image": {
@@ -3957,7 +3957,7 @@
     "awards": {
       "mvp": 1,
       "championships": 2,
-      "finalsMvp": 2
+      "finalsMvp": 2,
       "dpoy": 2
     },
     "image": {
@@ -4208,7 +4208,7 @@
     "awards": {
       "mvp": 1,
       "championships": 2,
-      "finalsMvp": 1
+      "finalsMvp": 1,
       "dpoy": 1
     },
     "image": {
@@ -4234,7 +4234,7 @@
     "awards": {
       "mvp": 1,
       "championships": 1,
-      "finalsMvp": 1
+      "finalsMvp": 1,
       "dpoy": 1
     },
     "image": {
@@ -4891,7 +4891,7 @@
     "awards": {
       "mvp": 0,
       "championships": 1,
-      "finalsMvp": 0
+      "finalsMvp": 0,
       "dpoy": 1
     },
     "image": {
