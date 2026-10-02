@@ -23,7 +23,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftPick": 41
   },
   {
     "id": "victor-wembanyama",
@@ -50,7 +51,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": 1
   },
   {
     "id": "shai-gilgeous-alexander",
@@ -76,7 +78,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 11
   },
   {
     "id": "luka-doncic",
@@ -102,7 +105,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftPick": 3
   },
   {
     "id": "cade-cunningham",
@@ -128,7 +132,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftPick": 1
   },
   {
     "id": "jayson-tatum",
@@ -154,7 +159,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftPick": 3
   },
   {
     "id": "giannis-antetokounmpo",
@@ -181,7 +187,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftPick": 15
   },
   {
     "id": "jalen-johnson",
@@ -207,7 +214,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftPick": 20
   },
   {
     "id": "anthony-edwards",
@@ -233,7 +241,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftPick": 1
   },
   {
     "id": "tyrese-maxey",
@@ -259,7 +268,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftPick": 21
   },
   {
     "id": "tyrese-haliburton",
@@ -283,7 +293,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2020,
+    "draftPick": 12,
+    "draftedBy": "Sacramento Kings"
   },
   {
     "id": "cooper-flagg",
@@ -307,7 +320,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Dallas Mavericks"
+    "teamName": "Dallas Mavericks",
+    "draftYear": 2025,
+    "draftPick": 1,
+    "draftedBy": "Dallas Mavericks"
   },
   {
     "id": "scottie-barnes",
@@ -333,7 +349,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftPick": 4
   },
   {
     "id": "donovan-mitchell",
@@ -359,7 +376,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftPick": 13
   },
   {
     "id": "kevin-durant",
@@ -385,7 +403,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftPick": 2
   },
   {
     "id": "stephen-curry",
@@ -411,7 +430,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "draftPick": 7
   },
   {
     "id": "karl-anthony-towns",
@@ -437,7 +457,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 1
   },
   {
     "id": "trae-young",
@@ -463,7 +484,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftPick": 5
   },
   {
     "id": "alperen-sengun",
@@ -487,7 +509,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2021,
+    "draftPick": 16,
+    "draftedBy": "Oklahoma City Thunder"
   },
   {
     "id": "austin-reaves",
@@ -511,7 +536,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2021,
+    "draftPick": null,
+    "draftedBy": "Undrafted"
   },
   {
     "id": "james-harden",
@@ -537,7 +565,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftPick": 3
   },
   {
     "id": "chet-holmgren",
@@ -561,7 +590,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2022,
+    "draftPick": 2,
+    "draftedBy": "Oklahoma City Thunder"
   },
   {
     "id": "lamelo-ball",
@@ -587,7 +619,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftPick": 3
   },
   {
     "id": "amen-thompson",
@@ -611,7 +644,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2023,
+    "draftPick": 4,
+    "draftedBy": "Houston Rockets"
   },
   {
     "id": "josh-giddey",
@@ -635,7 +671,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2021,
+    "draftPick": 6,
+    "draftedBy": "Oklahoma City Thunder"
   },
   {
     "id": "jamal-murray",
@@ -661,7 +700,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftPick": 7
   },
   {
     "id": "anthony-davis",
@@ -687,7 +727,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftPick": 1
   },
   {
     "id": "devin-booker",
@@ -713,7 +754,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftPick": 13
   },
   {
     "id": "trey-murphy-iii",
@@ -737,7 +779,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2021,
+    "draftPick": 17,
+    "draftedBy": "Memphis Grizzlies"
   },
   {
     "id": "evan-mobley",
@@ -762,7 +807,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftYear": 2021,
+    "draftPick": 3,
+    "draftedBy": "Cleveland Cavaliers"
   },
   {
     "id": "jalen-brunson",
@@ -788,7 +836,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 33
   },
   {
     "id": "domantas-sabonis",
@@ -814,7 +863,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftPick": 11
   },
   {
     "id": "lauri-markkanen",
@@ -838,7 +888,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2017,
+    "draftPick": 7,
+    "draftedBy": "Minnesota Timberwolves"
   },
   {
     "id": "kawhi-leonard",
@@ -857,7 +910,7 @@
       "mvp": 0,
       "championships": 2,
       "finalsMvp": 2,
-      "dpoy": 1
+      "dpoy": 2
     },
     "image": {
       "file": "images/kawhi-leonard.jpg",
@@ -865,7 +918,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "LA Clippers"
+    "teamName": "LA Clippers",
+    "draftPick": 15
   },
   {
     "id": "bam-adebayo",
@@ -891,7 +945,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftPick": 14
   },
   {
     "id": "deni-avdija",
@@ -915,7 +970,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2020,
+    "draftPick": 9,
+    "draftedBy": "Washington Wizards"
   },
   {
     "id": "jalen-williams",
@@ -939,7 +997,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2022,
+    "draftPick": 12,
+    "draftedBy": "Oklahoma City Thunder"
   },
   {
     "id": "brandon-miller",
@@ -963,7 +1024,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2023,
+    "draftPick": 2,
+    "draftedBy": "Charlotte Hornets"
   },
   {
     "id": "walker-kessler",
@@ -987,7 +1051,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2022,
+    "draftPick": 22,
+    "draftedBy": "Memphis Grizzlies"
   },
   {
     "id": "derrick-white",
@@ -1011,7 +1078,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2017,
+    "draftPick": 29,
+    "draftedBy": "San Antonio Spurs"
   },
   {
     "id": "jaren-jackson-jr",
@@ -1038,7 +1108,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftPick": 4
   },
   {
     "id": "kon-knueppel",
@@ -1062,7 +1133,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2025,
+    "draftPick": 4,
+    "draftedBy": "Charlotte Hornets"
   },
   {
     "id": "jaylen-brown",
@@ -1086,7 +1160,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftYear": 2016,
+    "draftPick": 3,
+    "draftedBy": "Boston Celtics"
   },
   {
     "id": "jalen-duren",
@@ -1110,7 +1187,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftYear": 2022,
+    "draftPick": 13,
+    "draftedBy": "Charlotte Hornets"
   },
   {
     "id": "keyonte-george",
@@ -1134,7 +1214,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2023,
+    "draftPick": 16,
+    "draftedBy": "Utah Jazz"
   },
   {
     "id": "nickeil-alexander-walker",
@@ -1158,7 +1241,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2019,
+    "draftPick": 17,
+    "draftedBy": "Brooklyn Nets"
   },
   {
     "id": "darius-garland",
@@ -1184,7 +1270,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "LA Clippers"
+    "teamName": "LA Clippers",
+    "draftPick": 5
   },
   {
     "id": "kyrie-irving",
@@ -1210,7 +1297,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Dallas Mavericks"
+    "teamName": "Dallas Mavericks",
+    "draftPick": 1
   },
   {
     "id": "paolo-banchero",
@@ -1236,7 +1324,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftPick": 1
   },
   {
     "id": "desmond-bane",
@@ -1260,7 +1349,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2020,
+    "draftPick": 30,
+    "draftedBy": "Boston Celtics"
   },
   {
     "id": "onyeka-okongwu",
@@ -1284,7 +1376,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2020,
+    "draftPick": 6,
+    "draftedBy": "Atlanta Hawks"
   },
   {
     "id": "lebron-james",
@@ -1310,7 +1405,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftPick": 1
   },
   {
     "id": "donovan-clingan",
@@ -1334,7 +1430,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2024,
+    "draftPick": 7,
+    "draftedBy": "Portland Trail Blazers"
   },
   {
     "id": "tyler-herro",
@@ -1358,7 +1457,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2019,
+    "draftPick": 13,
+    "draftedBy": "Miami Heat"
   },
   {
     "id": "matas-buzelis",
@@ -1382,7 +1484,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2024,
+    "draftPick": 11,
+    "draftedBy": "Chicago Bulls"
   },
   {
     "id": "dyson-daniels",
@@ -1406,7 +1511,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2022,
+    "draftPick": 8,
+    "draftedBy": "New Orleans Pelicans"
   },
   {
     "id": "franz-wagner",
@@ -1430,7 +1538,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2021,
+    "draftPick": 8,
+    "draftedBy": "Orlando Magic"
   },
   {
     "id": "pascal-siakam",
@@ -1454,7 +1565,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2016,
+    "draftPick": 27,
+    "draftedBy": "Toronto Raptors"
   },
   {
     "id": "cameron-boozer",
@@ -1505,7 +1619,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftYear": 2017,
+    "draftPick": 23,
+    "draftedBy": "Toronto Raptors"
   },
   {
     "id": "joel-embiid",
@@ -1531,7 +1648,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftPick": 3
   },
   {
     "id": "dejounte-murray",
@@ -1555,7 +1673,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2016,
+    "draftPick": 29,
+    "draftedBy": "San Antonio Spurs"
   },
   {
     "id": "ryan-rollins",
@@ -1579,7 +1700,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2022,
+    "draftPick": 44,
+    "draftedBy": "Atlanta Hawks"
   },
   {
     "id": "julius-randle",
@@ -1603,7 +1727,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2014,
+    "draftPick": 7,
+    "draftedBy": "Los Angeles Lakers"
   },
   {
     "id": "michael-porter-jr",
@@ -1627,7 +1754,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2018,
+    "draftPick": 14,
+    "draftedBy": "Denver Nuggets"
   },
   {
     "id": "kel-el-ware",
@@ -1651,7 +1781,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2024,
+    "draftPick": 15,
+    "draftedBy": "Miami Heat"
   },
   {
     "id": "alex-sarr",
@@ -1675,7 +1808,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftYear": 2024,
+    "draftPick": 2,
+    "draftedBy": "Washington Wizards"
   },
   {
     "id": "stephon-castle",
@@ -1699,7 +1835,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2024,
+    "draftPick": 4,
+    "draftedBy": "San Antonio Spurs"
   },
   {
     "id": "zach-edey",
@@ -1723,7 +1862,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "draftYear": 2024,
+    "draftPick": 9,
+    "draftedBy": "Memphis Grizzlies"
   },
   {
     "id": "ivica-zubac",
@@ -1747,7 +1889,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2016,
+    "draftPick": 32,
+    "draftedBy": "Los Angeles Lakers"
   },
   {
     "id": "de-aaron-fox",
@@ -1771,7 +1916,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2017,
+    "draftPick": 5,
+    "draftedBy": "Sacramento Kings"
   },
   {
     "id": "naz-reid",
@@ -1795,7 +1943,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2019,
+    "draftPick": null,
+    "draftedBy": "Undrafted"
   },
   {
     "id": "mikal-bridges",
@@ -1819,7 +1970,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftYear": 2018,
+    "draftPick": 10,
+    "draftedBy": "Philadelphia 76ers"
   },
   {
     "id": "ja-morant",
@@ -1843,7 +1997,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2019,
+    "draftPick": 2,
+    "draftedBy": "Memphis Grizzlies"
   },
   {
     "id": "jaden-mcdaniels",
@@ -1867,7 +2024,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftYear": 2020,
+    "draftPick": 28,
+    "draftedBy": "Los Angeles Lakers"
   },
   {
     "id": "rudy-gobert",
@@ -1892,7 +2052,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftYear": 2013,
+    "draftPick": 27,
+    "draftedBy": "Denver Nuggets"
   },
   {
     "id": "vj-edgecombe",
@@ -1916,7 +2079,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftYear": 2025,
+    "draftPick": 3,
+    "draftedBy": "Philadelphia 76ers"
   },
   {
     "id": "immanuel-quickley",
@@ -1940,7 +2106,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2020,
+    "draftPick": 25,
+    "draftedBy": "Oklahoma City Thunder"
   },
   {
     "id": "coby-white",
@@ -1964,7 +2133,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2019,
+    "draftPick": 7,
+    "draftedBy": "Chicago Bulls"
   },
   {
     "id": "brandon-ingram",
@@ -1988,7 +2160,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2016,
+    "draftPick": 2,
+    "draftedBy": "Los Angeles Lakers"
   },
   {
     "id": "paul-george",
@@ -2012,7 +2187,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2010,
+    "draftPick": 10,
+    "draftedBy": "Indiana Pacers"
   },
   {
     "id": "dylan-harper",
@@ -2036,7 +2214,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2025,
+    "draftPick": 2,
+    "draftedBy": "San Antonio Spurs"
   },
   {
     "id": "zion-williamson",
@@ -2060,7 +2241,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2019,
+    "draftPick": 1,
+    "draftedBy": "New Orleans Pelicans"
   },
   {
     "id": "jarrett-allen",
@@ -2084,7 +2268,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftYear": 2017,
+    "draftPick": 22,
+    "draftedBy": "Brooklyn Nets"
   },
   {
     "id": "payton-pritchard",
@@ -2108,7 +2295,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2020,
+    "draftPick": 26,
+    "draftedBy": "Boston Celtics"
   },
   {
     "id": "damian-lillard",
@@ -2134,7 +2324,8 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftPick": 6
   },
   {
     "id": "jalen-suggs",
@@ -2158,7 +2349,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2021,
+    "draftPick": 5,
+    "draftedBy": "Orlando Magic"
   },
   {
     "id": "ausar-thompson",
@@ -2182,7 +2376,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftYear": 2023,
+    "draftPick": 5,
+    "draftedBy": "Detroit Pistons"
   },
   {
     "id": "josh-hart",
@@ -2206,7 +2403,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftYear": 2017,
+    "draftPick": 30,
+    "draftedBy": "Utah Jazz"
   },
   {
     "id": "norman-powell",
@@ -2230,7 +2430,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2015,
+    "draftPick": 46,
+    "draftedBy": "Milwaukee Bucks"
   },
   {
     "id": "ty-jerome",
@@ -2254,7 +2457,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "draftYear": 2019,
+    "draftPick": 24,
+    "draftedBy": "Philadelphia 76ers"
   },
   {
     "id": "derik-queen",
@@ -2278,7 +2484,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2025,
+    "draftPick": 13,
+    "draftedBy": "Atlanta Hawks"
   },
   {
     "id": "jabari-smith-jr",
@@ -2302,7 +2511,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2022,
+    "draftPick": 3,
+    "draftedBy": "Houston Rockets"
   },
   {
     "id": "myles-turner",
@@ -2326,7 +2538,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2015,
+    "draftPick": 11,
+    "draftedBy": "Indiana Pacers"
   },
   {
     "id": "andrew-wiggins",
@@ -2350,7 +2565,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftYear": 2014,
+    "draftPick": 1,
+    "draftedBy": "Cleveland Cavaliers"
   },
   {
     "id": "aj-dybantsa",
@@ -2401,7 +2619,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2019,
+    "draftPick": 31,
+    "draftedBy": "Brooklyn Nets"
   },
   {
     "id": "isaiah-hartenstein",
@@ -2416,7 +2637,7 @@
     "seasons": null,
     "awards": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "finalsMvp": 0
     },
     "image": {
@@ -2425,7 +2646,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2017,
+    "draftPick": 43,
+    "draftedBy": "Houston Rockets"
   },
   {
     "id": "day-ron-sharpe",
@@ -2449,7 +2673,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2021,
+    "draftPick": 29,
+    "draftedBy": "Phoenix Suns"
   },
   {
     "id": "caleb-wilson",
@@ -2500,7 +2727,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2016,
+    "draftPick": null,
+    "draftedBy": "Undrafted"
   },
   {
     "id": "darryn-peterson",
@@ -2551,7 +2781,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2019,
+    "draftPick": 30,
+    "draftedBy": "Milwaukee Bucks"
   },
   {
     "id": "ayo-dosunmu",
@@ -2575,7 +2808,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftYear": 2021,
+    "draftPick": 38,
+    "draftedBy": "Chicago Bulls"
   },
   {
     "id": "cedric-coward",
@@ -2599,7 +2835,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "draftYear": 2025,
+    "draftPick": 11,
+    "draftedBy": "Portland Trail Blazers"
   },
   {
     "id": "kyshawn-george",
@@ -2623,7 +2862,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftYear": 2024,
+    "draftPick": 24,
+    "draftedBy": "New York Knicks"
   },
   {
     "id": "cj-mccollum",
@@ -2647,7 +2889,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2013,
+    "draftPick": 10,
+    "draftedBy": "Portland Trail Blazers"
   },
   {
     "id": "miles-bridges",
@@ -2671,7 +2916,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2018,
+    "draftPick": 12,
+    "draftedBy": "Los Angeles Clippers"
   },
   {
     "id": "john-collins",
@@ -2695,7 +2943,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftYear": 2017,
+    "draftPick": 19,
+    "draftedBy": "Atlanta Hawks"
   },
   {
     "id": "ajay-mitchell",
@@ -2719,7 +2970,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2024,
+    "draftPick": 38,
+    "draftedBy": "New York Knicks"
   },
   {
     "id": "zach-lavine",
@@ -2743,7 +2997,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftYear": 2014,
+    "draftPick": 13,
+    "draftedBy": "Minnesota Timberwolves"
   },
   {
     "id": "keegan-murray",
@@ -2767,7 +3024,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftYear": 2022,
+    "draftPick": 4,
+    "draftedBy": "Sacramento Kings"
   },
   {
     "id": "reed-sheppard",
@@ -2791,7 +3051,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2024,
+    "draftPick": 3,
+    "draftedBy": "Houston Rockets"
   },
   {
     "id": "neemias-queta",
@@ -2815,7 +3078,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2021,
+    "draftPick": 39,
+    "draftedBy": "Sacramento Kings"
   },
   {
     "id": "toumani-camara",
@@ -2839,7 +3105,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2023,
+    "draftPick": 52,
+    "draftedBy": "Phoenix Suns"
   },
   {
     "id": "peyton-watson",
@@ -2863,7 +3132,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftYear": 2022,
+    "draftPick": 30,
+    "draftedBy": "Denver Nuggets"
   },
   {
     "id": "collin-murray-boyles",
@@ -2887,7 +3159,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2025,
+    "draftPick": 9,
+    "draftedBy": "Toronto Raptors"
   },
   {
     "id": "jakob-poeltl",
@@ -2911,7 +3186,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2016,
+    "draftPick": 9,
+    "draftedBy": "Toronto Raptors"
   },
   {
     "id": "jalen-green",
@@ -2935,7 +3213,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2021,
+    "draftPick": 2,
+    "draftedBy": "Houston Rockets"
   },
   {
     "id": "mark-williams",
@@ -2959,7 +3240,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2022,
+    "draftPick": 15,
+    "draftedBy": "Charlotte Hornets"
   },
   {
     "id": "cason-wallace",
@@ -2983,7 +3267,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2023,
+    "draftPick": 10,
+    "draftedBy": "Dallas Mavericks"
   },
   {
     "id": "darius-acuff-jr",
@@ -3034,7 +3321,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2019,
+    "draftPick": 3,
+    "draftedBy": "New York Knicks"
   },
   {
     "id": "brandin-podziemski",
@@ -3058,7 +3348,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "draftYear": 2023,
+    "draftPick": 19,
+    "draftedBy": "Golden State Warriors"
   },
   {
     "id": "jusuf-nurkic",
@@ -3082,7 +3375,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2014,
+    "draftPick": 16,
+    "draftedBy": "Chicago Bulls"
   },
   {
     "id": "maxime-raynaud",
@@ -3106,7 +3402,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftYear": 2025,
+    "draftPick": 42,
+    "draftedBy": "Sacramento Kings"
   },
   {
     "id": "kristaps-porzingis",
@@ -3130,7 +3429,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "draftYear": 2015,
+    "draftPick": 4,
+    "draftedBy": "New York Knicks"
   },
   {
     "id": "anthony-black",
@@ -3154,7 +3456,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2023,
+    "draftPick": 6,
+    "draftedBy": "Orlando Magic"
   },
   {
     "id": "jeremiah-fears",
@@ -3178,7 +3483,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2025,
+    "draftPick": 7,
+    "draftedBy": "New Orleans Pelicans"
   },
   {
     "id": "sandro-mamukelashvili",
@@ -3202,7 +3510,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2021,
+    "draftPick": 54,
+    "draftedBy": "Indiana Pacers"
   },
   {
     "id": "davion-mitchell",
@@ -3226,7 +3537,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftYear": 2021,
+    "draftPick": 9,
+    "draftedBy": "Sacramento Kings"
   },
   {
     "id": "egor-demin",
@@ -3250,7 +3564,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2025,
+    "draftPick": 8,
+    "draftedBy": "Brooklyn Nets"
   },
   {
     "id": "andrew-nembhard",
@@ -3274,7 +3591,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2022,
+    "draftPick": 31,
+    "draftedBy": "Denver Nuggets"
   },
   {
     "id": "p-j-washington",
@@ -3298,7 +3618,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Dallas Mavericks"
+    "teamName": "Dallas Mavericks",
+    "draftYear": 2019,
+    "draftPick": 12,
+    "draftedBy": "Charlotte Hornets"
   },
   {
     "id": "collin-gillespie",
@@ -3322,7 +3645,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2022,
+    "draftPick": null,
+    "draftedBy": "Undrafted"
   },
   {
     "id": "quentin-grimes",
@@ -3346,7 +3672,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2021,
+    "draftPick": 25,
+    "draftedBy": "Los Angeles Clippers"
   },
   {
     "id": "saddiq-bey",
@@ -3370,7 +3699,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2020,
+    "draftPick": 19,
+    "draftedBy": "Brooklyn Nets"
   },
   {
     "id": "jaime-jaquez-jr",
@@ -3394,7 +3726,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2023,
+    "draftPick": 18,
+    "draftedBy": "Miami Heat"
   },
   {
     "id": "tari-eason",
@@ -3418,7 +3753,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2022,
+    "draftPick": 17,
+    "draftedBy": "Houston Rockets"
   },
   {
     "id": "demar-derozan",
@@ -3442,7 +3780,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2009,
+    "draftPick": 9,
+    "draftedBy": "Toronto Raptors"
   },
   {
     "id": "yaxel-lendeborg",
@@ -3493,7 +3834,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2022,
+    "draftPick": 21,
+    "draftedBy": "Denver Nuggets"
   },
   {
     "id": "ace-bailey",
@@ -3517,7 +3861,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2025,
+    "draftPick": 5,
+    "draftedBy": "Utah Jazz"
   },
   {
     "id": "aaron-gordon",
@@ -3541,7 +3888,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2014,
+    "draftPick": 4,
+    "draftedBy": "Orlando Magic"
   },
   {
     "id": "devin-vassell",
@@ -3565,7 +3915,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2020,
+    "draftPick": 11,
+    "draftedBy": "San Antonio Spurs"
   },
   {
     "id": "cameron-johnson",
@@ -3589,7 +3942,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2019,
+    "draftPick": 11,
+    "draftedBy": "Minnesota Timberwolves"
   },
   {
     "id": "bennedict-mathurin",
@@ -3613,7 +3969,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "LA Clippers"
+    "teamName": "LA Clippers",
+    "draftYear": 2022,
+    "draftPick": 6,
+    "draftedBy": "Indiana Pacers"
   },
   {
     "id": "jrue-holiday",
@@ -3637,7 +3996,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2009,
+    "draftPick": 17,
+    "draftedBy": "Philadelphia 76ers"
   },
   {
     "id": "grayson-allen",
@@ -3661,7 +4023,10 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2018,
+    "draftPick": 21,
+    "draftedBy": "Utah Jazz"
   },
   {
     "id": "mikel-brown-jr",
@@ -3714,13 +4079,14 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3
   },
   {
     "id": "jordan-clarkson",
     "name": "Jordan Clarkson",
     "abbr": "NYK",
-    "rank": 151,
+    "rank": 2,
     "category": "Current Players",
     "status": "active",
     "position": "PG/SG",
@@ -3740,12 +4106,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 46
   },
   {
     "id": "kareem-abdul-jabbar",
     "name": "Kareem Abdul-Jabbar",
-    "rank": 2,
+    "rank": 3,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3765,12 +4132,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "bill-russell",
     "name": "Bill Russell",
-    "rank": 3,
+    "rank": 4,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3790,12 +4158,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2
   },
   {
     "id": "wilt-chamberlain",
     "name": "Wilt Chamberlain",
-    "rank": 4,
+    "rank": 5,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3815,12 +4184,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3
   },
   {
     "id": "magic-johnson",
     "name": "Magic Johnson",
-    "rank": 5,
+    "rank": 6,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -3840,12 +4210,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "larry-bird",
     "name": "Larry Bird",
-    "rank": 6,
+    "rank": 7,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -3865,12 +4236,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 6
   },
   {
     "id": "tim-duncan",
     "name": "Tim Duncan",
-    "rank": 7,
+    "rank": 8,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF/C",
@@ -3890,12 +4262,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "shaquille-o-neal",
     "name": "Shaquille O'Neal",
-    "rank": 8,
+    "rank": 9,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3915,12 +4288,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "kobe-bryant",
     "name": "Kobe Bryant",
-    "rank": 9,
+    "rank": 10,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -3940,12 +4314,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 13
   },
   {
     "id": "hakeem-olajuwon",
     "name": "Hakeem Olajuwon",
-    "rank": 10,
+    "rank": 11,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3966,17 +4341,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "jose-alvarado",
     "name": "Jose Alvarado",
     "abbr": "NYK",
-    "rank": 152,
+    "rank": 12,
     "category": "Current Players",
     "status": "active",
     "position": "PG/SG",
-    "draftYear": null,
+    "draftYear": 2021,
     "draftedBy": "Undrafted",
     "number": "5",
     "age": 28,
@@ -3992,12 +4368,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": null
   },
   {
     "id": "oscar-robertson",
     "name": "Oscar Robertson",
-    "rank": 11,
+    "rank": 13,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4017,12 +4394,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "jerry-west",
     "name": "Jerry West",
-    "rank": 12,
+    "rank": 14,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG/SG",
@@ -4042,13 +4420,14 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2
   },
   {
     "id": "landry-shamet",
     "name": "Landry Shamet",
     "abbr": "NYK",
-    "rank": 153,
+    "rank": 15,
     "category": "Current Players",
     "status": "active",
     "position": "SG/SF",
@@ -4068,12 +4447,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 26
   },
   {
     "id": "julius-erving",
     "name": "Julius Erving",
-    "rank": 13,
+    "rank": 16,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4093,12 +4473,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 12
   },
   {
     "id": "moses-malone",
     "name": "Moses Malone",
-    "rank": 14,
+    "rank": 17,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4118,12 +4499,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3
   },
   {
     "id": "karl-malone",
     "name": "Karl Malone",
-    "rank": 15,
+    "rank": 18,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4141,12 +4523,15 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftYear": 1985,
+    "draftPick": 13,
+    "draftedBy": "Utah Jazz"
   },
   {
     "id": "john-stockton",
     "name": "John Stockton",
-    "rank": 16,
+    "rank": 19,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4166,12 +4551,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 16
   },
   {
     "id": "charles-barkley",
     "name": "Charles Barkley",
-    "rank": 17,
+    "rank": 20,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4191,12 +4577,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5
   },
   {
     "id": "david-robinson",
     "name": "David Robinson",
-    "rank": 18,
+    "rank": 21,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4217,12 +4604,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "kevin-garnett",
     "name": "Kevin Garnett",
-    "rank": 19,
+    "rank": 22,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4243,12 +4631,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5
   },
   {
     "id": "dirk-nowitzki",
     "name": "Dirk Nowitzki",
-    "rank": 20,
+    "rank": 23,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4268,13 +4657,14 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 9
   },
   {
     "id": "jared-mccain",
     "name": "Jared McCain",
     "abbr": "OKC",
-    "rank": 154,
+    "rank": 24,
     "category": "Current Players",
     "status": "active",
     "position": "SG",
@@ -4294,17 +4684,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 16
   },
   {
     "id": "alex-caruso",
     "name": "Alex Caruso",
     "abbr": "OKC",
-    "rank": 155,
+    "rank": 25,
     "category": "Current Players",
     "status": "active",
     "position": "SG",
-    "draftYear": null,
+    "draftYear": 2016,
     "draftedBy": "Undrafted",
     "number": "9",
     "age": 32,
@@ -4320,12 +4711,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": null
   },
   {
     "id": "elgin-baylor",
     "name": "Elgin Baylor",
-    "rank": 21,
+    "rank": 26,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4345,12 +4737,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "bob-pettit",
     "name": "Bob Pettit",
-    "rank": 22,
+    "rank": 27,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4370,12 +4763,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2
   },
   {
     "id": "rick-barry",
     "name": "Rick Barry",
-    "rank": 23,
+    "rank": 28,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4395,12 +4789,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 4
   },
   {
     "id": "isiah-thomas",
     "name": "Isiah Thomas",
-    "rank": 24,
+    "rank": 29,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4420,12 +4815,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2
   },
   {
     "id": "john-havlicek",
     "name": "John Havlicek",
-    "rank": 25,
+    "rank": 30,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4445,12 +4841,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 7
   },
   {
     "id": "scottie-pippen",
     "name": "Scottie Pippen",
-    "rank": 26,
+    "rank": 31,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4470,12 +4867,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5
   },
   {
     "id": "dwyane-wade",
     "name": "Dwyane Wade",
-    "rank": 27,
+    "rank": 32,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4495,12 +4893,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5
   },
   {
     "id": "chris-paul",
     "name": "Chris Paul",
-    "rank": 28,
+    "rank": 33,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4520,12 +4919,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 4
   },
   {
     "id": "steve-nash",
     "name": "Steve Nash",
-    "rank": 29,
+    "rank": 34,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4545,12 +4945,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 15
   },
   {
     "id": "allen-iverson",
     "name": "Allen Iverson",
-    "rank": 30,
+    "rank": 35,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4570,12 +4971,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "patrick-ewing",
     "name": "Patrick Ewing",
-    "rank": 31,
+    "rank": 36,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4595,12 +4997,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "clyde-drexler",
     "name": "Clyde Drexler",
-    "rank": 32,
+    "rank": 37,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4620,12 +5023,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 14
   },
   {
     "id": "jason-kidd",
     "name": "Jason Kidd",
-    "rank": 33,
+    "rank": 38,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4645,13 +5049,14 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2
   },
   {
     "id": "jaylin-williams",
     "name": "Jaylin Williams",
     "abbr": "OKC",
-    "rank": 156,
+    "rank": 39,
     "category": "Current Players",
     "status": "active",
     "position": "PF/C",
@@ -4671,12 +5076,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 34
   },
   {
     "id": "george-gervin",
     "name": "George Gervin",
-    "rank": 34,
+    "rank": 40,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4696,12 +5102,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 40
   },
   {
     "id": "russell-westbrook",
     "name": "Russell Westbrook",
-    "rank": 35,
+    "rank": 41,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4721,13 +5128,14 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 4
   },
   {
     "id": "harrison-barnes",
     "name": "Harrison Barnes",
     "abbr": "SAS",
-    "rank": 157,
+    "rank": 42,
     "category": "Current Players",
     "status": "active",
     "position": "SF/PF",
@@ -4747,13 +5155,14 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": 7
   },
   {
     "id": "tobias-harris",
     "name": "Tobias Harris",
     "abbr": "SAS",
-    "rank": 158,
+    "rank": 43,
     "category": "Current Players",
     "status": "active",
     "position": "SF/PF",
@@ -4773,17 +5182,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": 19
   },
   {
     "id": "julian-champagnie",
     "name": "Julian Champagnie",
     "abbr": "SAS",
-    "rank": 159,
+    "rank": 44,
     "category": "Current Players",
     "status": "active",
     "position": "PF",
-    "draftYear": null,
+    "draftYear": 2022,
     "draftedBy": "Undrafted",
     "number": "30",
     "age": 25,
@@ -4799,12 +5209,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": null
   },
   {
     "id": "kevin-mchale",
     "name": "Kevin McHale",
-    "rank": 36,
+    "rank": 45,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4824,12 +5235,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3
   },
   {
     "id": "bill-walton",
     "name": "Bill Walton",
-    "rank": 37,
+    "rank": 46,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4849,12 +5261,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1
   },
   {
     "id": "walt-frazier",
     "name": "Walt Frazier",
-    "rank": 38,
+    "rank": 47,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4874,12 +5287,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5
   },
   {
     "id": "gary-payton",
     "name": "Gary Payton",
-    "rank": 39,
+    "rank": 48,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4900,12 +5314,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2
   },
   {
     "id": "reggie-miller",
     "name": "Reggie Miller",
-    "rank": 40,
+    "rank": 49,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4925,12 +5340,13 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 11
   },
   {
     "id": "dominique-wilkins",
     "name": "Dominique Wilkins",
-    "rank": 41,
+    "rank": 50,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4950,6 +5366,7 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3
   }
 ]
