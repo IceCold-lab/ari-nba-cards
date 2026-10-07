@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated": "2026-09-29T08:50:02.482Z",
+  "generated": "2026-10-07T09:48:34.199Z",
   "players": {
     "nikola-jokic": {
       "id": "nikola-jokic",
@@ -3069,7 +3069,7 @@
       "id": "lamelo-ball",
       "name": "LaMelo Ball",
       "state": "approved",
-      "selected": 8,
+      "selected": 9,
       "candidates": [
         {
           "title": "File:LaMelo Ball (51916024788).jpg",
@@ -3187,10 +3187,23 @@
           "license": "CC BY 2.0",
           "description": "LaMelo Ball",
           "score": 78.83353936856628
+        },
+        {
+          "title": "External image — LaMelo Ball",
+          "url": "https://www.reuters.com/resizer/v2/PEG5FTUZFFKBJDF3CWZO3CBHNY.jpg?auth=2dc0eedfe1d6132db66e50a7b9cafa722024382c76ea1923e37a411ee91c6357&width=1920&quality=80",
+          "original": "https://www.reuters.com/resizer/v2/PEG5FTUZFFKBJDF3CWZO3CBHNY.jpg?auth=2dc0eedfe1d6132db66e50a7b9cafa722024382c76ea1923e37a411ee91c6357&width=1920&quality=80",
+          "page": "https://www.reuters.com/resizer/v2/PEG5FTUZFFKBJDF3CWZO3CBHNY.jpg?auth=2dc0eedfe1d6132db66e50a7b9cafa722024382c76ea1923e37a411ee91c6357&width=1920&quality=80",
+          "width": 1920,
+          "height": 1280,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://upload.wikimedia.org/wikipedia/commons/b/b3/LaMelo_Ball_%2851914959337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep"
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/LaMelo_Ball_%2851914959337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original": "keep",
+        "https://www.reuters.com/resizer/v2/PEG5FTUZFFKBJDF3CWZO3CBHNY.jpg?auth=2dc0eedfe1d6132db66e50a7b9cafa722024382c76ea1923e37a411ee91c6357&width=1920&quality=80": "keep"
       },
       "crops": {
         "8": {
@@ -6863,7 +6876,7 @@
     "matas-buzelis": {
       "id": "matas-buzelis",
       "name": "Matas Buzelis",
-      "state": "maybe",
+      "state": "approved",
       "selected": 1,
       "candidates": [
         {
