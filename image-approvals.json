@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated": "2026-10-07T10:36:33.780Z",
+  "generated": "2026-10-07T10:52:04.945Z",
   "players": {
     "nikola-jokic": {
       "id": "nikola-jokic",
@@ -15373,7 +15373,7 @@
       "id": "quentin-grimes",
       "name": "Quentin Grimes",
       "state": "approved",
-      "selected": 2,
+      "selected": 3,
       "candidates": [
         {
           "title": "File:Quentin Grimes (cropped).jpg",
@@ -15412,20 +15412,39 @@
           "artist": "",
           "license": "External source — verify usage rights",
           "external": true
+        },
+        {
+          "title": "External image — Quentin Grimes",
+          "url": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/06/gettyimages-2274311152.jpg?quality=90&strip=all&crop=16.684322033898,0,66.631355932203,100",
+          "original": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/06/gettyimages-2274311152.jpg?quality=90&strip=all&crop=16.684322033898,0,66.631355932203,100",
+          "page": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/06/gettyimages-2274311152.jpg?quality=90&strip=all&crop=16.684322033898,0,66.631355932203,100",
+          "width": 2492,
+          "height": 2516,
+          "mime": "external",
+          "artist": "",
+          "license": "External source — verify usage rights",
+          "external": true
         }
       ],
       "candidateDecisions": {
-        "https://i0.wp.com/hoopswire.com/wp-content/uploads/2025/02/78360070007-quentin-grimes.webp?fit=660%2C371&ssl=1": "keep"
+        "https://i0.wp.com/hoopswire.com/wp-content/uploads/2025/02/78360070007-quentin-grimes.webp?fit=660%2C371&ssl=1": "keep",
+        "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/06/gettyimages-2274311152.jpg?quality=90&strip=all&crop=16.684322033898,0,66.631355932203,100": "keep"
       },
       "crops": {
         "2": {
           "zoom": 1,
           "x": 40,
           "y": 50
+        },
+        "3": {
+          "zoom": 1.5,
+          "x": 50,
+          "y": 10
         }
       },
       "cropSaved": {
-        "2": true
+        "2": true,
+        "3": true
       }
     },
     "saddiq-bey": {
