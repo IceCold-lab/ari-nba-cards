@@ -28,6 +28,12 @@ VALID_CATEGORIES = {
     "Classic Players",
 }
 
+# The app is intended to contain exactly 150 current and 41 classic cards.
+CATEGORY_EXPECTED_COUNTS = {
+    "Current Players": 150,
+    "Classic Players": 41,
+}
+
 VALID_POSITIONS = {
     "PG", "SG", "SF", "PF", "C",
     "PG/SG", "SG/SF", "SF/PF", "PF/C",
@@ -97,18 +103,18 @@ def main():
         sys.exit(1)
 
     # ------------------------------------------------------------
-    # Exactly 200 players
+    # Exactly 191 players
     # ------------------------------------------------------------
 
     results["players"] = (
-        len(data) == 200,
+        len(data) == 191,
         f"{len(data)}"
     )
 
-    if len(data) != 200:
+    if len(data) != 191:
         fail(
             errors,
-            f"Expected 200 players, found {len(data)}"
+            f"Expected 191 players, found {len(data)}"
         )
 
     # ------------------------------------------------------------
@@ -241,11 +247,9 @@ def main():
             if isinstance(p.get("rank"), int)
         ]
 
-        expected_count = sum(
-            1
-            for p in data
-            if p.get("status") == expected_status
-        )
+        # Enforce the intended deck split, rather than deriving expected
+        # counts from the data (which would let an incorrect split pass).
+        expected_count = CATEGORY_EXPECTED_COUNTS[category]
 
         # Correct number of players
 
