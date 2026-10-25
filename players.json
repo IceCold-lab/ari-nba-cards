@@ -23,7 +23,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftPick": 41,
+    "birthDate": "1995-02-19",
+    "deathDate": null,
+    "birthCountryCode": "RS",
+    "birthplace": "Sombor, Serbia",
+    "birthCountry": "Serbia"
   },
   {
     "id": "victor-wembanyama",
@@ -41,7 +47,8 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
+      "dpoy": 1
     },
     "image": {
       "file": "images/victor-wembanyama.jpg",
@@ -49,7 +56,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": 1,
+    "birthDate": "2004-01-04",
+    "deathDate": null,
+    "birthCountryCode": "FR",
+    "birthplace": "Le Chesnay, France",
+    "birthCountry": "France"
   },
   {
     "id": "shai-gilgeous-alexander",
@@ -75,7 +88,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 11,
+    "birthDate": "1998-07-12",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": "Toronto, Ontario, Canada",
+    "birthCountry": "Canada"
   },
   {
     "id": "luka-doncic",
@@ -101,7 +120,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftPick": 3,
+    "birthDate": "1999-02-28",
+    "deathDate": null,
+    "birthCountryCode": "SI",
+    "birthplace": "Ljubljana, Slovenia",
+    "birthCountry": "Slovenia"
   },
   {
     "id": "cade-cunningham",
@@ -127,7 +152,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftPick": 1,
+    "birthDate": "2001-09-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jayson-tatum",
@@ -153,7 +184,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftPick": 3,
+    "birthDate": "1998-03-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "giannis-antetokounmpo",
@@ -171,7 +208,8 @@
     "awards": {
       "mvp": 2,
       "championships": 1,
-      "finalsMvp": 1
+      "finalsMvp": 1,
+      "dpoy": 1
     },
     "image": {
       "file": "images/giannis-antetokounmpo.jpg",
@@ -179,7 +217,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftPick": 15,
+    "birthDate": "1994-12-06",
+    "deathDate": null,
+    "birthCountryCode": "GR",
+    "birthplace": "Athens, Greece",
+    "birthCountry": "Greece"
   },
   {
     "id": "jalen-johnson",
@@ -205,7 +249,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftPick": 20,
+    "birthDate": "2001-12-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "anthony-edwards",
@@ -231,7 +281,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftPick": 1,
+    "birthDate": "2001-08-05",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "tyrese-maxey",
@@ -257,7 +313,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftPick": 21,
+    "birthDate": "2000-11-04",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "tyrese-haliburton",
@@ -281,7 +343,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2020,
+    "draftPick": 12,
+    "draftedBy": "Sacramento Kings",
+    "birthDate": "2000-02-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "cooper-flagg",
@@ -305,7 +375,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Dallas Mavericks"
+    "teamName": "Dallas Mavericks",
+    "draftYear": 2025,
+    "draftPick": 1,
+    "draftedBy": "Dallas Mavericks",
+    "birthDate": "2006-12-21",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "scottie-barnes",
@@ -331,7 +409,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftPick": 4,
+    "birthDate": "2001-08-01",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "donovan-mitchell",
@@ -357,7 +441,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftPick": 13,
+    "birthDate": "1996-09-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "kevin-durant",
@@ -383,7 +473,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftPick": 2,
+    "birthDate": "1988-09-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "stephen-curry",
@@ -409,7 +505,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "draftPick": 7,
+    "birthDate": "1988-03-14",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "karl-anthony-towns",
@@ -435,7 +537,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 1,
+    "birthDate": "1995-11-15",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "trae-young",
@@ -461,7 +569,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftPick": 5,
+    "birthDate": "1998-09-19",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "alperen-sengun",
@@ -485,7 +599,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2021,
+    "draftPick": 16,
+    "draftedBy": "Oklahoma City Thunder",
+    "birthDate": "2002-07-25",
+    "deathDate": null,
+    "birthCountryCode": "TR",
+    "birthplace": "Giresun, Turkey",
+    "birthCountry": "Türkiye"
   },
   {
     "id": "austin-reaves",
@@ -509,7 +631,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2021,
+    "draftPick": null,
+    "draftedBy": "Undrafted",
+    "birthDate": "1998-05-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "james-harden",
@@ -535,7 +665,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftPick": 3,
+    "birthDate": "1989-08-26",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "chet-holmgren",
@@ -559,7 +695,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2022,
+    "draftPick": 2,
+    "draftedBy": "Oklahoma City Thunder",
+    "birthDate": "2002-05-01",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "lamelo-ball",
@@ -585,7 +729,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftPick": 3,
+    "birthDate": "2001-08-22",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "amen-thompson",
@@ -609,7 +759,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2023,
+    "draftPick": 4,
+    "draftedBy": "Houston Rockets",
+    "birthDate": "2003-01-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "San Leandro, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "josh-giddey",
@@ -633,7 +791,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2021,
+    "draftPick": 6,
+    "draftedBy": "Oklahoma City Thunder",
+    "birthDate": "2002-10-10",
+    "deathDate": null,
+    "birthCountryCode": "AU",
+    "birthplace": "Melbourne, Victoria, Australia",
+    "birthCountry": "Australia"
   },
   {
     "id": "jamal-murray",
@@ -659,7 +825,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftPick": 7,
+    "birthDate": "1997-02-23",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": "Kitchener, Ontario, Canada",
+    "birthCountry": "Canada"
   },
   {
     "id": "anthony-davis",
@@ -685,7 +857,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftPick": 1,
+    "birthDate": "1993-03-11",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "devin-booker",
@@ -711,7 +889,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftPick": 13,
+    "birthDate": "1996-10-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "trey-murphy-iii",
@@ -735,7 +919,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2021,
+    "draftPick": 17,
+    "draftedBy": "Memphis Grizzlies",
+    "birthDate": "2000-06-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "evan-mobley",
@@ -751,7 +943,8 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
+      "dpoy": 1
     },
     "image": {
       "file": "images/evan-mobley.jpg",
@@ -759,7 +952,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftYear": 2021,
+    "draftPick": 3,
+    "draftedBy": "Cleveland Cavaliers",
+    "birthDate": "2001-06-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jalen-brunson",
@@ -785,7 +986,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 33,
+    "birthDate": "1996-08-31",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "domantas-sabonis",
@@ -811,7 +1018,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftPick": 11,
+    "birthDate": "1996-05-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Portland, Oregon",
+    "birthCountry": "United States"
   },
   {
     "id": "lauri-markkanen",
@@ -835,7 +1048,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2017,
+    "draftPick": 7,
+    "draftedBy": "Minnesota Timberwolves",
+    "birthDate": "1997-05-22",
+    "deathDate": null,
+    "birthCountryCode": "FI",
+    "birthplace": "Vantaa, Finland",
+    "birthCountry": "Finland"
   },
   {
     "id": "kawhi-leonard",
@@ -853,7 +1074,8 @@
     "awards": {
       "mvp": 0,
       "championships": 2,
-      "finalsMvp": 2
+      "finalsMvp": 2,
+      "dpoy": 2
     },
     "image": {
       "file": "images/kawhi-leonard.jpg",
@@ -861,7 +1083,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "LA Clippers"
+    "teamName": "LA Clippers",
+    "draftPick": 15,
+    "birthDate": "1991-06-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Los Angeles, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "bam-adebayo",
@@ -887,7 +1115,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftPick": 14,
+    "birthDate": "1997-07-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Newark, New Jersey, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "deni-avdija",
@@ -911,7 +1145,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2020,
+    "draftPick": 9,
+    "draftedBy": "Washington Wizards",
+    "birthDate": "2001-01-03",
+    "deathDate": null,
+    "birthCountryCode": "IL",
+    "birthplace": "Beit Zera, Israel",
+    "birthCountry": "Israel"
   },
   {
     "id": "jalen-williams",
@@ -935,7 +1177,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2022,
+    "draftPick": 12,
+    "draftedBy": "Oklahoma City Thunder",
+    "birthDate": "2001-04-14",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Denver, Colorado, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "brandon-miller",
@@ -959,7 +1209,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2023,
+    "draftPick": 2,
+    "draftedBy": "Charlotte Hornets",
+    "birthDate": "2002-11-22",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Antioch, Tennessee, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "walker-kessler",
@@ -983,7 +1241,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2022,
+    "draftPick": 22,
+    "draftedBy": "Memphis Grizzlies",
+    "birthDate": "2001-07-26",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Atlanta, Georgia, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "derrick-white",
@@ -1007,7 +1273,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2017,
+    "draftPick": 29,
+    "draftedBy": "San Antonio Spurs",
+    "birthDate": "1994-07-02",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Parker, Colorado, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jaren-jackson-jr",
@@ -1025,7 +1299,8 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
+      "dpoy": 1
     },
     "image": {
       "file": "images/jaren-jackson-jr.jpg",
@@ -1033,7 +1308,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftPick": 4,
+    "birthDate": "1999-09-15",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "kon-knueppel",
@@ -1057,7 +1338,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2025,
+    "draftPick": 4,
+    "draftedBy": "Charlotte Hornets",
+    "birthDate": "2005-08-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Milwaukee, Wisconsin, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jaylen-brown",
@@ -1081,7 +1370,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftYear": 2016,
+    "draftPick": 3,
+    "draftedBy": "Boston Celtics",
+    "birthDate": "1996-10-24",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jalen-duren",
@@ -1105,7 +1402,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftYear": 2022,
+    "draftPick": 13,
+    "draftedBy": "Charlotte Hornets",
+    "birthDate": "2003-11-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "keyonte-george",
@@ -1129,7 +1434,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2023,
+    "draftPick": 16,
+    "draftedBy": "Utah Jazz",
+    "birthDate": "2003-11-08",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Lewisville, Texas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "nickeil-alexander-walker",
@@ -1153,7 +1466,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2019,
+    "draftPick": 17,
+    "draftedBy": "Brooklyn Nets",
+    "birthDate": "1998-09-02",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": "Toronto, Ontario, Canada",
+    "birthCountry": "Canada"
   },
   {
     "id": "darius-garland",
@@ -1179,7 +1500,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "LA Clippers"
+    "teamName": "LA Clippers",
+    "draftPick": 5,
+    "birthDate": "2000-01-26",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Gary, Indiana, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "kyrie-irving",
@@ -1205,7 +1532,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Dallas Mavericks"
+    "teamName": "Dallas Mavericks",
+    "draftPick": 1,
+    "birthDate": "1992-03-23",
+    "deathDate": null,
+    "birthCountryCode": "AU",
+    "birthplace": "Melbourne, Australia",
+    "birthCountry": "Australia"
   },
   {
     "id": "paolo-banchero",
@@ -1231,7 +1564,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftPick": 1,
+    "birthDate": "2002-11-12",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Seattle, Washington, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "desmond-bane",
@@ -1255,7 +1594,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2020,
+    "draftPick": 30,
+    "draftedBy": "Boston Celtics",
+    "birthDate": "1998-06-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Richmond, Indiana, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "onyeka-okongwu",
@@ -1279,7 +1626,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2020,
+    "draftPick": 6,
+    "draftedBy": "Atlanta Hawks",
+    "birthDate": "2000-12-11",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "lebron-james",
@@ -1305,7 +1660,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftPick": 1,
+    "birthDate": "1984-12-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Akron, Ohio, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "donovan-clingan",
@@ -1329,7 +1690,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2024,
+    "draftPick": 7,
+    "draftedBy": "Portland Trail Blazers",
+    "birthDate": "2004-02-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Bristol, Connecticut, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "tyler-herro",
@@ -1353,7 +1722,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2019,
+    "draftPick": 13,
+    "draftedBy": "Miami Heat",
+    "birthDate": "2000-01-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Milwaukee, Wisconsin, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "matas-buzelis",
@@ -1377,7 +1754,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2024,
+    "draftPick": 11,
+    "draftedBy": "Chicago Bulls",
+    "birthDate": "2004-10-13",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Chicago, Illinois, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "dyson-daniels",
@@ -1401,7 +1786,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2022,
+    "draftPick": 8,
+    "draftedBy": "New Orleans Pelicans",
+    "birthDate": "2003-03-17",
+    "deathDate": null,
+    "birthCountryCode": "AU",
+    "birthplace": "Bendigo, Australia",
+    "birthCountry": "Australia"
   },
   {
     "id": "franz-wagner",
@@ -1425,7 +1818,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2021,
+    "draftPick": 8,
+    "draftedBy": "Orlando Magic",
+    "birthDate": "2001-08-27",
+    "deathDate": null,
+    "birthCountryCode": "DE",
+    "birthplace": "Berlin, Germany",
+    "birthCountry": "Germany"
   },
   {
     "id": "pascal-siakam",
@@ -1449,7 +1850,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2016,
+    "draftPick": 27,
+    "draftedBy": "Toronto Raptors",
+    "birthDate": "1994-04-02",
+    "deathDate": null,
+    "birthCountryCode": "CM",
+    "birthplace": "Douala, Cameroon",
+    "birthCountry": "Cameroon"
   },
   {
     "id": "cameron-boozer",
@@ -1476,7 +1885,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "birthDate": "2007-07-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Salt Lake City, Utah, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "og-anunoby",
@@ -1500,7 +1914,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftYear": 2017,
+    "draftPick": 23,
+    "draftedBy": "Toronto Raptors",
+    "birthDate": "1997-07-17",
+    "deathDate": null,
+    "birthCountryCode": "GB",
+    "birthplace": "London, United Kingdom",
+    "birthCountry": "United Kingdom"
   },
   {
     "id": "joel-embiid",
@@ -1526,7 +1948,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftPick": 3,
+    "birthDate": "1994-03-16",
+    "deathDate": null,
+    "birthCountryCode": "CM",
+    "birthplace": "Yaoundé, Cameroon",
+    "birthCountry": "Cameroon"
   },
   {
     "id": "dejounte-murray",
@@ -1550,7 +1978,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2016,
+    "draftPick": 29,
+    "draftedBy": "San Antonio Spurs",
+    "birthDate": "1996-09-19",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Seattle, Washington, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ryan-rollins",
@@ -1574,7 +2010,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2022,
+    "draftPick": 44,
+    "draftedBy": "Atlanta Hawks",
+    "birthDate": "2002-07-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Detroit, Michigan, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "julius-randle",
@@ -1598,7 +2042,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2014,
+    "draftPick": 7,
+    "draftedBy": "Los Angeles Lakers",
+    "birthDate": "1994-11-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Dallas, Texas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "michael-porter-jr",
@@ -1622,7 +2074,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2018,
+    "draftPick": 14,
+    "draftedBy": "Denver Nuggets",
+    "birthDate": "1998-06-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Columbia, Missouri, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "kel-el-ware",
@@ -1646,7 +2106,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2024,
+    "draftPick": 15,
+    "draftedBy": "Miami Heat",
+    "birthDate": "2004-04-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "North Little Rock, Arkansas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "alex-sarr",
@@ -1670,7 +2138,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftYear": 2024,
+    "draftPick": 2,
+    "draftedBy": "Washington Wizards",
+    "birthDate": "2005-04-26",
+    "deathDate": null,
+    "birthCountryCode": "FR",
+    "birthplace": "Bordeaux, France",
+    "birthCountry": "France"
   },
   {
     "id": "stephon-castle",
@@ -1694,7 +2170,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2024,
+    "draftPick": 4,
+    "draftedBy": "San Antonio Spurs",
+    "birthDate": "2004-11-01",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Covington, Georgia, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "zach-edey",
@@ -1718,7 +2202,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "draftYear": 2024,
+    "draftPick": 9,
+    "draftedBy": "Memphis Grizzlies",
+    "birthDate": "2002-05-14",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": "Toronto, Ontario, Canada",
+    "birthCountry": "Canada"
   },
   {
     "id": "ivica-zubac",
@@ -1742,7 +2234,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2016,
+    "draftPick": 32,
+    "draftedBy": "Los Angeles Lakers",
+    "birthDate": "1997-03-18",
+    "deathDate": null,
+    "birthCountryCode": "BA",
+    "birthplace": "Mostar, Bosnia and Herzegovina",
+    "birthCountry": "Bosnia and Herzegovina"
   },
   {
     "id": "de-aaron-fox",
@@ -1766,7 +2266,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2017,
+    "draftPick": 5,
+    "draftedBy": "Sacramento Kings",
+    "birthDate": "1997-12-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "New Orleans, Louisiana, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "naz-reid",
@@ -1790,7 +2298,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2019,
+    "draftPick": null,
+    "draftedBy": "Undrafted",
+    "birthDate": "1999-08-26",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Asbury Park, New Jersey, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "mikal-bridges",
@@ -1814,7 +2330,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftYear": 2018,
+    "draftPick": 10,
+    "draftedBy": "Philadelphia 76ers",
+    "birthDate": "1996-08-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ja-morant",
@@ -1838,7 +2362,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2019,
+    "draftPick": 2,
+    "draftedBy": "Memphis Grizzlies",
+    "birthDate": "1999-08-10",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Dalzell, South Carolina, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jaden-mcdaniels",
@@ -1862,7 +2394,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftYear": 2020,
+    "draftPick": 28,
+    "draftedBy": "Los Angeles Lakers",
+    "birthDate": "2000-09-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Federal Way, Washington, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "rudy-gobert",
@@ -1878,7 +2418,8 @@
     "awards": {
       "mvp": 0,
       "championships": 0,
-      "finalsMvp": 0
+      "finalsMvp": 0,
+      "dpoy": 4
     },
     "image": {
       "file": "images/rudy-gobert.jpg",
@@ -1886,7 +2427,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftYear": 2013,
+    "draftPick": 27,
+    "draftedBy": "Denver Nuggets",
+    "birthDate": "1992-06-26",
+    "deathDate": null,
+    "birthCountryCode": "FR",
+    "birthplace": "Saint-Quentin, France",
+    "birthCountry": "France"
   },
   {
     "id": "vj-edgecombe",
@@ -1910,7 +2459,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Philadelphia 76ers"
+    "teamName": "Philadelphia 76ers",
+    "draftYear": 2025,
+    "draftPick": 3,
+    "draftedBy": "Philadelphia 76ers",
+    "birthDate": "2005-07-30",
+    "deathDate": null,
+    "birthCountryCode": "BS",
+    "birthplace": "the Bahamas",
+    "birthCountry": "The Bahamas"
   },
   {
     "id": "immanuel-quickley",
@@ -1934,7 +2491,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2020,
+    "draftPick": 25,
+    "draftedBy": "Oklahoma City Thunder",
+    "birthDate": "1999-06-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Havre de Grace, Maryland, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "coby-white",
@@ -1958,7 +2523,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2019,
+    "draftPick": 7,
+    "draftedBy": "Chicago Bulls",
+    "birthDate": "2000-02-16",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Goldsboro, North Carolina, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "brandon-ingram",
@@ -1982,7 +2555,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2016,
+    "draftPick": 2,
+    "draftedBy": "Los Angeles Lakers",
+    "birthDate": "1997-09-02",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Kinston, North Carolina, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "paul-george",
@@ -2006,7 +2587,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2010,
+    "draftPick": 10,
+    "draftedBy": "Indiana Pacers",
+    "birthDate": "1990-05-02",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Palmdale, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "dylan-harper",
@@ -2030,7 +2619,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2025,
+    "draftPick": 2,
+    "draftedBy": "San Antonio Spurs",
+    "birthDate": "2006-03-02",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Franklin Lakes, New Jersey, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "zion-williamson",
@@ -2054,7 +2651,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2019,
+    "draftPick": 1,
+    "draftedBy": "New Orleans Pelicans",
+    "birthDate": "2000-07-06",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Salisbury, North Carolina, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jarrett-allen",
@@ -2078,7 +2683,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftYear": 2017,
+    "draftPick": 22,
+    "draftedBy": "Brooklyn Nets",
+    "birthDate": "1998-04-21",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "San Diego, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "payton-pritchard",
@@ -2102,7 +2715,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2020,
+    "draftPick": 26,
+    "draftedBy": "Boston Celtics",
+    "birthDate": "1998-01-28",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Tualatin, Oregon, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "damian-lillard",
@@ -2128,7 +2749,13 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftPick": 6,
+    "birthDate": "1990-07-15",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Oakland, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jalen-suggs",
@@ -2152,7 +2779,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2021,
+    "draftPick": 5,
+    "draftedBy": "Orlando Magic",
+    "birthDate": "2001-06-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "St. Paul, Minnesota, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ausar-thompson",
@@ -2176,7 +2811,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftYear": 2023,
+    "draftPick": 5,
+    "draftedBy": "Detroit Pistons",
+    "birthDate": "2003-01-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Oakland, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "josh-hart",
@@ -2200,7 +2843,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftYear": 2017,
+    "draftPick": 30,
+    "draftedBy": "Utah Jazz",
+    "birthDate": "1995-03-06",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Silver Spring, Maryland, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "norman-powell",
@@ -2224,7 +2875,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2015,
+    "draftPick": 46,
+    "draftedBy": "Milwaukee Bucks",
+    "birthDate": "1993-05-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "San Diego, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ty-jerome",
@@ -2248,7 +2907,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "draftYear": 2019,
+    "draftPick": 24,
+    "draftedBy": "Philadelphia 76ers",
+    "birthDate": "1997-07-08",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "New York City, New York, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "derik-queen",
@@ -2272,7 +2939,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2025,
+    "draftPick": 13,
+    "draftedBy": "Atlanta Hawks",
+    "birthDate": "2004-12-27",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Baltimore, Maryland, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jabari-smith-jr",
@@ -2296,7 +2971,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2022,
+    "draftPick": 3,
+    "draftedBy": "Houston Rockets",
+    "birthDate": "2003-05-13",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Fayetteville, Georgia, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "myles-turner",
@@ -2320,7 +3003,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2015,
+    "draftPick": 11,
+    "draftedBy": "Indiana Pacers",
+    "birthDate": "1996-03-24",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Bedford, Texas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "andrew-wiggins",
@@ -2344,7 +3035,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftYear": 2014,
+    "draftPick": 1,
+    "draftedBy": "Cleveland Cavaliers",
+    "birthDate": "1995-02-23",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": "Toronto, Ontario, Canada",
+    "birthCountry": "Canada"
   },
   {
     "id": "aj-dybantsa",
@@ -2371,7 +3070,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "birthDate": "2007-01-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Boston, Massachusetts, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "nic-claxton",
@@ -2395,7 +3099,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "draftYear": 2019,
+    "draftPick": 31,
+    "draftedBy": "Brooklyn Nets",
+    "birthDate": "1999-04-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Greenville, South Carolina, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "isaiah-hartenstein",
@@ -2410,7 +3122,7 @@
     "seasons": null,
     "awards": {
       "mvp": 0,
-      "championships": 0,
+      "championships": 1,
       "finalsMvp": 0
     },
     "image": {
@@ -2419,7 +3131,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2017,
+    "draftPick": 43,
+    "draftedBy": "Houston Rockets",
+    "birthDate": "1998-05-05",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Eugene, Oregon, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "day-ron-sharpe",
@@ -2443,7 +3163,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2021,
+    "draftPick": 29,
+    "draftedBy": "Phoenix Suns",
+    "birthDate": "2001-11-06",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Greenville, North Carolina",
+    "birthCountry": "United States"
   },
   {
     "id": "caleb-wilson",
@@ -2470,7 +3198,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Chicago Bulls"
+    "teamName": "Chicago Bulls",
+    "birthDate": "2006-07-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Atlanta, Georgia",
+    "birthCountry": "United States"
   },
   {
     "id": "fred-vanvleet",
@@ -2494,7 +3227,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2016,
+    "draftPick": null,
+    "draftedBy": "Undrafted",
+    "birthDate": "1994-02-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Rockford, Illinois",
+    "birthCountry": "United States"
   },
   {
     "id": "darryn-peterson",
@@ -2521,7 +3262,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "birthDate": "2007-01-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Canton, Ohio",
+    "birthCountry": "United States"
   },
   {
     "id": "kevin-porter-jr",
@@ -2545,7 +3291,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2019,
+    "draftPick": 30,
+    "draftedBy": "Milwaukee Bucks",
+    "birthDate": "2000-05-04",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Seattle, Washington, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ayo-dosunmu",
@@ -2569,7 +3323,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Minnesota Timberwolves"
+    "teamName": "Minnesota Timberwolves",
+    "draftYear": 2021,
+    "draftPick": 38,
+    "draftedBy": "Chicago Bulls",
+    "birthDate": "2000-01-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Chicago, Illinois, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "cedric-coward",
@@ -2593,7 +3355,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Memphis Grizzlies"
+    "teamName": "Memphis Grizzlies",
+    "draftYear": 2025,
+    "draftPick": 11,
+    "draftedBy": "Portland Trail Blazers",
+    "birthDate": "2003-09-11",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Fresno, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "kyshawn-george",
@@ -2617,7 +3387,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Washington Wizards"
+    "teamName": "Washington Wizards",
+    "draftYear": 2024,
+    "draftPick": 24,
+    "draftedBy": "New York Knicks",
+    "birthDate": "2003-12-12",
+    "deathDate": null,
+    "birthCountryCode": "CH",
+    "birthplace": "Monthey, Switzerland",
+    "birthCountry": "Switzerland"
   },
   {
     "id": "cj-mccollum",
@@ -2641,7 +3419,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Atlanta Hawks"
+    "teamName": "Atlanta Hawks",
+    "draftYear": 2013,
+    "draftPick": 10,
+    "draftedBy": "Portland Trail Blazers",
+    "birthDate": "1991-09-19",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Canton, Ohio, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "miles-bridges",
@@ -2665,7 +3451,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2018,
+    "draftPick": 12,
+    "draftedBy": "Los Angeles Clippers",
+    "birthDate": "1998-03-21",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Flint, Michigan, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "john-collins",
@@ -2689,7 +3483,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Detroit Pistons"
+    "teamName": "Detroit Pistons",
+    "draftYear": 2017,
+    "draftPick": 19,
+    "draftedBy": "Atlanta Hawks",
+    "birthDate": "1997-09-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Layton, Utah, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ajay-mitchell",
@@ -2713,7 +3515,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2024,
+    "draftPick": 38,
+    "draftedBy": "New York Knicks",
+    "birthDate": "2002-06-25",
+    "deathDate": null,
+    "birthCountryCode": "BE",
+    "birthplace": "Ans, Belgium",
+    "birthCountry": "Belgium"
   },
   {
     "id": "zach-lavine",
@@ -2737,7 +3547,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftYear": 2014,
+    "draftPick": 13,
+    "draftedBy": "Minnesota Timberwolves",
+    "birthDate": "1995-03-10",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Renton, Washington, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "keegan-murray",
@@ -2761,7 +3579,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftYear": 2022,
+    "draftPick": 4,
+    "draftedBy": "Sacramento Kings",
+    "birthDate": "2000-08-19",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Cedar Rapids, Iowa, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "reed-sheppard",
@@ -2785,7 +3611,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2024,
+    "draftPick": 3,
+    "draftedBy": "Houston Rockets",
+    "birthDate": "2004-06-24",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "neemias-queta",
@@ -2809,7 +3643,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Boston Celtics"
+    "teamName": "Boston Celtics",
+    "draftYear": 2021,
+    "draftPick": 39,
+    "draftedBy": "Sacramento Kings",
+    "birthDate": "1999-07-13",
+    "deathDate": null,
+    "birthCountryCode": "PT",
+    "birthplace": "Lisbon, Portugal",
+    "birthCountry": "Portugal"
   },
   {
     "id": "toumani-camara",
@@ -2833,7 +3675,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2023,
+    "draftPick": 52,
+    "draftedBy": "Phoenix Suns",
+    "birthDate": "2000-05-08",
+    "deathDate": null,
+    "birthCountryCode": "BE",
+    "birthplace": "Brussels, Belgium",
+    "birthCountry": "Belgium"
   },
   {
     "id": "peyton-watson",
@@ -2857,7 +3707,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Cleveland Cavaliers"
+    "teamName": "Cleveland Cavaliers",
+    "draftYear": 2022,
+    "draftPick": 30,
+    "draftedBy": "Oklahoma City Thunder",
+    "birthDate": "2002-09-11",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "collin-murray-boyles",
@@ -2881,7 +3739,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2025,
+    "draftPick": 9,
+    "draftedBy": "Toronto Raptors",
+    "birthDate": "2005-06-10",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jakob-poeltl",
@@ -2905,7 +3771,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2016,
+    "draftPick": 9,
+    "draftedBy": "Toronto Raptors",
+    "birthDate": "1995-10-15",
+    "deathDate": null,
+    "birthCountryCode": "AT",
+    "birthplace": "Vienna, Austria",
+    "birthCountry": "Austria"
   },
   {
     "id": "jalen-green",
@@ -2929,7 +3803,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2021,
+    "draftPick": 2,
+    "draftedBy": "Houston Rockets",
+    "birthDate": "2002-02-09",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "mark-williams",
@@ -2953,7 +3835,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2022,
+    "draftPick": 15,
+    "draftedBy": "Charlotte Hornets",
+    "birthDate": "2001-12-16",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Virginia Beach, Virginia",
+    "birthCountry": "United States"
   },
   {
     "id": "cason-wallace",
@@ -2977,7 +3867,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftYear": 2023,
+    "draftPick": 10,
+    "draftedBy": "Dallas Mavericks",
+    "birthDate": "2003-11-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "darius-acuff-jr",
@@ -3004,7 +3902,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "birthDate": "2006-11-16",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "rj-barrett",
@@ -3028,7 +3931,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Toronto Raptors"
+    "teamName": "Toronto Raptors",
+    "draftYear": 2019,
+    "draftPick": 3,
+    "draftedBy": "New York Knicks",
+    "birthDate": "2000-06-14",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": "Toronto, Canada",
+    "birthCountry": "Canada"
   },
   {
     "id": "brandin-podziemski",
@@ -3052,7 +3963,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "draftYear": 2023,
+    "draftPick": 19,
+    "draftedBy": "Golden State Warriors",
+    "birthDate": "2003-02-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Greenfield, Wisconsin, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jusuf-nurkic",
@@ -3076,7 +3995,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2014,
+    "draftPick": 16,
+    "draftedBy": "Chicago Bulls",
+    "birthDate": "1994-08-23",
+    "deathDate": null,
+    "birthCountryCode": "BA",
+    "birthplace": "Tuzla, Bosnia and Herzegovina",
+    "birthCountry": "Bosnia and Herzegovina"
   },
   {
     "id": "maxime-raynaud",
@@ -3100,7 +4027,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Sacramento Kings"
+    "teamName": "Sacramento Kings",
+    "draftYear": 2025,
+    "draftPick": 42,
+    "draftedBy": "Sacramento Kings",
+    "birthDate": "2003-04-07",
+    "deathDate": null,
+    "birthCountryCode": "FR",
+    "birthplace": null,
+    "birthCountry": "France"
   },
   {
     "id": "kristaps-porzingis",
@@ -3124,7 +4059,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "draftYear": 2015,
+    "draftPick": 4,
+    "draftedBy": "New York Knicks",
+    "birthDate": "1995-08-02",
+    "deathDate": null,
+    "birthCountryCode": "LV",
+    "birthplace": null,
+    "birthCountry": "Latvia"
   },
   {
     "id": "anthony-black",
@@ -3148,7 +4091,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Orlando Magic"
+    "teamName": "Orlando Magic",
+    "draftYear": 2023,
+    "draftPick": 6,
+    "draftedBy": "Orlando Magic",
+    "birthDate": "2004-01-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jeremiah-fears",
@@ -3172,7 +4123,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2025,
+    "draftPick": 7,
+    "draftedBy": "New Orleans Pelicans",
+    "birthDate": "2006-10-14",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "sandro-mamukelashvili",
@@ -3196,7 +4155,16 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2021,
+    "draftPick": 54,
+    "draftedBy": "Indiana Pacers",
+    "birthDate": "1999-05-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "New York City, USA",
+    "birthCountry": "United States",
+    "representedCountry": "Georgia"
   },
   {
     "id": "davion-mitchell",
@@ -3220,7 +4188,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Miami Heat"
+    "teamName": "Miami Heat",
+    "draftYear": 2021,
+    "draftPick": 9,
+    "draftedBy": "Sacramento Kings",
+    "birthDate": "1998-09-05",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "egor-demin",
@@ -3244,7 +4220,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "draftYear": 2025,
+    "draftPick": 8,
+    "draftedBy": "Brooklyn Nets",
+    "birthDate": "2006-03-03",
+    "deathDate": null,
+    "birthCountryCode": "RU",
+    "birthplace": "Moscow, Russia",
+    "birthCountry": "Russia"
   },
   {
     "id": "andrew-nembhard",
@@ -3268,7 +4252,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Indiana Pacers"
+    "teamName": "Indiana Pacers",
+    "draftYear": 2022,
+    "draftPick": 31,
+    "draftedBy": "Indiana Pacers",
+    "birthDate": "2000-01-16",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": null,
+    "birthCountry": "Canada"
   },
   {
     "id": "p-j-washington",
@@ -3292,7 +4284,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Dallas Mavericks"
+    "teamName": "Dallas Mavericks",
+    "draftYear": 2019,
+    "draftPick": 12,
+    "draftedBy": "Charlotte Hornets",
+    "birthDate": "1998-08-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Louisville, Kentucky, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "collin-gillespie",
@@ -3316,7 +4316,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Phoenix Suns"
+    "teamName": "Phoenix Suns",
+    "draftYear": 2022,
+    "draftPick": null,
+    "draftedBy": "Undrafted",
+    "birthDate": "1999-06-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "quentin-grimes",
@@ -3340,7 +4348,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Los Angeles Lakers"
+    "teamName": "Los Angeles Lakers",
+    "draftYear": 2021,
+    "draftPick": 25,
+    "draftedBy": "Los Angeles Clippers",
+    "birthDate": "2000-05-08",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Houston, Texas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "saddiq-bey",
@@ -3364,7 +4380,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "New Orleans Pelicans"
+    "teamName": "New Orleans Pelicans",
+    "draftYear": 2020,
+    "draftPick": 19,
+    "draftedBy": "Brooklyn Nets",
+    "birthDate": "1999-04-09",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Charlotte, North Carolina, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jaime-jaquez-jr",
@@ -3388,7 +4412,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Milwaukee Bucks"
+    "teamName": "Milwaukee Bucks",
+    "draftYear": 2023,
+    "draftPick": 18,
+    "draftedBy": "Miami Heat",
+    "birthDate": "2001-02-18",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Irvine, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "tari-eason",
@@ -3412,7 +4444,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Houston Rockets"
+    "teamName": "Houston Rockets",
+    "draftYear": 2022,
+    "draftPick": 17,
+    "draftedBy": "Houston Rockets",
+    "birthDate": "2001-05-10",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Birmingham, Alabama, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "demar-derozan",
@@ -3436,7 +4476,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2009,
+    "draftPick": 9,
+    "draftedBy": "Toronto Raptors",
+    "birthDate": "1989-08-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Compton, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "yaxel-lendeborg",
@@ -3463,7 +4511,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Golden State Warriors"
+    "teamName": "Golden State Warriors",
+    "birthDate": "2002-09-30",
+    "deathDate": null,
+    "birthCountryCode": "PR",
+    "birthplace": "Arecibo, Puerto Rico",
+    "birthCountry": "Puerto Rico"
   },
   {
     "id": "christian-braun",
@@ -3487,7 +4540,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2022,
+    "draftPick": 21,
+    "draftedBy": "Denver Nuggets",
+    "birthDate": "2001-04-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Burlington, Kansas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "ace-bailey",
@@ -3511,7 +4572,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Utah Jazz"
+    "teamName": "Utah Jazz",
+    "draftYear": 2025,
+    "draftPick": 5,
+    "draftedBy": "Utah Jazz",
+    "birthDate": "2006-08-13",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "aaron-gordon",
@@ -3535,7 +4604,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2014,
+    "draftPick": 4,
+    "draftedBy": "Orlando Magic",
+    "birthDate": "1995-09-16",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "San Jose, California",
+    "birthCountry": "United States"
   },
   {
     "id": "devin-vassell",
@@ -3559,7 +4636,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftYear": 2020,
+    "draftPick": 11,
+    "draftedBy": "San Antonio Spurs",
+    "birthDate": "2000-08-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "cameron-johnson",
@@ -3583,7 +4668,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Denver Nuggets"
+    "teamName": "Denver Nuggets",
+    "draftYear": 2019,
+    "draftPick": 11,
+    "draftedBy": "Minnesota Timberwolves",
+    "birthDate": "1996-03-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "bennedict-mathurin",
@@ -3607,7 +4700,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "LA Clippers"
+    "teamName": "LA Clippers",
+    "draftYear": 2022,
+    "draftPick": 6,
+    "draftedBy": "Indiana Pacers",
+    "birthDate": "2002-06-19",
+    "deathDate": null,
+    "birthCountryCode": "CA",
+    "birthplace": null,
+    "birthCountry": "Canada"
   },
   {
     "id": "jrue-holiday",
@@ -3631,7 +4732,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Portland Trail Blazers"
+    "teamName": "Portland Trail Blazers",
+    "draftYear": 2009,
+    "draftPick": 17,
+    "draftedBy": "Philadelphia 76ers",
+    "birthDate": "1990-06-12",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "grayson-allen",
@@ -3655,7 +4764,15 @@
       "era": "current"
     },
     "dataComplete": false,
-    "teamName": "Charlotte Hornets"
+    "teamName": "Charlotte Hornets",
+    "draftYear": 2018,
+    "draftPick": 21,
+    "draftedBy": "Utah Jazz",
+    "birthDate": "1995-10-08",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Jacksonville, Florida",
+    "birthCountry": "United States"
   },
   {
     "id": "mikel-brown-jr",
@@ -3682,7 +4799,12 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Brooklyn Nets"
+    "teamName": "Brooklyn Nets",
+    "birthDate": "2006-04-03",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Orlando, Florida",
+    "birthCountry": "United States"
   },
   {
     "id": "michael-jordan",
@@ -3699,7 +4821,8 @@
     "awards": {
       "mvp": 5,
       "championships": 6,
-      "finalsMvp": 6
+      "finalsMvp": 6,
+      "dpoy": 1
     },
     "image": {
       "file": "images/michael-jordan.jpg",
@@ -3707,13 +4830,19 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3,
+    "birthDate": "1963-02-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Brooklyn, New York",
+    "birthCountry": "United States"
   },
   {
     "id": "jordan-clarkson",
     "name": "Jordan Clarkson",
     "abbr": "NYK",
-    "rank": 151,
+    "rank": 2,
     "category": "Current Players",
     "status": "active",
     "position": "PG/SG",
@@ -3733,12 +4862,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 46,
+    "birthDate": "1992-06-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Tampa, Florida",
+    "birthCountry": "United States"
   },
   {
     "id": "kareem-abdul-jabbar",
     "name": "Kareem Abdul-Jabbar",
-    "rank": 2,
+    "rank": 3,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3758,12 +4893,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1947-04-16",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "New York City",
+    "birthCountry": "United States"
   },
   {
     "id": "bill-russell",
     "name": "Bill Russell",
-    "rank": 3,
+    "rank": 4,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3783,12 +4924,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1934-02-12",
+    "deathDate": "2022-07-31",
+    "birthCountryCode": "US",
+    "birthplace": "Monroe, Louisiana",
+    "birthCountry": "United States"
   },
   {
     "id": "wilt-chamberlain",
     "name": "Wilt Chamberlain",
-    "rank": 4,
+    "rank": 5,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3808,12 +4955,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3,
+    "birthDate": "1936-08-21",
+    "deathDate": "1999-10-12",
+    "birthCountryCode": "US",
+    "birthplace": "Philadelphia, Pennsylvania",
+    "birthCountry": "United States"
   },
   {
     "id": "magic-johnson",
     "name": "Magic Johnson",
-    "rank": 5,
+    "rank": 6,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -3833,12 +4986,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1959-08-14",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Lansing, Michigan",
+    "birthCountry": "United States"
   },
   {
     "id": "larry-bird",
     "name": "Larry Bird",
-    "rank": 6,
+    "rank": 7,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -3858,12 +5017,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 6,
+    "birthDate": "1956-12-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "West Baden, Indiana",
+    "birthCountry": "United States"
   },
   {
     "id": "tim-duncan",
     "name": "Tim Duncan",
-    "rank": 7,
+    "rank": 8,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF/C",
@@ -3883,12 +5048,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1976-04-25",
+    "deathDate": null,
+    "birthCountryCode": "VI",
+    "birthplace": null,
+    "birthCountry": "U.S. Virgin Islands"
   },
   {
     "id": "shaquille-o-neal",
     "name": "Shaquille O'Neal",
-    "rank": 8,
+    "rank": 9,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3908,12 +5079,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1972-03-06",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Newark, New Jersey",
+    "birthCountry": "United States"
   },
   {
     "id": "kobe-bryant",
     "name": "Kobe Bryant",
-    "rank": 9,
+    "rank": 10,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -3933,12 +5110,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 13,
+    "birthDate": "1978-08-23",
+    "deathDate": "2020-01-26",
+    "birthCountryCode": "US",
+    "birthplace": "Philadelphia, Pennsylvania",
+    "birthCountry": "United States"
   },
   {
     "id": "hakeem-olajuwon",
     "name": "Hakeem Olajuwon",
-    "rank": 10,
+    "rank": 11,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -3950,7 +5133,8 @@
     "awards": {
       "mvp": 1,
       "championships": 2,
-      "finalsMvp": 2
+      "finalsMvp": 2,
+      "dpoy": 2
     },
     "image": {
       "file": "images/hakeem-olajuwon.jpg",
@@ -3958,17 +5142,23 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1963-01-21",
+    "deathDate": null,
+    "birthCountryCode": "NG",
+    "birthplace": "Lagos, Nigeria",
+    "birthCountry": "Nigeria"
   },
   {
     "id": "jose-alvarado",
     "name": "Jose Alvarado",
     "abbr": "NYK",
-    "rank": 152,
+    "rank": 12,
     "category": "Current Players",
     "status": "active",
     "position": "PG/SG",
-    "draftYear": null,
+    "draftYear": 2021,
     "draftedBy": "Undrafted",
     "number": "5",
     "age": 28,
@@ -3984,12 +5174,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": null,
+    "birthDate": "1998-04-12",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Brooklyn, New York",
+    "birthCountry": "United States"
   },
   {
     "id": "oscar-robertson",
     "name": "Oscar Robertson",
-    "rank": 11,
+    "rank": 13,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4009,12 +5205,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1938-11-24",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Charlotte, Tennessee, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "jerry-west",
     "name": "Jerry West",
-    "rank": 12,
+    "rank": 14,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG/SG",
@@ -4034,13 +5236,19 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1938-05-28",
+    "deathDate": "2024-06-12",
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "landry-shamet",
     "name": "Landry Shamet",
     "abbr": "NYK",
-    "rank": 153,
+    "rank": 15,
     "category": "Current Players",
     "status": "active",
     "position": "SG/SF",
@@ -4060,12 +5268,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "New York Knicks"
+    "teamName": "New York Knicks",
+    "draftPick": 26,
+    "birthDate": "1997-03-13",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Kansas City, Missouri, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "julius-erving",
     "name": "Julius Erving",
-    "rank": 13,
+    "rank": 16,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4085,12 +5299,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 12,
+    "birthDate": "1950-02-22",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "moses-malone",
     "name": "Moses Malone",
-    "rank": 14,
+    "rank": 17,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4110,12 +5330,19 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 22,
+    "draftLeague": "ABA",
+    "birthDate": "1955-03-23",
+    "deathDate": "2015-09-13",
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "karl-malone",
     "name": "Karl Malone",
-    "rank": 15,
+    "rank": 18,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4133,12 +5360,20 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftYear": 1985,
+    "draftPick": 13,
+    "draftedBy": "Utah Jazz",
+    "birthDate": "1963-07-24",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "john-stockton",
     "name": "John Stockton",
-    "rank": 16,
+    "rank": 19,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4158,12 +5393,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 16,
+    "birthDate": "1962-03-26",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Spokane, Washington, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "charles-barkley",
     "name": "Charles Barkley",
-    "rank": 17,
+    "rank": 20,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4183,12 +5424,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5,
+    "birthDate": "1963-02-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Leeds, Alabama, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "david-robinson",
     "name": "David Robinson",
-    "rank": 18,
+    "rank": 21,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4200,7 +5447,8 @@
     "awards": {
       "mvp": 1,
       "championships": 2,
-      "finalsMvp": 1
+      "finalsMvp": 1,
+      "dpoy": 1
     },
     "image": {
       "file": "images/david-robinson.jpg",
@@ -4208,12 +5456,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1965-08-06",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "kevin-garnett",
     "name": "Kevin Garnett",
-    "rank": 19,
+    "rank": 22,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4225,7 +5479,8 @@
     "awards": {
       "mvp": 1,
       "championships": 1,
-      "finalsMvp": 1
+      "finalsMvp": 1,
+      "dpoy": 1
     },
     "image": {
       "file": "images/kevin-garnett.jpg",
@@ -4233,12 +5488,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5,
+    "birthDate": "1976-05-19",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "dirk-nowitzki",
     "name": "Dirk Nowitzki",
-    "rank": 20,
+    "rank": 23,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4258,13 +5519,19 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 9,
+    "birthDate": "1978-06-19",
+    "deathDate": null,
+    "birthCountryCode": "DE",
+    "birthplace": "Würzburg, West Germany",
+    "birthCountry": "Germany"
   },
   {
     "id": "jared-mccain",
     "name": "Jared McCain",
     "abbr": "OKC",
-    "rank": 154,
+    "rank": 24,
     "category": "Current Players",
     "status": "active",
     "position": "SG",
@@ -4284,17 +5551,23 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 16,
+    "birthDate": "2004-02-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Sacramento, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "alex-caruso",
     "name": "Alex Caruso",
     "abbr": "OKC",
-    "rank": 155,
+    "rank": 25,
     "category": "Current Players",
     "status": "active",
     "position": "SG",
-    "draftYear": null,
+    "draftYear": 2016,
     "draftedBy": "Undrafted",
     "number": "9",
     "age": 32,
@@ -4310,16 +5583,22 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": null,
+    "birthDate": "1994-02-28",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "elgin-baylor",
     "name": "Elgin Baylor",
-    "rank": 21,
+    "rank": 26,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
-    "draftYear": 1956,
+    "draftYear": 1958,
     "draftedBy": "Minneapolis Lakers",
     "number": "22",
     "age": 91,
@@ -4335,12 +5614,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1934-09-16",
+    "deathDate": "2021-03-22",
+    "birthCountryCode": "US",
+    "birthplace": "Washington, DC",
+    "birthCountry": "United States"
   },
   {
     "id": "bob-pettit",
     "name": "Bob Pettit",
-    "rank": 22,
+    "rank": 27,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4360,12 +5645,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1932-12-12",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Baton Rouge, Louisiana",
+    "birthCountry": "United States"
   },
   {
     "id": "rick-barry",
     "name": "Rick Barry",
-    "rank": 23,
+    "rank": 28,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4385,12 +5676,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1944-03-28",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Elizabeth, New Jersey",
+    "birthCountry": "United States"
   },
   {
     "id": "isiah-thomas",
     "name": "Isiah Thomas",
-    "rank": 24,
+    "rank": 29,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4410,12 +5707,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1961-04-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Chicago, Illinois",
+    "birthCountry": "United States"
   },
   {
     "id": "john-havlicek",
     "name": "John Havlicek",
-    "rank": 25,
+    "rank": 30,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4435,12 +5738,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 7,
+    "birthDate": "1940-04-08",
+    "deathDate": "2019-04-25",
+    "birthCountryCode": "US",
+    "birthplace": "Martins Ferry, Ohio",
+    "birthCountry": "United States"
   },
   {
     "id": "scottie-pippen",
     "name": "Scottie Pippen",
-    "rank": 26,
+    "rank": 31,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4460,12 +5769,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5,
+    "birthDate": "1965-09-25",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Hamburg, Arkansas",
+    "birthCountry": "United States"
   },
   {
     "id": "dwyane-wade",
     "name": "Dwyane Wade",
-    "rank": 27,
+    "rank": 32,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4485,12 +5800,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5,
+    "birthDate": "1982-01-17",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Chicago, Illinois",
+    "birthCountry": "United States"
   },
   {
     "id": "chris-paul",
     "name": "Chris Paul",
-    "rank": 28,
+    "rank": 33,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4510,12 +5831,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 4,
+    "birthDate": "1985-05-06",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "steve-nash",
     "name": "Steve Nash",
-    "rank": 29,
+    "rank": 34,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4535,12 +5862,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 15,
+    "birthDate": "1974-02-07",
+    "deathDate": null,
+    "birthCountryCode": "ZA",
+    "birthplace": "Johannesburg, South Africa",
+    "birthCountry": "South Africa"
   },
   {
     "id": "allen-iverson",
     "name": "Allen Iverson",
-    "rank": 30,
+    "rank": 35,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4560,12 +5893,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1975-06-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "patrick-ewing",
     "name": "Patrick Ewing",
-    "rank": 31,
+    "rank": 36,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4585,12 +5924,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1962-08-05",
+    "deathDate": null,
+    "birthCountryCode": "JM",
+    "birthplace": "Kingston, Jamaica",
+    "birthCountry": "Jamaica"
   },
   {
     "id": "clyde-drexler",
     "name": "Clyde Drexler",
-    "rank": 32,
+    "rank": 37,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4610,12 +5955,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 14,
+    "birthDate": "1962-06-22",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jason-kidd",
     "name": "Jason Kidd",
-    "rank": 33,
+    "rank": 38,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4635,13 +5986,19 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1973-03-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "jaylin-williams",
     "name": "Jaylin Williams",
     "abbr": "OKC",
-    "rank": 156,
+    "rank": 39,
     "category": "Current Players",
     "status": "active",
     "position": "PF/C",
@@ -4661,12 +6018,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "Oklahoma City Thunder"
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 34,
+    "birthDate": "2002-06-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Fort Smith, Arkansas, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "george-gervin",
     "name": "George Gervin",
-    "rank": 34,
+    "rank": 40,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4686,12 +6049,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 40,
+    "birthDate": "1952-04-27",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "russell-westbrook",
     "name": "Russell Westbrook",
-    "rank": 35,
+    "rank": 41,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4711,13 +6080,19 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 4,
+    "birthDate": "1988-11-12",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "harrison-barnes",
     "name": "Harrison Barnes",
     "abbr": "SAS",
-    "rank": 157,
+    "rank": 42,
     "category": "Current Players",
     "status": "active",
     "position": "SF/PF",
@@ -4737,13 +6112,19 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": 7,
+    "birthDate": "1992-05-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "tobias-harris",
     "name": "Tobias Harris",
     "abbr": "SAS",
-    "rank": 158,
+    "rank": 43,
     "category": "Current Players",
     "status": "active",
     "position": "SF/PF",
@@ -4763,17 +6144,23 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": 19,
+    "birthDate": "1992-07-15",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "julian-champagnie",
     "name": "Julian Champagnie",
     "abbr": "SAS",
-    "rank": 159,
+    "rank": 44,
     "category": "Current Players",
     "status": "active",
     "position": "PF",
-    "draftYear": null,
+    "draftYear": 2022,
     "draftedBy": "Undrafted",
     "number": "30",
     "age": 25,
@@ -4789,12 +6176,18 @@
       "era": "current"
     },
     "dataComplete": true,
-    "teamName": "San Antonio Spurs"
+    "teamName": "San Antonio Spurs",
+    "draftPick": null,
+    "birthDate": "2001-06-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "kevin-mchale",
     "name": "Kevin McHale",
-    "rank": 36,
+    "rank": 45,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -4814,12 +6207,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3,
+    "birthDate": "1957-12-19",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "bill-walton",
     "name": "Bill Walton",
-    "rank": 37,
+    "rank": 46,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4839,12 +6238,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 1,
+    "birthDate": "1952-11-05",
+    "deathDate": "2024-05-27",
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States"
   },
   {
     "id": "walt-frazier",
     "name": "Walt Frazier",
-    "rank": 38,
+    "rank": 47,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4864,12 +6269,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 5,
+    "birthDate": "1945-03-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Atlanta, Georgia, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "gary-payton",
     "name": "Gary Payton",
-    "rank": 39,
+    "rank": 48,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4881,7 +6292,8 @@
     "awards": {
       "mvp": 0,
       "championships": 1,
-      "finalsMvp": 0
+      "finalsMvp": 0,
+      "dpoy": 1
     },
     "image": {
       "file": "images/gary-payton.jpg",
@@ -4889,12 +6301,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 2,
+    "birthDate": "1968-07-23",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Oakland, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "reggie-miller",
     "name": "Reggie Miller",
-    "rank": 40,
+    "rank": 49,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -4914,12 +6332,18 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 11,
+    "birthDate": "1965-08-24",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Riverside, California, USA",
+    "birthCountry": "United States"
   },
   {
     "id": "dominique-wilkins",
     "name": "Dominique Wilkins",
-    "rank": 41,
+    "rank": 50,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4939,6 +6363,12 @@
       "era": "prime"
     },
     "dataComplete": false,
-    "teamName": ""
+    "teamName": "",
+    "draftPick": 3,
+    "birthDate": "1960-01-12",
+    "deathDate": null,
+    "birthCountryCode": "FR",
+    "birthplace": "Paris, France",
+    "birthCountry": "France"
   }
 ]
