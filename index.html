@@ -8,16 +8,17 @@ h1{font-size:20px;margin:0;color:#fff}button{border:1px solid #2b303a;border-rad
 #tabs{display:flex;gap:7px;overflow-x:auto;padding:10px 12px;background:#0b0e13}#tabs button.active{background:#2461e5;border-color:#2461e5;color:#fff}
 main{max-width:620px;margin:auto;padding:8px 14px 30px}.card{background:#10141c;border:1px solid #272d38;border-radius:24px;overflow:hidden;box-shadow:0 8px 30px #0008}
 .photo{width:75%;margin:0 auto;aspect-ratio:3/4;background:#05070a;overflow:hidden}.photo img{display:block;width:100%;height:100%;object-fit:contain}.photo.missing{display:flex;align-items:center;justify-content:center;color:#6f7785;font-size:60px}
-.body{padding:16px 20px 18px;text-align:center}.rank{font-size:12px;color:#8e98a8;font-weight:800;text-transform:uppercase;letter-spacing:.08em}.name{font-size:34px;line-height:1.05;font-weight:900;margin:7px 0;color:#fff}.team{font-size:19px;font-weight:700;color:#e7eaf0}.number{font-size:15px;color:#aab2c0}.facts{margin:10px 0;font-size:15px;line-height:1.4;color:#c5cbd5}
+.body{padding:16px 20px 18px;text-align:center}.rank{font-size:12px;color:#8e98a8;font-weight:800;text-transform:uppercase;letter-spacing:.08em}.name{font-size:34px;line-height:1.05;font-weight:900;margin:7px 0;color:#fff}.team{font-size:19px;font-weight:700;color:#e7eaf0}.number{font-size:15px;color:#aab2c0}.facts{margin:10px 0;font-size:15px;line-height:1.4;color:#c5cbd5}.biography{margin:10px 0 0;padding-top:10px;border-top:1px solid #272d38;font-size:14px;line-height:1.5;color:#aeb8c7}.biography:empty{display:none}.bio-line{margin:3px 0}
 .trophies{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:nowrap;overflow:hidden;margin:10px 0;white-space:nowrap}.award{background:#181d27;border:1px solid #303745;border-radius:10px;padding:5px 8px;min-width:0;font-size:13px;color:#f4f6f9}.actions,.controls{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:10px 0}.good,.blue{background:#2461e5;border-color:#2461e5;color:#fff}.bad{background:#d62839;border-color:#d62839;color:#fff}#status{text-align:center;color:#8993a3;font-weight:700;min-height:24px}#score{font-size:17px;color:#fff}
 </style></head><body>
 <header><h1>🏀 Ari's NBA Cards</h1><div id="score">🔥 0</div></header><div id="tabs"></div><main>
-<div class="card"><div id="photo" class="photo missing">🏀</div><div class="body"><div id="rank" class="rank"></div><div id="name" class="name"></div><div id="team" class="team"></div><div id="number" class="number"></div><div id="facts" class="facts"></div><div id="trophies" class="trophies"></div><div id="draft" class="facts"></div></div></div>
+<div class="card"><div id="photo" class="photo missing">🏀</div><div class="body"><div id="rank" class="rank"></div><div id="name" class="name"></div><div id="team" class="team"></div><div id="number" class="number"></div><div id="facts" class="facts"></div><div id="trophies" class="trophies"></div><div id="draft" class="facts"></div><div id="biography" class="biography"></div></div></div>
 <div class="controls"><button id="prev">←</button><button id="reveal" class="blue">Reveal</button><button id="next">→</button></div><div class="actions"><button id="wrong" class="bad">✗ Didn't know</button><button id="right" class="good">✓ Got it!</button></div><div id="status"></div><div class="actions"><button id="learn">Learn</button><button id="guess">Guess</button><button id="shuffle">🔀 Shuffle</button></div></main>
 <script>
 let DATA=[],deck=[],index=0,revealed=false,mode='learn',streak=Number(localStorage.getItem('ariStreak')||0);
 const $=id=>document.getElementById(id);
 function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function formatDate(value){if(!value)return "";const parts=String(value).split("-").map(Number);if(parts.length!==3||parts.some(n=>!Number.isFinite(n)))return value;return new Date(Date.UTC(parts[0],parts[1]-1,parts[2])).toLocaleDateString("en-AU",{day:"numeric",month:"short",year:"numeric",timeZone:"UTC"})}
 function render(){
  const p=deck[index];if(!p)return;const retired=p.status==='retired',showDetails=mode==='guess'||revealed,showImage=mode==='guess'||revealed,showName=mode==='learn'||revealed;
  $('rank').textContent=showDetails?p.category+(p.rank?' · #'+p.rank:''):'';
@@ -25,6 +26,8 @@ function render(){
  $('number').textContent=showDetails?[p.position,(!retired&&p.number!==null&&p.number!==undefined&&p.number!=='')?'#'+p.number:''].filter(Boolean).join(' · '):'';
  $('facts').innerHTML=showDetails?(retired?`Age ${p.deathYear?'Deceased':'—'} · ${p.careerStart??'—'}–${p.careerEnd??'—'}`:`Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`):'';
  $('draft').innerHTML=showDetails?`Drafted ${p.draftYear??'—'}${p.draftPick!==null&&p.draftPick!==undefined&&p.draftPick!==''?' · #'+p.draftPick:''}${p.draftedBy?' · '+esc(p.draftedBy):''}`:'';
+ const bio=[];if(p.birthDate)bio.push(`<div class="bio-line">🎂 Born: ${esc(formatDate(p.birthDate))}</div>`);if(p.birthplace)bio.push(`<div class="bio-line">📍 Born in ${esc(p.birthplace)}</div>`);if(p.deathDate)bio.push(`<div class="bio-line">🕊️ Died: ${esc(formatDate(p.deathDate))}</div>`);
+ $('biography').innerHTML=showDetails?bio.join(''):'';
  const a=p.awards||{};let t='';if(showDetails&&a.championships)t+=`<div class="award">🏆 <b>${a.championships}× Champion</b></div>`;if(showDetails&&a.mvp)t+=`<div class="award">🏆 <b>${a.mvp}× MVP</b></div>`;if(showDetails&&a.finalsMvp)t+=`<div class="award">🏆 <b>${a.finalsMvp}× Finals MVP</b></div>`;if(showDetails&&a.dpoy)t+=`<div class="award">🛡️ <b>${a.dpoy}× DPOY</b></div>`;
  $('trophies').innerHTML=t;$('status').textContent=(index+1)+' / '+deck.length;$('score').textContent='🔥 '+streak;loadPhoto(p,showImage)
 }
