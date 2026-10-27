@@ -8,7 +8,7 @@ h1{font-size:20px;margin:0;color:#fff}button{border:1px solid #2b303a;border-rad
 #tabs{display:flex;gap:7px;overflow-x:auto;padding:10px 12px;background:#0b0e13}#tabs button.active{background:#2461e5;border-color:#2461e5;color:#fff}
 main{max-width:620px;margin:auto;padding:8px 14px 30px}.card{background:#10141c;border:1px solid #272d38;border-radius:24px;overflow:hidden;box-shadow:0 8px 30px #0008}
 .photo{width:60%;max-width:320px;margin:0 auto;aspect-ratio:3/4;background:#05070a;overflow:hidden;border-radius:14px}.photo img{display:block;width:100%;height:100%;object-fit:contain}.photo.missing{display:flex;align-items:center;justify-content:center;color:#6f7785;font-size:60px}
-.body{padding:13px 16px 16px;text-align:center}.rank{font-size:12px;color:#8e98a8;font-weight:800;text-transform:uppercase;letter-spacing:.08em}.name{font-size:34px;line-height:1.05;font-weight:900;margin:7px 0;color:#fff}.team{font-size:19px;font-weight:700;color:#e7eaf0}.number{font-size:15px;color:#aab2c0}.facts{margin:10px 0;font-size:15px;line-height:1.4;color:#c5cbd5}.biography{margin:14px auto 0;padding:12px 14px;background:#0b0f16;border:1px solid #30394a;border-radius:14px;text-align:left;max-width:440px;color:#e3e8f0}.biography:empty{display:none}.bio-heading{font-size:11px;font-weight:900;letter-spacing:.12em;color:#8eafff;margin-bottom:8px}.bio-line{font-size:14px;line-height:1.45;padding:5px 0;border-top:1px solid #202734}.bio-line:first-of-type{border-top:0}.bio-label{display:inline-block;min-width:100px;color:#9da9bc;font-weight:700}.bio-note{margin-top:8px;font-size:11px;line-height:1.4;color:#7f8a9d}
+.body{padding:13px 16px 16px;text-align:center}.rank{font-size:12px;color:#8e98a8;font-weight:800;text-transform:uppercase;letter-spacing:.08em}.name{font-size:34px;line-height:1.05;font-weight:900;margin:7px 0;color:#fff}.team{font-size:19px;font-weight:700;color:#e7eaf0}.number{font-size:15px;color:#aab2c0}.facts{margin:10px 0;font-size:15px;line-height:1.4;color:#c5cbd5}.biography{margin:10px auto 0;max-width:100%;color:#aeb8c8;font-size:13px;line-height:1.35;text-align:center}.biography:empty{display:none}
 .trophies{display:flex;justify-content:center;align-items:center;gap:8px;flex-wrap:nowrap;overflow:hidden;margin:10px 0;white-space:nowrap}.award{background:#181d27;border:1px solid #303745;border-radius:10px;padding:5px 8px;min-width:0;font-size:13px;color:#f4f6f9}.actions,.controls{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:10px 0}.good,.blue{background:#2461e5;border-color:#2461e5;color:#fff}.bad{background:#d62839;border-color:#d62839;color:#fff}#status{text-align:center;color:#8993a3;font-weight:700;min-height:24px}#score{font-size:17px;color:#fff}
 </style></head><body>
 <header><h1>🏀 Ari's NBA Cards</h1><div id="score">🔥 0</div></header><div id="tabs"></div><main>
@@ -26,13 +26,24 @@ function render(){
  $('number').textContent=showDetails?[p.position,(!retired&&p.number!==null&&p.number!==undefined&&p.number!=='')?'#'+p.number:''].filter(Boolean).join(' · '):'';
  $('facts').innerHTML=showDetails?(retired?`Age ${p.deathYear?'Deceased':'—'} · ${p.careerStart??'—'}–${p.careerEnd??'—'}`:`Age ${p.age??'—'} · ${p.seasons??'—'} NBA seasons`):'';
  $('draft').innerHTML=showDetails?`Drafted ${p.draftYear??'—'}${p.draftPick!==null&&p.draftPick!==undefined&&p.draftPick!==''?' · #'+p.draftPick:''}${p.draftedBy?' · '+esc(p.draftedBy):''}`:'';
+ const flag=code=>{if(!code||String(code).length!==2)return '';return String.fromCodePoint(...[...code.toUpperCase()].map(c=>127397+c.charCodeAt(0)))};
+ function birthplaceLabel(p){
+   if(!p.birthplace)return '';
+   const bits=String(p.birthplace).split(',').map(s=>s.trim()).filter(Boolean);
+   const countryAliases={ 'United States':['United States','USA','US','United States of America'], 'The Bahamas':['The Bahamas','Bahamas'], 'Türkiye':['Türkiye','Turkey'], 'United Kingdom':['United Kingdom','UK','Great Britain'], 'Bosnia and Herzegovina':['Bosnia and Herzegovina'] };
+   const country=p.birthCountry||''; const aliases=countryAliases[country]||[country];
+   if(bits.length>1 && aliases.some(a=>bits[bits.length-1].toLowerCase()===a.toLowerCase()))bits.pop();
+   let place=bits.join(', ');
+   // Standardise common US country suffixes if the birthplace source uses them.
+   place=place.replace(/,\s*(USA|US|United States of America)$/i,'');
+   return `${flag(p.birthCountryCode)} ${esc(place)}`.trim();
+ }
  const bio=[];
- if(p.birthDate)bio.push(`<div class="bio-line"><span class="bio-label">🎂 Born</span> ${esc(formatDate(p.birthDate))}</div>`);
- if(p.birthplace)bio.push(`<div class="bio-line"><span class="bio-label">📍 Birthplace</span> ${esc(p.birthplace)}</div>`);
- if(p.birthCountry)bio.push(`<div class="bio-line"><span class="bio-label">🌍 Birth country</span> ${esc(p.birthCountry)}</div>`);
- if(p.representedCountry)bio.push(`<div class="bio-line"><span class="bio-label">🏳️ Represents</span> ${esc(p.representedCountry)}</div>`);
- if(p.deathDate)bio.push(`<div class="bio-line"><span class="bio-label">🕊️ Died</span> ${esc(formatDate(p.deathDate))}</div>`);
- $('biography').innerHTML=showDetails?`<div class="bio-heading">PLAYER BIOGRAPHY</div>${bio.length?bio.join(''):'<div class="bio-line">Biographical details not available in the current data.</div>'}<div class="bio-note">Birth country and international representation are different; representation is shown only where the supplied audit explicitly records it.</div>`:'';
+ const birthplace=birthplaceLabel(p);
+ if(birthplace)bio.push(birthplace);
+ if(p.representedCountry && p.representedCountryCode && p.representedCountryCode!==p.birthCountryCode)bio.push(`(represents ${flag(p.representedCountryCode)} ${esc(p.representedCountry)})`);
+ if(p.deathDate)bio.push(`· Died ${esc(formatDate(p.deathDate))}`);
+ $('biography').innerHTML=showDetails?bio.join(' '):'';
  const a=p.awards||{};let t='';if(showDetails&&a.championships)t+=`<div class="award">🏆 <b>${a.championships}× Champion</b></div>`;if(showDetails&&a.mvp)t+=`<div class="award">🏆 <b>${a.mvp}× MVP</b></div>`;if(showDetails&&a.finalsMvp)t+=`<div class="award">🏆 <b>${a.finalsMvp}× Finals MVP</b></div>`;if(showDetails&&a.dpoy)t+=`<div class="award">🛡️ <b>${a.dpoy}× DPOY</b></div>`;
  $('trophies').innerHTML=t;$('status').textContent=(index+1)+' / '+deck.length;$('score').textContent='🔥 '+streak;loadPhoto(p,showImage)
 }

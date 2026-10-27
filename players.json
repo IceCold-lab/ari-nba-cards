@@ -29,7 +29,9 @@
     "deathDate": null,
     "birthCountryCode": "RS",
     "birthplace": "Sombor, Serbia",
-    "birthCountry": "Serbia"
+    "birthCountry": "Serbia",
+    "representedCountry": "Serbia",
+    "representedCountryCode": "RS"
   },
   {
     "id": "victor-wembanyama",
@@ -62,7 +64,9 @@
     "deathDate": null,
     "birthCountryCode": "FR",
     "birthplace": "Le Chesnay, France",
-    "birthCountry": "France"
+    "birthCountry": "France",
+    "representedCountry": "France",
+    "representedCountryCode": "FR"
   },
   {
     "id": "shai-gilgeous-alexander",
@@ -94,7 +98,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": "Toronto, Ontario, Canada",
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "luka-doncic",
@@ -126,7 +132,9 @@
     "deathDate": null,
     "birthCountryCode": "SI",
     "birthplace": "Ljubljana, Slovenia",
-    "birthCountry": "Slovenia"
+    "birthCountry": "Slovenia",
+    "representedCountry": "Slovenia",
+    "representedCountryCode": "SI"
   },
   {
     "id": "cade-cunningham",
@@ -158,7 +166,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jayson-tatum",
@@ -190,7 +200,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "giannis-antetokounmpo",
@@ -223,7 +235,9 @@
     "deathDate": null,
     "birthCountryCode": "GR",
     "birthplace": "Athens, Greece",
-    "birthCountry": "Greece"
+    "birthCountry": "Greece",
+    "representedCountry": "Greece",
+    "representedCountryCode": "GR"
   },
   {
     "id": "jalen-johnson",
@@ -255,7 +269,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "anthony-edwards",
@@ -287,7 +303,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "tyrese-maxey",
@@ -319,7 +337,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "tyrese-haliburton",
@@ -351,7 +371,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "cooper-flagg",
@@ -383,7 +405,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "scottie-barnes",
@@ -415,7 +439,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "donovan-mitchell",
@@ -447,7 +473,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kevin-durant",
@@ -479,7 +507,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "stephen-curry",
@@ -511,7 +541,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "karl-anthony-towns",
@@ -543,7 +575,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": "Dominican Republic",
+    "representedCountryCode": "DO"
   },
   {
     "id": "trae-young",
@@ -575,7 +609,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "alperen-sengun",
@@ -607,7 +643,9 @@
     "deathDate": null,
     "birthCountryCode": "TR",
     "birthplace": "Giresun, Turkey",
-    "birthCountry": "Türkiye"
+    "birthCountry": "Türkiye",
+    "representedCountry": "Türkiye",
+    "representedCountryCode": "TR"
   },
   {
     "id": "austin-reaves",
@@ -639,7 +677,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "james-harden",
@@ -671,7 +711,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "chet-holmgren",
@@ -703,7 +745,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "lamelo-ball",
@@ -735,7 +779,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "amen-thompson",
@@ -767,7 +813,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "San Leandro, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "josh-giddey",
@@ -799,7 +847,9 @@
     "deathDate": null,
     "birthCountryCode": "AU",
     "birthplace": "Melbourne, Victoria, Australia",
-    "birthCountry": "Australia"
+    "birthCountry": "Australia",
+    "representedCountry": "Australia",
+    "representedCountryCode": "AU"
   },
   {
     "id": "jamal-murray",
@@ -831,7 +881,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": "Kitchener, Ontario, Canada",
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "anthony-davis",
@@ -863,7 +915,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "devin-booker",
@@ -895,7 +949,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "trey-murphy-iii",
@@ -927,7 +983,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "evan-mobley",
@@ -960,7 +1018,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jalen-brunson",
@@ -992,7 +1052,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "domantas-sabonis",
@@ -1024,7 +1086,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Portland, Oregon",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": "Lithuania",
+    "representedCountryCode": "LT"
   },
   {
     "id": "lauri-markkanen",
@@ -1056,7 +1120,9 @@
     "deathDate": null,
     "birthCountryCode": "FI",
     "birthplace": "Vantaa, Finland",
-    "birthCountry": "Finland"
+    "birthCountry": "Finland",
+    "representedCountry": "Finland",
+    "representedCountryCode": "FI"
   },
   {
     "id": "kawhi-leonard",
@@ -1089,7 +1155,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Los Angeles, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "bam-adebayo",
@@ -1121,7 +1189,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Newark, New Jersey, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "deni-avdija",
@@ -1153,7 +1223,9 @@
     "deathDate": null,
     "birthCountryCode": "IL",
     "birthplace": "Beit Zera, Israel",
-    "birthCountry": "Israel"
+    "birthCountry": "Israel",
+    "representedCountry": "Israel",
+    "representedCountryCode": "IL"
   },
   {
     "id": "jalen-williams",
@@ -1185,7 +1257,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Denver, Colorado, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "brandon-miller",
@@ -1217,7 +1291,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Antioch, Tennessee, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "walker-kessler",
@@ -1249,7 +1325,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Atlanta, Georgia, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "derrick-white",
@@ -1281,7 +1359,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Parker, Colorado, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jaren-jackson-jr",
@@ -1314,7 +1394,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kon-knueppel",
@@ -1346,7 +1428,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Milwaukee, Wisconsin, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jaylen-brown",
@@ -1378,7 +1462,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jalen-duren",
@@ -1410,7 +1496,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "keyonte-george",
@@ -1442,7 +1530,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Lewisville, Texas, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "nickeil-alexander-walker",
@@ -1474,7 +1564,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": "Toronto, Ontario, Canada",
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "darius-garland",
@@ -1506,7 +1598,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Gary, Indiana, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kyrie-irving",
@@ -1538,7 +1632,9 @@
     "deathDate": null,
     "birthCountryCode": "AU",
     "birthplace": "Melbourne, Australia",
-    "birthCountry": "Australia"
+    "birthCountry": "Australia",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
   },
   {
     "id": "paolo-banchero",
@@ -1570,7 +1666,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Seattle, Washington, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
   },
   {
     "id": "desmond-bane",
@@ -1602,7 +1700,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Richmond, Indiana, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "onyeka-okongwu",
@@ -1634,7 +1734,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "lebron-james",
@@ -1666,7 +1768,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Akron, Ohio, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "donovan-clingan",
@@ -1698,7 +1802,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Bristol, Connecticut, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "tyler-herro",
@@ -1730,7 +1836,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Milwaukee, Wisconsin, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "matas-buzelis",
@@ -1762,7 +1870,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Chicago, Illinois, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "dyson-daniels",
@@ -1794,7 +1904,9 @@
     "deathDate": null,
     "birthCountryCode": "AU",
     "birthplace": "Bendigo, Australia",
-    "birthCountry": "Australia"
+    "birthCountry": "Australia",
+    "representedCountry": "Australia",
+    "representedCountryCode": "AU"
   },
   {
     "id": "franz-wagner",
@@ -1826,7 +1938,9 @@
     "deathDate": null,
     "birthCountryCode": "DE",
     "birthplace": "Berlin, Germany",
-    "birthCountry": "Germany"
+    "birthCountry": "Germany",
+    "representedCountry": "Germany",
+    "representedCountryCode": "DE"
   },
   {
     "id": "pascal-siakam",
@@ -1858,7 +1972,9 @@
     "deathDate": null,
     "birthCountryCode": "CM",
     "birthplace": "Douala, Cameroon",
-    "birthCountry": "Cameroon"
+    "birthCountry": "Cameroon",
+    "representedCountry": "Cameroon",
+    "representedCountryCode": "CM"
   },
   {
     "id": "cameron-boozer",
@@ -1890,7 +2006,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Salt Lake City, Utah, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "og-anunoby",
@@ -1922,7 +2040,9 @@
     "deathDate": null,
     "birthCountryCode": "GB",
     "birthplace": "London, United Kingdom",
-    "birthCountry": "United Kingdom"
+    "birthCountry": "United Kingdom",
+    "representedCountry": "Great Britain",
+    "representedCountryCode": "GB"
   },
   {
     "id": "joel-embiid",
@@ -1954,7 +2074,9 @@
     "deathDate": null,
     "birthCountryCode": "CM",
     "birthplace": "Yaoundé, Cameroon",
-    "birthCountry": "Cameroon"
+    "birthCountry": "Cameroon",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
   },
   {
     "id": "dejounte-murray",
@@ -1986,7 +2108,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Seattle, Washington, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ryan-rollins",
@@ -2018,7 +2142,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Detroit, Michigan, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "julius-randle",
@@ -2050,7 +2176,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Dallas, Texas, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "michael-porter-jr",
@@ -2082,7 +2210,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Columbia, Missouri, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kel-el-ware",
@@ -2114,7 +2244,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "North Little Rock, Arkansas, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "alex-sarr",
@@ -2146,7 +2278,9 @@
     "deathDate": null,
     "birthCountryCode": "FR",
     "birthplace": "Bordeaux, France",
-    "birthCountry": "France"
+    "birthCountry": "France",
+    "representedCountry": "France",
+    "representedCountryCode": "FR"
   },
   {
     "id": "stephon-castle",
@@ -2178,7 +2312,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Covington, Georgia, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "zach-edey",
@@ -2210,7 +2346,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": "Toronto, Ontario, Canada",
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "ivica-zubac",
@@ -2242,7 +2380,9 @@
     "deathDate": null,
     "birthCountryCode": "BA",
     "birthplace": "Mostar, Bosnia and Herzegovina",
-    "birthCountry": "Bosnia and Herzegovina"
+    "birthCountry": "Bosnia and Herzegovina",
+    "representedCountry": "Croatia",
+    "representedCountryCode": "HR"
   },
   {
     "id": "de-aaron-fox",
@@ -2274,7 +2414,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "New Orleans, Louisiana, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "naz-reid",
@@ -2306,7 +2448,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Asbury Park, New Jersey, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "mikal-bridges",
@@ -2338,7 +2482,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Philadelphia, Pennsylvania, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ja-morant",
@@ -2370,7 +2516,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Dalzell, South Carolina, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jaden-mcdaniels",
@@ -2402,7 +2550,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Federal Way, Washington, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "rudy-gobert",
@@ -2435,7 +2585,9 @@
     "deathDate": null,
     "birthCountryCode": "FR",
     "birthplace": "Saint-Quentin, France",
-    "birthCountry": "France"
+    "birthCountry": "France",
+    "representedCountry": "France",
+    "representedCountryCode": "FR"
   },
   {
     "id": "vj-edgecombe",
@@ -2467,7 +2619,9 @@
     "deathDate": null,
     "birthCountryCode": "BS",
     "birthplace": "the Bahamas",
-    "birthCountry": "The Bahamas"
+    "birthCountry": "The Bahamas",
+    "representedCountry": "The Bahamas",
+    "representedCountryCode": "BS"
   },
   {
     "id": "immanuel-quickley",
@@ -2499,7 +2653,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Havre de Grace, Maryland, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "coby-white",
@@ -2531,7 +2687,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Goldsboro, North Carolina, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "brandon-ingram",
@@ -2563,7 +2721,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Kinston, North Carolina, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "paul-george",
@@ -2595,7 +2755,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Palmdale, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "dylan-harper",
@@ -2627,7 +2789,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Franklin Lakes, New Jersey, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "zion-williamson",
@@ -2659,7 +2823,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Salisbury, North Carolina, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jarrett-allen",
@@ -2691,7 +2857,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "San Diego, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "payton-pritchard",
@@ -2723,7 +2891,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Tualatin, Oregon, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "damian-lillard",
@@ -2755,7 +2925,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Oakland, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jalen-suggs",
@@ -2787,7 +2959,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "St. Paul, Minnesota, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ausar-thompson",
@@ -2819,7 +2993,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Oakland, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "josh-hart",
@@ -2851,7 +3027,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Silver Spring, Maryland, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "norman-powell",
@@ -2883,7 +3061,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "San Diego, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ty-jerome",
@@ -2915,7 +3095,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "New York City, New York, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "derik-queen",
@@ -2947,7 +3129,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Baltimore, Maryland, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jabari-smith-jr",
@@ -2979,7 +3163,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Fayetteville, Georgia, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "myles-turner",
@@ -3011,7 +3197,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Bedford, Texas, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "andrew-wiggins",
@@ -3043,7 +3231,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": "Toronto, Ontario, Canada",
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "aj-dybantsa",
@@ -3075,7 +3265,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Boston, Massachusetts, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "nic-claxton",
@@ -3107,7 +3299,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Greenville, South Carolina, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "isaiah-hartenstein",
@@ -3139,7 +3333,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Eugene, Oregon, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "day-ron-sharpe",
@@ -3171,7 +3367,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Greenville, North Carolina",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "caleb-wilson",
@@ -3203,7 +3401,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Atlanta, Georgia",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "fred-vanvleet",
@@ -3235,7 +3435,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Rockford, Illinois",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "darryn-peterson",
@@ -3267,7 +3469,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Canton, Ohio",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kevin-porter-jr",
@@ -3299,7 +3503,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Seattle, Washington, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ayo-dosunmu",
@@ -3331,7 +3537,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Chicago, Illinois, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "cedric-coward",
@@ -3363,7 +3571,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Fresno, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kyshawn-george",
@@ -3395,7 +3605,9 @@
     "deathDate": null,
     "birthCountryCode": "CH",
     "birthplace": "Monthey, Switzerland",
-    "birthCountry": "Switzerland"
+    "birthCountry": "Switzerland",
+    "representedCountry": "Switzerland",
+    "representedCountryCode": "CH"
   },
   {
     "id": "cj-mccollum",
@@ -3427,7 +3639,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Canton, Ohio, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "miles-bridges",
@@ -3459,7 +3673,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Flint, Michigan, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "john-collins",
@@ -3491,7 +3707,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Layton, Utah, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ajay-mitchell",
@@ -3523,7 +3741,9 @@
     "deathDate": null,
     "birthCountryCode": "BE",
     "birthplace": "Ans, Belgium",
-    "birthCountry": "Belgium"
+    "birthCountry": "Belgium",
+    "representedCountry": "Belgium",
+    "representedCountryCode": "BE"
   },
   {
     "id": "zach-lavine",
@@ -3555,7 +3775,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Renton, Washington, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "keegan-murray",
@@ -3587,7 +3809,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Cedar Rapids, Iowa, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "reed-sheppard",
@@ -3619,7 +3843,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "neemias-queta",
@@ -3651,7 +3877,9 @@
     "deathDate": null,
     "birthCountryCode": "PT",
     "birthplace": "Lisbon, Portugal",
-    "birthCountry": "Portugal"
+    "birthCountry": "Portugal",
+    "representedCountry": "Portugal",
+    "representedCountryCode": "PT"
   },
   {
     "id": "toumani-camara",
@@ -3683,7 +3911,9 @@
     "deathDate": null,
     "birthCountryCode": "BE",
     "birthplace": "Brussels, Belgium",
-    "birthCountry": "Belgium"
+    "birthCountry": "Belgium",
+    "representedCountry": "Belgium",
+    "representedCountryCode": "BE"
   },
   {
     "id": "peyton-watson",
@@ -3715,7 +3945,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "collin-murray-boyles",
@@ -3747,7 +3979,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jakob-poeltl",
@@ -3779,7 +4013,9 @@
     "deathDate": null,
     "birthCountryCode": "AT",
     "birthplace": "Vienna, Austria",
-    "birthCountry": "Austria"
+    "birthCountry": "Austria",
+    "representedCountry": "Austria",
+    "representedCountryCode": "AT"
   },
   {
     "id": "jalen-green",
@@ -3811,7 +4047,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "mark-williams",
@@ -3843,7 +4081,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Virginia Beach, Virginia",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "cason-wallace",
@@ -3875,7 +4115,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "darius-acuff-jr",
@@ -3907,7 +4149,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "rj-barrett",
@@ -3939,7 +4183,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": "Toronto, Canada",
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "brandin-podziemski",
@@ -3971,7 +4217,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Greenfield, Wisconsin, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jusuf-nurkic",
@@ -4003,7 +4251,9 @@
     "deathDate": null,
     "birthCountryCode": "BA",
     "birthplace": "Tuzla, Bosnia and Herzegovina",
-    "birthCountry": "Bosnia and Herzegovina"
+    "birthCountry": "Bosnia and Herzegovina",
+    "representedCountry": "Bosnia and Herzegovina",
+    "representedCountryCode": "BA"
   },
   {
     "id": "maxime-raynaud",
@@ -4035,7 +4285,9 @@
     "deathDate": null,
     "birthCountryCode": "FR",
     "birthplace": null,
-    "birthCountry": "France"
+    "birthCountry": "France",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kristaps-porzingis",
@@ -4067,7 +4319,9 @@
     "deathDate": null,
     "birthCountryCode": "LV",
     "birthplace": null,
-    "birthCountry": "Latvia"
+    "birthCountry": "Latvia",
+    "representedCountry": "Latvia",
+    "representedCountryCode": "LV"
   },
   {
     "id": "anthony-black",
@@ -4099,7 +4353,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jeremiah-fears",
@@ -4131,7 +4387,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "sandro-mamukelashvili",
@@ -4164,7 +4422,8 @@
     "birthCountryCode": "US",
     "birthplace": "New York City, USA",
     "birthCountry": "United States",
-    "representedCountry": "Georgia"
+    "representedCountry": "Georgia",
+    "representedCountryCode": "GE"
   },
   {
     "id": "davion-mitchell",
@@ -4196,7 +4455,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "egor-demin",
@@ -4228,7 +4489,9 @@
     "deathDate": null,
     "birthCountryCode": "RU",
     "birthplace": "Moscow, Russia",
-    "birthCountry": "Russia"
+    "birthCountry": "Russia",
+    "representedCountry": "Russia",
+    "representedCountryCode": "RU"
   },
   {
     "id": "andrew-nembhard",
@@ -4260,7 +4523,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": null,
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "p-j-washington",
@@ -4292,7 +4557,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Louisville, Kentucky, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "collin-gillespie",
@@ -4324,7 +4591,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Philadelphia, Pennsylvania, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "quentin-grimes",
@@ -4356,7 +4625,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Houston, Texas, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "saddiq-bey",
@@ -4388,7 +4659,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Charlotte, North Carolina, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jaime-jaquez-jr",
@@ -4420,7 +4693,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Irvine, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "tari-eason",
@@ -4452,7 +4727,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Birmingham, Alabama, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "demar-derozan",
@@ -4484,7 +4761,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Compton, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "yaxel-lendeborg",
@@ -4516,7 +4795,9 @@
     "deathDate": null,
     "birthCountryCode": "PR",
     "birthplace": "Arecibo, Puerto Rico",
-    "birthCountry": "Puerto Rico"
+    "birthCountry": "Puerto Rico",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "christian-braun",
@@ -4548,7 +4829,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Burlington, Kansas, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "ace-bailey",
@@ -4580,7 +4863,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "aaron-gordon",
@@ -4612,7 +4897,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "San Jose, California",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "devin-vassell",
@@ -4644,7 +4931,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "cameron-johnson",
@@ -4676,7 +4965,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "bennedict-mathurin",
@@ -4708,7 +4999,9 @@
     "deathDate": null,
     "birthCountryCode": "CA",
     "birthplace": null,
-    "birthCountry": "Canada"
+    "birthCountry": "Canada",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jrue-holiday",
@@ -4740,7 +5033,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "grayson-allen",
@@ -4772,7 +5067,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Jacksonville, Florida",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "mikel-brown-jr",
@@ -4804,7 +5101,9 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Orlando, Florida",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "michael-jordan",
@@ -4836,12 +5135,48 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Brooklyn, New York",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "jordan-clarkson",
+    "name": "Jordan Clarkson",
+    "abbr": "NYK",
+    "rank": 2,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "draftYear": 2014,
+    "draftedBy": "Washington Wizards",
+    "number": "00",
+    "age": 34,
+    "seasons": 12,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jordan-clarkson.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks",
+    "draftPick": 46,
+    "birthDate": "1992-06-07",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Tampa, Florida",
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kareem-abdul-jabbar",
     "name": "Kareem Abdul-Jabbar",
-    "rank": 2,
+    "rank": 3,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4867,12 +5202,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "New York City",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "bill-russell",
     "name": "Bill Russell",
-    "rank": 3,
+    "rank": 4,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4898,12 +5235,14 @@
     "deathDate": "2022-07-31",
     "birthCountryCode": "US",
     "birthplace": "Monroe, Louisiana",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "wilt-chamberlain",
     "name": "Wilt Chamberlain",
-    "rank": 4,
+    "rank": 5,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -4929,12 +5268,14 @@
     "deathDate": "1999-10-12",
     "birthCountryCode": "US",
     "birthplace": "Philadelphia, Pennsylvania",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "magic-johnson",
     "name": "Magic Johnson",
-    "rank": 5,
+    "rank": 6,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -4960,12 +5301,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Lansing, Michigan",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "larry-bird",
     "name": "Larry Bird",
-    "rank": 6,
+    "rank": 7,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -4991,12 +5334,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "West Baden, Indiana",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "tim-duncan",
     "name": "Tim Duncan",
-    "rank": 7,
+    "rank": 8,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF/C",
@@ -5022,12 +5367,14 @@
     "deathDate": null,
     "birthCountryCode": "VI",
     "birthplace": null,
-    "birthCountry": "U.S. Virgin Islands"
+    "birthCountry": "U.S. Virgin Islands",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
   },
   {
     "id": "shaquille-o-neal",
     "name": "Shaquille O'Neal",
-    "rank": 8,
+    "rank": 9,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -5053,12 +5400,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Newark, New Jersey",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kobe-bryant",
     "name": "Kobe Bryant",
-    "rank": 9,
+    "rank": 10,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -5084,12 +5433,14 @@
     "deathDate": "2020-01-26",
     "birthCountryCode": "US",
     "birthplace": "Philadelphia, Pennsylvania",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "hakeem-olajuwon",
     "name": "Hakeem Olajuwon",
-    "rank": 10,
+    "rank": 11,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -5116,12 +5467,48 @@
     "deathDate": null,
     "birthCountryCode": "NG",
     "birthplace": "Lagos, Nigeria",
-    "birthCountry": "Nigeria"
+    "birthCountry": "Nigeria",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
+  },
+  {
+    "id": "jose-alvarado",
+    "name": "Jose Alvarado",
+    "abbr": "NYK",
+    "rank": 12,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PG/SG",
+    "draftYear": 2021,
+    "draftedBy": "Undrafted",
+    "number": "5",
+    "age": 28,
+    "seasons": 5,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jose-alvarado.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks",
+    "draftPick": null,
+    "birthDate": "1998-04-12",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Brooklyn, New York",
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "oscar-robertson",
     "name": "Oscar Robertson",
-    "rank": 11,
+    "rank": 13,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5147,12 +5534,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Charlotte, Tennessee, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jerry-west",
     "name": "Jerry West",
-    "rank": 12,
+    "rank": 14,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG/SG",
@@ -5178,12 +5567,48 @@
     "deathDate": "2024-06-12",
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "landry-shamet",
+    "name": "Landry Shamet",
+    "abbr": "NYK",
+    "rank": 15,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG/SF",
+    "draftYear": 2018,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "44",
+    "age": 29,
+    "seasons": 8,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/landry-shamet.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "New York Knicks",
+    "draftPick": 26,
+    "birthDate": "1997-03-13",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Kansas City, Missouri, USA",
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "julius-erving",
     "name": "Julius Erving",
-    "rank": 13,
+    "rank": 16,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -5209,12 +5634,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "moses-malone",
     "name": "Moses Malone",
-    "rank": 14,
+    "rank": 17,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -5241,12 +5668,14 @@
     "deathDate": "2015-09-13",
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "karl-malone",
     "name": "Karl Malone",
-    "rank": 15,
+    "rank": 18,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -5272,12 +5701,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "john-stockton",
     "name": "John Stockton",
-    "rank": 16,
+    "rank": 19,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5303,12 +5734,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Spokane, Washington, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "charles-barkley",
     "name": "Charles Barkley",
-    "rank": 17,
+    "rank": 20,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -5334,12 +5767,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Leeds, Alabama, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "david-robinson",
     "name": "David Robinson",
-    "rank": 18,
+    "rank": 21,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -5366,12 +5801,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kevin-garnett",
     "name": "Kevin Garnett",
-    "rank": 19,
+    "rank": 22,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -5398,12 +5835,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "dirk-nowitzki",
     "name": "Dirk Nowitzki",
-    "rank": 20,
+    "rank": 23,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -5429,12 +5868,82 @@
     "deathDate": null,
     "birthCountryCode": "DE",
     "birthplace": "Würzburg, West Germany",
-    "birthCountry": "Germany"
+    "birthCountry": "Germany",
+    "representedCountry": "Germany",
+    "representedCountryCode": "DE"
+  },
+  {
+    "id": "jared-mccain",
+    "name": "Jared McCain",
+    "abbr": "OKC",
+    "rank": 24,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": 2024,
+    "draftedBy": "Philadelphia 76ers",
+    "number": "3",
+    "age": 22,
+    "seasons": 2,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jared-mccain.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 16,
+    "birthDate": "2004-02-20",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Sacramento, California, USA",
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "alex-caruso",
+    "name": "Alex Caruso",
+    "abbr": "OKC",
+    "rank": 25,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SG",
+    "draftYear": 2016,
+    "draftedBy": "Undrafted",
+    "number": "9",
+    "age": 32,
+    "seasons": 9,
+    "awards": {
+      "mvp": 0,
+      "championships": 2,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/alex-caruso.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": null,
+    "birthDate": "1994-02-28",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "elgin-baylor",
     "name": "Elgin Baylor",
-    "rank": 21,
+    "rank": 26,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -5460,12 +5969,14 @@
     "deathDate": "2021-03-22",
     "birthCountryCode": "US",
     "birthplace": "Washington, DC",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "bob-pettit",
     "name": "Bob Pettit",
-    "rank": 22,
+    "rank": 27,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -5491,12 +6002,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Baton Rouge, Louisiana",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "rick-barry",
     "name": "Rick Barry",
-    "rank": 23,
+    "rank": 28,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -5522,12 +6035,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Elizabeth, New Jersey",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "isiah-thomas",
     "name": "Isiah Thomas",
-    "rank": 24,
+    "rank": 29,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5553,12 +6068,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Chicago, Illinois",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "john-havlicek",
     "name": "John Havlicek",
-    "rank": 25,
+    "rank": 30,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -5584,12 +6101,14 @@
     "deathDate": "2019-04-25",
     "birthCountryCode": "US",
     "birthplace": "Martins Ferry, Ohio",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "scottie-pippen",
     "name": "Scottie Pippen",
-    "rank": 26,
+    "rank": 31,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -5615,12 +6134,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Hamburg, Arkansas",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "dwyane-wade",
     "name": "Dwyane Wade",
-    "rank": 27,
+    "rank": 32,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -5646,12 +6167,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Chicago, Illinois",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "chris-paul",
     "name": "Chris Paul",
-    "rank": 28,
+    "rank": 33,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5677,12 +6200,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "steve-nash",
     "name": "Steve Nash",
-    "rank": 29,
+    "rank": 34,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5708,12 +6233,14 @@
     "deathDate": null,
     "birthCountryCode": "ZA",
     "birthplace": "Johannesburg, South Africa",
-    "birthCountry": "South Africa"
+    "birthCountry": "South Africa",
+    "representedCountry": "Canada",
+    "representedCountryCode": "CA"
   },
   {
     "id": "allen-iverson",
     "name": "Allen Iverson",
-    "rank": 30,
+    "rank": 35,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5739,12 +6266,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "patrick-ewing",
     "name": "Patrick Ewing",
-    "rank": 31,
+    "rank": 36,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -5770,12 +6299,14 @@
     "deathDate": null,
     "birthCountryCode": "JM",
     "birthplace": "Kingston, Jamaica",
-    "birthCountry": "Jamaica"
+    "birthCountry": "Jamaica",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
   },
   {
     "id": "clyde-drexler",
     "name": "Clyde Drexler",
-    "rank": 32,
+    "rank": 37,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -5801,12 +6332,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "jason-kidd",
     "name": "Jason Kidd",
-    "rank": 33,
+    "rank": 38,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5832,12 +6365,48 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "jaylin-williams",
+    "name": "Jaylin Williams",
+    "abbr": "OKC",
+    "rank": 39,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF/C",
+    "draftYear": 2022,
+    "draftedBy": "Oklahoma City Thunder",
+    "number": "6",
+    "age": 24,
+    "seasons": 4,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/jaylin-williams.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "Oklahoma City Thunder",
+    "draftPick": 34,
+    "birthDate": "2002-06-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": "Fort Smith, Arkansas, USA",
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "george-gervin",
     "name": "George Gervin",
-    "rank": 34,
+    "rank": 40,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -5863,12 +6432,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "russell-westbrook",
     "name": "Russell Westbrook",
-    "rank": 35,
+    "rank": 41,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5894,12 +6465,116 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "harrison-barnes",
+    "name": "Harrison Barnes",
+    "abbr": "SAS",
+    "rank": 42,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2012,
+    "draftedBy": "Golden State Warriors",
+    "number": "40",
+    "age": 34,
+    "seasons": 13,
+    "awards": {
+      "mvp": 0,
+      "championships": 1,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/harrison-barnes.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs",
+    "draftPick": 7,
+    "birthDate": "1992-05-30",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "tobias-harris",
+    "name": "Tobias Harris",
+    "abbr": "SAS",
+    "rank": 43,
+    "category": "Current Players",
+    "status": "active",
+    "position": "SF/PF",
+    "draftYear": 2011,
+    "draftedBy": "Charlotte Bobcats",
+    "number": "23",
+    "age": 34,
+    "seasons": 15,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/tobias-harris.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs",
+    "draftPick": 19,
+    "birthDate": "1992-07-15",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
+  },
+  {
+    "id": "julian-champagnie",
+    "name": "Julian Champagnie",
+    "abbr": "SAS",
+    "rank": 44,
+    "category": "Current Players",
+    "status": "active",
+    "position": "PF",
+    "draftYear": 2022,
+    "draftedBy": "Undrafted",
+    "number": "30",
+    "age": 25,
+    "seasons": 4,
+    "awards": {
+      "mvp": 0,
+      "championships": 0,
+      "finalsMvp": 0
+    },
+    "image": {
+      "file": "images/julian-champagnie.jpg",
+      "source": "",
+      "era": "current"
+    },
+    "dataComplete": true,
+    "teamName": "San Antonio Spurs",
+    "draftPick": null,
+    "birthDate": "2001-06-29",
+    "deathDate": null,
+    "birthCountryCode": "US",
+    "birthplace": null,
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "kevin-mchale",
     "name": "Kevin McHale",
-    "rank": 36,
+    "rank": 45,
     "category": "Classic Players",
     "status": "retired",
     "position": "PF",
@@ -5925,12 +6600,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "bill-walton",
     "name": "Bill Walton",
-    "rank": 37,
+    "rank": 46,
     "category": "Classic Players",
     "status": "retired",
     "position": "C",
@@ -5956,12 +6633,14 @@
     "deathDate": "2024-05-27",
     "birthCountryCode": "US",
     "birthplace": null,
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "walt-frazier",
     "name": "Walt Frazier",
-    "rank": 38,
+    "rank": 47,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -5987,12 +6666,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Atlanta, Georgia, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "gary-payton",
     "name": "Gary Payton",
-    "rank": 39,
+    "rank": 48,
     "category": "Classic Players",
     "status": "retired",
     "position": "PG",
@@ -6019,12 +6700,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Oakland, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "reggie-miller",
     "name": "Reggie Miller",
-    "rank": 40,
+    "rank": 49,
     "category": "Classic Players",
     "status": "retired",
     "position": "SG",
@@ -6050,12 +6733,14 @@
     "deathDate": null,
     "birthCountryCode": "US",
     "birthplace": "Riverside, California, USA",
-    "birthCountry": "United States"
+    "birthCountry": "United States",
+    "representedCountry": null,
+    "representedCountryCode": null
   },
   {
     "id": "dominique-wilkins",
     "name": "Dominique Wilkins",
-    "rank": 41,
+    "rank": 50,
     "category": "Classic Players",
     "status": "retired",
     "position": "SF",
@@ -6081,6 +6766,8 @@
     "deathDate": null,
     "birthCountryCode": "FR",
     "birthplace": "Paris, France",
-    "birthCountry": "France"
+    "birthCountry": "France",
+    "representedCountry": "United States",
+    "representedCountryCode": "US"
   }
 ]
